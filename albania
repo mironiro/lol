@@ -63,8 +63,6 @@ http://eu.bestvideostreaming.is/8747/mpegts
 http://eu.bestvideostreaming.is/8737/mpegts
 #EXTINF:-1,Cufo
 http://eu.bestvideostreaming.is/8738/mpegts
-#EXTINF:-1,CUFO
-http://satlok.xyz:8000/ylmz3017/elgl30/86720
 #EXTINF:-1,Tip TV
 http://eu.bestvideostreaming.is/8776/mpegts
 #EXTINF:-1,Tring Kids
@@ -79,42 +77,20 @@ http://stream.atr.ua/lale/live/index.m3u8
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Family HD
 http://eu.bestvideostreaming.is/8754/mpegts
-#EXTINF:-1,FAMILY
-http://satlok.xyz:8000/ylmz3017/elgl30/86693
-#EXTINF:-1,FILM NJE
-http://satlok.xyz:8000/ylmz3017/elgl30/86689
 #EXTINF:-1,Nje HD
 http://eu.bestvideostreaming.is/8730/mpegts
-#EXTINF:-1,FILM AKSION
-http://satlok.xyz:8000/ylmz3017/elgl30/86685
-#EXTINF:-1,FILM HITS
-http://satlok.xyz:8000/ylmz3017/elgl30/86686
-#EXTINF:-1,FILM THRILLER
-http://satlok.xyz:8000/ylmz3017/elgl30/86687
-#EXTINF:-1,FILM AUTOR
-http://satlok.xyz:8000/ylmz3017/elgl30/86688
 #EXTINF:-1,Film Autore
 http://eu.bestvideostreaming.is/8753/mpegts
-#EXTINF:-1,FILM DY
-http://satlok.xyz:8000/ylmz3017/elgl30/86690
 #EXTINF:-1,Fim Komedi
 http://eu.bestvideostreaming.is/8752/mpegts
-#EXTINF:-1,FILM DRAME
-http://satlok.xyz:8000/ylmz3017/elgl30/86692
-#EXTINF:-1,FILM STINET
-http://satlok.xyz:8000/ylmz3017/elgl30/86694
 #EXTINF:-1,T HD
 http://eu.bestvideostreaming.is/8746/mpegts
-#EXTINF:-1,Tring Shqip
-http://s16tv.co:80/freebox_548682/jbasHNZd/86243?checkedby:ahlakid.com
 #EXTINF:-1,Tring Smile
 http://eu.bestvideostreaming.is/8772/mpegts
 #EXTINF:-1,Tring Super
 http://eu.bestvideostreaming.is/8770/mpegts
 #EXTINF:-1,Tring Action	
 http://eu.bestvideostreaming.is/8769/mpegts
-#EXTINF:-1,Al Tring Life
-http://s16tv.co:80/freebox_548682/jbasHNZd/86246?checkedby:ahlakid.com
 #EXTINF:-1,Tring Comedy
 http://eu.bestvideostreaming.is/8767/mpegts
 #EXTINF:-1,Tring Fantasy
@@ -127,18 +103,12 @@ http://eu.bestvideostreaming.is/8774/mpegts
 http://eu.bestvideostreaming.is/6263/mpegts
 #EXTINF:-1,3 Plus
 http://eu.bestvideostreaming.is/8773/mpegts
-#EXTINF:-1,EPISODE
-http://satlok.xyz:8000/ylmz3017/elgl30/86697
 #EXTINF:-1,Exp Shkence
 http://eu.bestvideostreaming.is/8726/mpegts
-#EXTINF:-1,EXPLORER SHKENCE
-http://satlok.xyz:8000/ylmz3017/elgl30/86709
 #EXTINF:-1,Exp Natyre
 http://eu.bestvideostreaming.is/8739/mpegts
 #EXTINF:-1,Exp Histori
 http://eu.bestvideostreaming.is/8729/mpegts
-#EXTINF:-1,EXPLORER HISTORI
-http://satlok.xyz:8000/ylmz3017/elgl30/86711
 #EXTINF:-1,Tring World 
 http://eu.bestvideostreaming.is/8763/mpegts
 #EXTINF:-1,Tring Planet
@@ -157,8 +127,6 @@ http://eu.bestvideostreaming.is/8790/mpegts
 http://eu.bestvideostreaming.is/8750/mpegts
 #EXTINF:-1,Rtk 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,DUKAGJINI
-http://satlok.xyz:8000/ylmz3017/elgl30/86738
 #EXTINF:-1,SDI Service
 http://79.106.48.2:4578/live/rtsh_2mob_p2/playlist.m3u8
 #EXTINF:-1,Rtsh 24
@@ -183,41 +151,5 @@ http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
 http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
 #EXTINF:-1,Rtsh Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
-#EXTINF:-1,En: Cnn
-http://s16tv.co:80/freebox_548682/jbasHNZd/120327?checkedby:iptvcat.com
 #EXTINF:-1,Coronavirus Pandemic
 http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/39308?checkedby:iptvcat.com
-#EXTINF:-1,TRING SPORT NEWS HD
-http://satlok.xyz:8000/ylmz3017/elgl30/86752
-#EXTINF:-1,TRING SPORT 1
-http://satlok.xyz:8000/ylmz3017/elgl30/86753
-#EXTINF:-1,TRING SPORT 2
-http://satlok.xyz:8000/ylmz3017/elgl30/86754
-#EXTINF:-1,TRING SPORT 3
-http://satlok.xyz:8000/ylmz3017/elgl30/86755
-#EXTINF:-1,TRING SPORT 4
-http://satlok.xyz:8000/ylmz3017/elgl30/86756
-#EXTINF:-1,SUPER SPORT 1
-http://satlok.xyz:8000/ylmz3017/elgl30/86757
-#EXTINF:-1,SUPER SPORT 2
-http://satlok.xyz:8000/ylmz3017/elgl30/86758
-#EXTINF:-1,SUPER SPORT 3
-http://satlok.xyz:8000/ylmz3017/elgl30/86759
-#EXTINF:-1,SUPER SPORT 4
-http://satlok.xyz:8000/ylmz3017/elgl30/86760
-#EXTINF:-1,SUPER SPORT 5
-http://satlok.xyz:8000/ylmz3017/elgl30/86761
-#EXTINF:-1,KUJTESA SPORT 1
-http://satlok.xyz:8000/ylmz3017/elgl30/86762
-#EXTINF:-1,KUJTESA SPORT 2
-http://satlok.xyz:8000/ylmz3017/elgl30/86763
-#EXTINF:-1,KUJTESA SPORT 3
-http://satlok.xyz:8000/ylmz3017/elgl30/86764
-#EXTINF:-1,KUJTESA SPORT 4
-http://satlok.xyz:8000/ylmz3017/elgl30/86765
-#EXTINF:-1,ART SPORT 1
-http://satlok.xyz:8000/ylmz3017/elgl30/86766
-#EXTINF:-1,ART SPORT 2
-http://satlok.xyz:8000/ylmz3017/elgl30/86767
-#EXTINF:-1,ART SPORT 3
-http://satlok.xyz:8000/ylmz3017/elgl30/86768
