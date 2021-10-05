@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
-http://us.bestvideostreaming.is/8708/index.m3u8
+http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Channel",Klan TV
 http://eu.bestvideostreaming.is/8704/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Channel",Vizion Plus
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
-http://cdn.ayproviders.xyz:80/Vh7T0kjO2E/PpFMdEWham/97666?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Rtsh 1" tvg-logo="" group-title="Channel",Rtsh 1
 http://79.106.48.2:4578/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Channel",Top News
@@ -69,8 +67,12 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://eu.bestvideostreaming.is/8747/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Channel",Bang Bang
 http://eu.bestvideostreaming.is/8737/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Channel",Bang Bang
+http://bit.ly/kryeziutv_bangbang
 #EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
 http://eu.bestvideostreaming.is/8738/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
+http://bit.ly/kryeziutv_cufo
 #EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
 http://eu.bestvideostreaming.is/8776/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Channel",Tring Tring
@@ -85,6 +87,10 @@ http://stream.atr.ua/lale/live/index.m3u8
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Channel",Boomerang
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tao Tao HD" tvg-logo="" group-title="Channel",Tao Tao HD
+http://bit.ly/kryeziutv_taotaohd
+#EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family HD" tvg-logo="" group-title="Channel",Family HD
 http://eu.bestvideostreaming.is/8754/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Nje HD" tvg-logo="" group-title="Channel",Nje HD
@@ -97,10 +103,16 @@ http://serivcestv.xyz:8080/3143631718254908/2598854265/170404
 http://eu.bestvideostreaming.is/8758/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Channel",Film Aksion
 http://serivcestv.xyz:8080/3143631718254908/2598854265/170410
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion HD" tvg-logo="" group-title="Channel",Film Aksion HD
+http://bit.ly/kryeziutv_aksion
 #EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Channel",Film Autor
 http://eu.bestvideostreaming.is/8753/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Fim Komedi" tvg-logo="" group-title="Channel",Fim Komedi
 http://eu.bestvideostreaming.is/8752/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="Channel",Film Komedi
+http://bit.ly/kryeziutv_komedi
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits HD" tvg-logo="" group-title="Channel",Film Hits HD
+http://bit.ly/kryeziutv_hits
 #EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="" group-title="Channel",T HD
 http://eu.bestvideostreaming.is/8746/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
@@ -133,10 +145,40 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/56.ts
 http://95.107.132.106/out/u/683_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3" tvg-logo="" group-title="Channel",Tring Sport 3
 http://95.107.132.106/out/u/699_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="" group-title="Channel",Super Sport 1 HD
+http://bestott.net:80/56165534481D66A/r96fioyEld/53770?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 4K" tvg-logo="" group-title="Channel",Super Sport 2 4K
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3393?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 4K" tvg-logo="" group-title="Channel",Super Sport 2 4K
+http://bestott.net:80/56165534481D66A/r96fioyEld/53768?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 4K" tvg-logo="" group-title="Channel",Super Sport 3 4K
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3391?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 4K" tvg-logo="" group-title="Channel",Super Sport 4 4K
+http://bestott.net:80/56165534481D66A/r96fioyEld/53764?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="" group-title="Channel",Super Sport 4 HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3390?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5" tvg-logo="" group-title="Channel",Super Sport 5
+http://srcbe.xyz:8000/live/2or2m2n22/22orh22n22/86761.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 4K" tvg-logo="" group-title="Channel",Super Sport 5 4K
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3387?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 4K" tvg-logo="" group-title="Channel",Super Sport 5 4K
+http://bestott.net:80/56165534481D66A/r96fioyEld/150352?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6 4K" tvg-logo="" group-title="Channel",Super Sport 6 4K
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3385?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6 HD" tvg-logo="" group-title="Channel",Super Sport 6 HD
+http://bestott.net:80/56165534481D66A/r96fioyEld/53762?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 7 4K" tvg-logo="" group-title="Channel",Super Sport 7 4K
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3383?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosovo 1 HD" tvg-logo="" group-title="Channel",Super Sport Kosovo 1 HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/236217?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosovo 2 HD" tvg-logo="" group-title="Channel",Super Sport Kosovo 2 HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/236216?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Channel",Jolly HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/75.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drame" tvg-logo="" group-title="Channel",Kanal D Drame
 http://eu.bestvideostreaming.is/6263/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="" group-title="Channel",Big Brother 2
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=1245&deviceUser=rasim&devicePass=chaiiiirrrr&uid=2582&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="Channel",3 Plus
 http://eu.bestvideostreaming.is/8773/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Exp Shkence" tvg-logo="" group-title="Channel",Exp Shkence
@@ -147,10 +189,18 @@ http://eu.bestvideostreaming.is/8739/mpegts
 http://eu.bestvideostreaming.is/8729/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geographics " tvg-logo="" group-title="Channel",Nat Geographics 
 http://eu.bestvideostreaming.is/8725/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
+http://us.bestvideostreaming.is/8792/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Islam" tvg-logo="" group-title="Channel",Rtv Islam
+http://us.bestvideostreaming.is/8714/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi" tvg-logo="" group-title="Channel",Rtv Pendimi
+http://us.bestvideostreaming.is/8786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Mk" tvg-logo="" group-title="Channel",Rtv 21 Mk
 http://eu.bestvideostreaming.is/8790/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Plus" tvg-logo="" group-title="Channel",Rtv 21 Plus
 http://eu.bestvideostreaming.is/8750/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="Mcn TV (Tema)" tvg-logo="" group-title="Channel",Mcn TV (Tema)
+http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
 #EXTINF:-1 tvg-id="" tvg-name="Rtsh Film" tvg-logo="" group-title="Channel",Rtsh Film
 http://79.106.48.2:4578/live/rtsh_film_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtsh Kukesi" tvg-logo="" group-title="Channel",Rtsh Kukesi
@@ -181,3 +231,13 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/50.ts
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/51.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="" group-title="Channel",Canale 5
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="" group-title="Channel",Sport 1
+http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2" tvg-logo="" group-title="Channel",Sport 2
+http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport 3" tvg-logo="" group-title="Channel",Sport 3
+http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport 4" tvg-logo="" group-title="Channel",Sport 4
+http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5" tvg-logo="" group-title="Channel",Sport 5
+http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
