@@ -1,199 +1,183 @@
 #EXTM3U
-#EXTINF:20,TOP CHANNEL
+#EXTINF:-1,Top Channel
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:0,Klan TV
+#EXTINF:-1,Top Channel HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
+#EXTINF:-1,Klan TV
 http://eu.bestvideostreaming.is/8704/mpegts
-#EXTINF:0,Vizion Plus
+#EXTINF:-1,Vizion Plus
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
-#EXTINF:47,Rtsh Sat
+#EXTINF:-1,Rtsh Sat
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:0,Top News
+#EXTINF:-1,Top News
 http://eu.bestvideostreaming.is/10025/mpegts
-#EXTINF:0,News 24
+#EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:0,Abc News
+#EXTINF:-1,Abc News
 http://eu.bestvideostreaming.is/10023/mpegts
-#EXTINF:0,Ora News
+#EXTINF:-1,Ora News
 http://eu.bestvideostreaming.is/8715/mpegts
-#EXTINF:0,Fax News
+#EXTINF:-1,Fax News
 http://eu.bestvideostreaming.is/10022/mpegts
-#EXTINF:0,Report TV
+#EXTINF:-1,Report TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/165.ts
-#EXTINF:51,Mcn TV (Tema)
+#EXTINF:-1,Mcn TV (Tema)
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
-#EXTINF:24,Euronews Albania
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
-#EXTINF:0,Scan Tv
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1065
-#EXTINF:0,Rtv21 
+#EXTINF:-1,Rtv21 
 http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:0,Rtk 1 HD
+#EXTINF:-1,Rtk 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:0,Koha Vision
+#EXTINF:-1,Koha Vision
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:0,Alsat M
+#EXTINF:-1,Alsat M
 http://eu.bestvideostreaming.is/8713/mpegts
-#EXTINF:0,Syri TV
+#EXTINF:-1,Syri TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/86.ts
-#EXTINF:0,Klan Kosova
+#EXTINF:-1,Klan Kosova
 http://eu.bestvideostreaming.is/8706/mpegts
-#EXTINF:0,Klan Plus
+#EXTINF:-1,Klan Plus
 http://eu.bestvideostreaming.is/8720/mpegts
-#EXTINF:0,First Channel
+#EXTINF:-1,First Channel
 http://eu.bestvideostreaming.is/8717/mpegts
-#EXTINF:0,21 Popullore
+#EXTINF:-1,21 Popullore
 http://us.bestvideostreaming.is/8749/playlist.m3u8
-#EXTINF:0,Bbf
+#EXTINF:-1,Bbf
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/112.ts
-#EXTINF:0,Folk Plus
+#EXTINF:-1,Folk Plus
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/87.ts
-#EXTINF:0,Elrodi
+#EXTINF:-1,Elrodi
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/88.ts
-#EXTINF:0,Tirana TV
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/975
-#EXTINF:0,AL: ZICO TV
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/170483
-#EXTINF:0,Dasma TV
+#EXTINF:-1,Dasma TV
 http://eu.bestvideostreaming.is/8793/mpegts
-#EXTINF:0,Turbo Channel
+#EXTINF:-1,Turbo Channel
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/169.ts
-#EXTINF:0,Mtv Kosova
+#EXTINF:-1,Mtv Kosova
 http://eu.bestvideostreaming.is/8853/mpegts
-#EXTINF:0,Rtv 4 Muzike
+#EXTINF:-1,Rtv 4 Muzike
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:0,Click TV
+#EXTINF:-1,Click TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/90.ts
-#EXTINF:0,Syri Blu
+#EXTINF:-1,Syri Blu
 http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
-#EXTINF:0,TV Opoja
+#EXTINF:-1,TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:0,Baby TV
+#EXTINF:-1,Baby TV
 http://eu.bestvideostreaming.is/8747/mpegts
-#EXTINF:0,Bang Bang
+#EXTINF:-1,Bang Bang
 http://eu.bestvideostreaming.is/8737/mpegts
-#EXTINF:0,Cufo
+#EXTINF:-1,Cufo
 http://eu.bestvideostreaming.is/8738/mpegts
-#EXTINF:0,Tip TV
+#EXTINF:-1,Tip TV
 http://eu.bestvideostreaming.is/8776/mpegts
-#EXTINF:0,Tring Tring
+#EXTINF:-1,Tring Tring
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/78.ts
-#EXTINF:0,Tring Kids
+#EXTINF:-1,Tring Kids
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/79.ts
-#EXTINF:0,Rtsh Femije
+#EXTINF:-1,Rtsh Femije
 http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
-#EXTINF:0,Lale
+#EXTINF:-1,Lale
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:0,Cocuk
+#EXTINF:-1,Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0,Boomerang
+#EXTINF:-1,Boomerang
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/151.ts
-#EXTINF:0,Family HD
+#EXTINF:-1,Family HD
 http://eu.bestvideostreaming.is/8754/mpegts
-#EXTINF:0,Nje HD
+#EXTINF:-1,Nje HD
 http://eu.bestvideostreaming.is/8730/mpegts
-#EXTINF:0,Eurofilm
-http://eu.bestvideostreaming.is/8758/mpegts
-#EXTINF:0,Film Aksion
+#EXTINF:-1,Film Aksion
 http://serivcestv.xyz:8080/3143631718254908/2598854265/170410
-#EXTINF:0,Film Autor
+#EXTINF:-1,Film Hits
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3530?checkedby:ahlakid.com
+#EXTINF:-1,Film Autor
 http://eu.bestvideostreaming.is/8753/mpegts
-#EXTINF:0,Fim Komedi
+#EXTINF:-1,Fim Komedi
 http://eu.bestvideostreaming.is/8752/mpegts
-#EXTINF:0,T HD
+#EXTINF:-1,Eurofilm
+http://eu.bestvideostreaming.is/8758/mpegts
+#EXTINF:-1,T HD
 http://eu.bestvideostreaming.is/8746/mpegts
-#EXTINF:0,Tring World
+#EXTINF:-1,Tring World
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/66.ts
-#EXTINF:0,Tring Super
+#EXTINF:-1,Tring Super
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/71.ts
-#EXTINF:0,Tring Action
+#EXTINF:-1,Tring Action
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/69.ts
-#EXTINF:0,Tring Shqip
+#EXTINF:-1,Tring Shqip
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/74.ts
-#EXTINF:0,Tring Planet
+#EXTINF:-1,Tring Planet
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/67.ts
-#EXTINF:0,Tring Life
+#EXTINF:-1,Tring Life
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/73.ts
-#EXTINF:0,Tring International
+#EXTINF:-1,Tring International
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/64.ts
-#EXTINF:0,Tring History
+#EXTINF:-1,Tring History
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/68.ts
-#EXTINF:0,Tring Fantasy
+#EXTINF:-1,Tring Fantasy
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/72.ts
-#EXTINF:0,Tring Comedy
+#EXTINF:-1,Tring Comedy
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/70.ts
-#EXTINF:0,Smile
+#EXTINF:-1,Smile
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/96.ts
-#EXTINF:0,Muse
+#EXTINF:-1,Muse
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/80.ts
-#EXTINF:0,Living HD
+#EXTINF:-1,Living HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/56.ts
-#EXTINF:0,AL: SUPER SPORT 2
+#EXTINF:-1,Super Sport 2
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/170469
-#EXTINF:0,Tring Sport 1 HD
+#EXTINF:-1,Tring Sport 1 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1001
-#EXTINF:0,Tring Sport 1
+#EXTINF:-1,Tring Sport 1
 http://95.107.132.106/out/u/683_2.m3u8
-#EXTINF:0,Tring Sport 2 HD
+#EXTINF:-1,Tring Sport 2 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1002
-#EXTINF:0,Tring Sport 3 HD
+#EXTINF:-1,Tring Sport 3 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1003
-#EXTINF:0,Tring Sport 3
+#EXTINF:-1,Tring Sport 3
 http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:0,Tring Sport 4 HD
+#EXTINF:-1,Tring Sport 4 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1004
-#EXTINF:0,Jolly HD
+#EXTINF:-1,Jolly HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/75.ts
-#EXTINF:0,Kanal D Drame
+#EXTINF:-1,Kanal D Drame
 http://eu.bestvideostreaming.is/6263/mpegts
-#EXTINF:0,3 Plus
+#EXTINF:-1,3 Plus
 http://eu.bestvideostreaming.is/8773/mpegts
-#EXTINF:0,Exp Shkence
+#EXTINF:-1,Exp Shkence
 http://eu.bestvideostreaming.is/8726/mpegts
-#EXTINF:0,Exp Natyre
+#EXTINF:-1,Exp Natyre
 http://eu.bestvideostreaming.is/8739/mpegts
-#EXTINF:0,Exp Histori
+#EXTINF:-1,Exp Histori
 http://eu.bestvideostreaming.is/8729/mpegts
-#EXTINF:0,Nat Geographics 
+#EXTINF:-1,Nat Geographics 
 http://eu.bestvideostreaming.is/8725/mpegts
-#EXTINF:0,Peace TV
+#EXTINF:-1,Peace TV
 http://us.bestvideostreaming.is/8792/index.m3u8
-#EXTINF:0,Rtv Islam
+#EXTINF:-1,Rtv Islam
 http://us.bestvideostreaming.is/8714/index.m3u8
-#EXTINF:0,Rtv Pendimi
+#EXTINF:-1,Rtv Pendimi
 http://us.bestvideostreaming.is/8786/index.m3u8
-#EXTINF:0,Rtsh Kukesi
+#EXTINF:-1,Rtsh Kukesi
 http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
-#EXTINF:0,Rtsh Shqip
+#EXTINF:-1,Rtsh Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
-#EXTINF:0,Cnn
+#EXTINF:-1,Cnn
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/134.ts
-#EXTINF:0,Bbc
+#EXTINF:-1,Bbc
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/132.ts
-#EXTINF:0,Deutsche Welle
+#EXTINF:-1,Deutsche Welle
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/39.ts
-#EXTINF:0,Zdf
+#EXTINF:-1,Zdf
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/38.ts
-#EXTINF:0,Trt World
+#EXTINF:-1,Trt World
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/25.ts
-#EXTINF:0,Rai Due
+#EXTINF:-1,Rai Uno
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/105.ts?checkedby:ahlakid.com
+#EXTINF:-1,Rai Due
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/104.ts
-#EXTINF:0,Rai Tre
+#EXTINF:-1,Rai Tre
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/50.ts
-#EXTINF:0,Mediaset Italia
+#EXTINF:-1,Mediaset Italia
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/51.ts
-#EXTINF:0,Canale 5
+#EXTINF:-1,Canale 5
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/103.ts
-#EXTINF:0,Sport 1
-http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
-#EXTINF:0,Sport 2
-http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
-#EXTINF:0,Sport 3
-http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
-#EXTINF:0,Sport 4
-http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
-#EXTINF:0,Sport 5
-http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
-#EXTINF:0,Big Brother 1
-http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=1244&deviceUser=rasim&devicePass=chaiiiirrrr&uid=2582
-#EXTINF:0,Big Brother 2
-http://strimer05.vlagor-iptv.com:80/live.ts?channelId=1245&deviceUser=rasim&devicePass=chaiiiirrrr&uid=2582
