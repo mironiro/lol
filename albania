@@ -1,183 +1,207 @@
 #EXTM3U
-#EXTINF:-1,Top Channel
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1,Top Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
-#EXTINF:-1,Klan TV
-http://eu.bestvideostreaming.is/8704/mpegts
-#EXTINF:-1,Vizion Plus
+#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Channel",Klan TV
+http://us.bestvideostreaming.is/8704/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Channel",Vizion Plus
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
-#EXTINF:-1,Rtsh Sat
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sat" tvg-logo="" group-title="Channel",Rtsh Sat
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1,Top News
-http://eu.bestvideostreaming.is/10025/mpegts
-#EXTINF:-1,News 24
+#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Channel",Top News
+http://93.157.62.180/TopNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Channel",Ora News
+http://185.226.88.3:1036/live/backup/backup/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Channel",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1,Abc News
-http://eu.bestvideostreaming.is/10023/mpegts
-#EXTINF:-1,Ora News
-http://eu.bestvideostreaming.is/8715/mpegts
-#EXTINF:-1,Fax News
-http://eu.bestvideostreaming.is/10022/mpegts
-#EXTINF:-1,Report TV
+#EXTINF:-1 tvg-id="" tvg-name="Abc News " tvg-logo="" group-title="Channel",Abc News 
+http://us.bestvideostreaming.is/10023/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
+http://us.bestvideostreaming.is/10022/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="Channel",Report TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/165.ts
-#EXTINF:-1,Mcn TV (Tema)
+#EXTINF:-1 tvg-id="" tvg-name="Mcn TV (Tema)" tvg-logo="" group-title="Channel",Mcn TV (Tema)
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
-#EXTINF:-1,Rtv21 
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="" group-title="Channel",Euronews Albania
+http://185.226.88.3:1036/live/backup/backup/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Scan 24" tvg-logo="" group-title="Channel",Scan 24
+http://edge01eu.ekranet.com/scantv/index.m3u8?e=e67e120a94bf96b8b9e2e8fa28be8808&c=scantv&medium=websocket
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Channel",Alsat M
+http://us.bestvideostreaming.is/8713/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv21 " tvg-logo="" group-title="Channel",Rtv21 
 http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:-1,Rtk 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Rtk 1 HD" tvg-logo="" group-title="Channel",Rtk 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,Koha Vision
+#EXTINF:-1 tvg-id="" tvg-name="Koha Vision" tvg-logo="" group-title="Channel",Koha Vision
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1,Alsat M
-http://eu.bestvideostreaming.is/8713/mpegts
-#EXTINF:-1,Syri TV
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Channel",Syri TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/86.ts
-#EXTINF:-1,Klan Kosova
-http://eu.bestvideostreaming.is/8706/mpegts
-#EXTINF:-1,Klan Plus
-http://eu.bestvideostreaming.is/8720/mpegts
-#EXTINF:-1,First Channel
-http://eu.bestvideostreaming.is/8717/mpegts
-#EXTINF:-1,21 Popullore
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova" tvg-logo="" group-title="Channel",Klan Kosova
+http://us.bestvideostreaming.is/8706/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Channel",Klan Plus
+http://us.bestvideostreaming.is/8720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21 Popullore" tvg-logo="" group-title="Channel",21 Popullore
 http://us.bestvideostreaming.is/8749/playlist.m3u8
-#EXTINF:-1,Bbf
+#EXTINF:-1 tvg-id="" tvg-name="Bbf" tvg-logo="" group-title="Channel",Bbf
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/112.ts
-#EXTINF:-1,Folk Plus
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/87.ts
-#EXTINF:-1,Elrodi
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi" tvg-logo="" group-title="Channel",Elrodi
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/88.ts
-#EXTINF:-1,Dasma TV
-http://eu.bestvideostreaming.is/8793/mpegts
-#EXTINF:-1,Turbo Channel
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel" tvg-logo="" group-title="Channel",Turbo Channel
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/169.ts
-#EXTINF:-1,Mtv Kosova
-http://eu.bestvideostreaming.is/8853/mpegts
-#EXTINF:-1,Rtv 4 Muzike
+#EXTINF:-1 tvg-id="" tvg-name="Rtv 4 Muzike" tvg-logo="" group-title="Channel",Rtv 4 Muzike
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:-1,Click TV
+#EXTINF:-1 tvg-id="" tvg-name="Click TV" tvg-logo="" group-title="Channel",Click TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/90.ts
-#EXTINF:-1,Syri Blu
+#EXTINF:-1 tvg-id="" tvg-name="Syri Blu" tvg-logo="" group-title="Channel",Syri Blu
 http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
-#EXTINF:-1,TV Opoja
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="Channel",TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,Baby TV
-http://eu.bestvideostreaming.is/8747/mpegts
-#EXTINF:-1,Bang Bang
-http://eu.bestvideostreaming.is/8737/mpegts
-#EXTINF:-1,Cufo
-http://eu.bestvideostreaming.is/8738/mpegts
-#EXTINF:-1,Tip TV
-http://eu.bestvideostreaming.is/8776/mpegts
-#EXTINF:-1,Tring Tring
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Channel",Dasma TV
+http://us.bestvideostreaming.is/8793/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rrokum TV" tvg-logo="" group-title="Channel",Rrokum TV
+http://us.bestvideostreaming.is/8849/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Qifteli" tvg-logo="" group-title="Channel",Qifteli
+http://us.bestvideostreaming.is/8735/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Channel",Tring Tring
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/78.ts
-#EXTINF:-1,Tring Kids
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="Channel",Tring Kids
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/79.ts
-#EXTINF:-1,Rtsh Femije
-http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
-#EXTINF:-1,Lale
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang " tvg-logo="" group-title="Channel",Bang Bang 
+http://us.bestvideostreaming.is/8737/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
+http://us.bestvideostreaming.is/8738/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
+http://us.bestvideostreaming.is/8776/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:-1,Cocuk
+#EXTINF:-1 tvg-id="" tvg-name="Cocuk" tvg-logo="" group-title="Channel",Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Channel",Boomerang
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/151.ts
-#EXTINF:-1,Family HD
-http://eu.bestvideostreaming.is/8754/mpegts
-#EXTINF:-1,Nje HD
-http://eu.bestvideostreaming.is/8730/mpegts
-#EXTINF:-1,Film Aksion
-http://serivcestv.xyz:8080/3143631718254908/2598854265/170410
-#EXTINF:-1,Film Hits
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Femije" tvg-logo="" group-title="Channel",Rtsh Femije
+http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Family" tvg-logo="" group-title="Channel",Film Family
+http://us.bestvideostreaming.is/8754/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Channel",Film Aksion
+http://us.bestvideostreaming.is/8742/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Channel",Film Autor
+http://us.bestvideostreaming.is/8753/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje " tvg-logo="" group-title="Channel",Film Nje 
+http://us.bestvideostreaming.is/8730/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy" tvg-logo="" group-title="Channel",Film Dy
+http://us.bestvideostreaming.is/8731/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Dram" tvg-logo="" group-title="Channel",Film Dram
+http://us.bestvideostreaming.is/8727/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Channel",Film Hits
+http://us.bestvideostreaming.is/8755/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Channel",Film Hits
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3530?checkedby:ahlakid.com
-#EXTINF:-1,Film Autor
-http://eu.bestvideostreaming.is/8753/mpegts
-#EXTINF:-1,Fim Komedi
-http://eu.bestvideostreaming.is/8752/mpegts
-#EXTINF:-1,Eurofilm
-http://eu.bestvideostreaming.is/8758/mpegts
-#EXTINF:-1,T HD
-http://eu.bestvideostreaming.is/8746/mpegts
-#EXTINF:-1,Tring World
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi " tvg-logo="" group-title="Channel",Film Komedi 
+http://us.bestvideostreaming.is/8752/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Stine" tvg-logo="" group-title="Channel",Film Stine
+http://us.bestvideostreaming.is/8751/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Channel",Film Thriller
+http://us.bestvideostreaming.is/8757/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro Film" tvg-logo="" group-title="Channel",Euro Film
+http://us.bestvideostreaming.is/8758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="" group-title="Channel",T HD
+http://us.bestvideostreaming.is/8746/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Channel",Kanal D Drama
+http://us.bestvideostreaming.is/6263/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exp Natyr" tvg-logo="" group-title="Channel",Exp Natyr
+http://us.bestvideostreaming.is/8739/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Exp Shkence" tvg-logo="" group-title="Channel",Exp Shkence
+http://us.bestvideostreaming.is/8726/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Exp Histori" tvg-logo="" group-title="Channel",Exp Histori
+http://us.bestvideostreaming.is/8729/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic " tvg-logo="" group-title="Channel",Nat Geographic 
+http://us.bestvideostreaming.is/8725/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/66.ts
-#EXTINF:-1,Tring Super
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/71.ts
-#EXTINF:-1,Tring Action
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Channel",Tring Action
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/69.ts
-#EXTINF:-1,Tring Shqip
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/74.ts
-#EXTINF:-1,Tring Planet
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Channel",Tring Planet
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/67.ts
-#EXTINF:-1,Tring Life
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/73.ts
-#EXTINF:-1,Tring International
+#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/64.ts
-#EXTINF:-1,Tring History
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="Channel",Tring History
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/68.ts
-#EXTINF:-1,Tring Fantasy
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/72.ts
-#EXTINF:-1,Tring Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="Channel",Tring Comedy
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/70.ts
-#EXTINF:-1,Smile
+#EXTINF:-1 tvg-id="" tvg-name="Smile" tvg-logo="" group-title="Channel",Smile
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/96.ts
-#EXTINF:-1,Muse
+#EXTINF:-1 tvg-id="" tvg-name="Muse" tvg-logo="" group-title="Channel",Muse
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/80.ts
-#EXTINF:-1,Living HD
+#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="Channel",Living HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/56.ts
-#EXTINF:-1,Super Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 1 HD" tvg-logo="" group-title="Channel",Supersport 1 HD
+http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 2 HD" tvg-logo="" group-title="Channel",Supersport 2 HD
+http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2" tvg-logo="" group-title="Channel",Super Sport 2
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/170469
-#EXTINF:-1,Tring Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 3 HD" tvg-logo="" group-title="Channel",Supersport 3 HD
+http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 4" tvg-logo="" group-title="Channel",Supersport 4
+http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 5" tvg-logo="" group-title="Channel",Supersport 5
+http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Channel",Tring Sport 1 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1001
-#EXTINF:-1,Tring Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1" tvg-logo="" group-title="Channel",Tring Sport 1
 http://95.107.132.106/out/u/683_2.m3u8
-#EXTINF:-1,Tring Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Channel",Tring Sport 2 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1002
-#EXTINF:-1,Tring Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Channel",Tring Sport 3 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1003
-#EXTINF:-1,Tring Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3" tvg-logo="" group-title="Channel",Tring Sport 3
 http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:-1,Tring Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Channel",Tring Sport 4 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1004
-#EXTINF:-1,Jolly HD
+#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Channel",Jolly HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/75.ts
-#EXTINF:-1,Kanal D Drame
-http://eu.bestvideostreaming.is/6263/mpegts
-#EXTINF:-1,3 Plus
-http://eu.bestvideostreaming.is/8773/mpegts
-#EXTINF:-1,Exp Shkence
-http://eu.bestvideostreaming.is/8726/mpegts
-#EXTINF:-1,Exp Natyre
-http://eu.bestvideostreaming.is/8739/mpegts
-#EXTINF:-1,Exp Histori
-http://eu.bestvideostreaming.is/8729/mpegts
-#EXTINF:-1,Nat Geographics 
-http://eu.bestvideostreaming.is/8725/mpegts
-#EXTINF:-1,Peace TV
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
 http://us.bestvideostreaming.is/8792/index.m3u8
-#EXTINF:-1,Rtv Islam
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Islam" tvg-logo="" group-title="Channel",Rtv Islam
 http://us.bestvideostreaming.is/8714/index.m3u8
-#EXTINF:-1,Rtv Pendimi
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi" tvg-logo="" group-title="Channel",Rtv Pendimi
 http://us.bestvideostreaming.is/8786/index.m3u8
-#EXTINF:-1,Rtsh Kukesi
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Kukesi" tvg-logo="" group-title="Channel",Rtsh Kukesi
 http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
-#EXTINF:-1,Rtsh Shqip
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shqip" tvg-logo="" group-title="Channel",Rtsh Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
-#EXTINF:-1,Cnn
+#EXTINF:-1 tvg-id="" tvg-name="Cnn" tvg-logo="" group-title="Channel",Cnn
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/134.ts
-#EXTINF:-1,Bbc
+#EXTINF:-1 tvg-id="" tvg-name="Bbc" tvg-logo="" group-title="Channel",Bbc
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/132.ts
-#EXTINF:-1,Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="" group-title="Channel",Deutsche Welle
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/39.ts
-#EXTINF:-1,Zdf
+#EXTINF:-1 tvg-id="" tvg-name="Zdf" tvg-logo="" group-title="Channel",Zdf
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/38.ts
-#EXTINF:-1,Trt World
+#EXTINF:-1 tvg-id="" tvg-name="Trt World" tvg-logo="" group-title="Channel",Trt World
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/25.ts
-#EXTINF:-1,Rai Uno
+#EXTINF:-1 tvg-id="" tvg-name="Rai Uno" tvg-logo="" group-title="Channel",Rai Uno
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/105.ts?checkedby:ahlakid.com
-#EXTINF:-1,Rai Due
+#EXTINF:-1 tvg-id="" tvg-name="Rai Due" tvg-logo="" group-title="Channel",Rai Due
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/104.ts
-#EXTINF:-1,Rai Tre
+#EXTINF:-1 tvg-id="" tvg-name="Rai Tre" tvg-logo="" group-title="Channel",Rai Tre
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/50.ts
-#EXTINF:-1,Mediaset Italia
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Italia" tvg-logo="" group-title="Channel",Mediaset Italia
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/51.ts
-#EXTINF:-1,Canale 5
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="" group-title="Channel",Canale 5
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="" group-title="Channel",Big Brother 1
+http://us.bestvideostreaming.is/8803/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="" group-title="Channel",Big Brother 2
+http://us.bestvideostreaming.is/8804/index.m3u8
