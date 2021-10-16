@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
+#EXTINF:-1 tvg-id="" tvg-name="TOP CHANNEL" tvg-logo="" group-title="Channel",TOP CHANNEL
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
@@ -15,10 +15,12 @@ http://93.157.62.180/TopNews/index.m3u8
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Channel",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abc News " tvg-logo="" group-title="Channel",Abc News 
-http://us.bestvideostreaming.is/10023/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
-http://us.bestvideostreaming.is/10022/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="Channel",ABC News
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAX NEWS" tvg-logo="" group-title="Channel",FAX NEWS
+http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2 CNN" tvg-logo="" group-title="Channel",A2 CNN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634424725/ei/NQNrYdpi0Y7WAveVscAK/ip/185.196.180.155/id/FBtr4S6gajQ.1/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSOw4obfEpBocv73cnBauiVmWnBVFzZToxtwIOu2ds5kCIQC3VtnurK6GMya2kEGiLNpZEMjBTul7aV7-iAVLjPtyZA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="Channel",Report TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/165.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mcn TV (Tema)" tvg-logo="" group-title="Channel",Mcn TV (Tema)
@@ -37,8 +39,6 @@ http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 http://us.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Channel",Syri TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova" tvg-logo="" group-title="Channel",Klan Kosova
-http://us.bestvideostreaming.is/8706/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Channel",Klan Plus
 http://us.bestvideostreaming.is/8720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21 Popullore" tvg-logo="" group-title="Channel",21 Popullore
@@ -69,12 +69,10 @@ http://us.bestvideostreaming.is/8735/index.m3u8
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/78.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="Channel",Tring Kids
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bang Bang " tvg-logo="" group-title="Channel",Bang Bang 
-http://us.bestvideostreaming.is/8737/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
-http://us.bestvideostreaming.is/8738/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
-http://us.bestvideostreaming.is/8776/index.m3u8%20
+#EXTINF:-1 tvg-id="" tvg-name="BANG BANG" tvg-logo="" group-title="Channel",BANG BANG
+http://bit.ly/kryeziutv_bangbang
+#EXTINF:-1 tvg-id="" tvg-name="CUFO" tvg-logo="" group-title="Channel",CUFO
+http://bit.ly/kryeziutv_cufo
 #EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
 http://stream.atr.ua/lale/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cocuk" tvg-logo="" group-title="Channel",Cocuk
@@ -111,14 +109,6 @@ http://us.bestvideostreaming.is/8758/index.m3u8
 http://us.bestvideostreaming.is/8746/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Channel",Kanal D Drama
 http://us.bestvideostreaming.is/6263/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exp Natyr" tvg-logo="" group-title="Channel",Exp Natyr
-http://us.bestvideostreaming.is/8739/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Exp Shkence" tvg-logo="" group-title="Channel",Exp Shkence
-http://us.bestvideostreaming.is/8726/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Exp Histori" tvg-logo="" group-title="Channel",Exp Histori
-http://us.bestvideostreaming.is/8729/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic " tvg-logo="" group-title="Channel",Nat Geographic 
-http://us.bestvideostreaming.is/8725/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/66.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
@@ -149,26 +139,18 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/56.ts
 http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="" tvg-name="Supersport 2 HD" tvg-logo="" group-title="Channel",Supersport 2 HD
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2" tvg-logo="" group-title="Channel",Super Sport 2
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/170469
 #EXTINF:-1 tvg-id="" tvg-name="Supersport 3 HD" tvg-logo="" group-title="Channel",Supersport 3 HD
 http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="" tvg-name="Supersport 4" tvg-logo="" group-title="Channel",Supersport 4
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="" tvg-name="Supersport 5" tvg-logo="" group-title="Channel",Supersport 5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Channel",Tring Sport 1 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1001
 #EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1" tvg-logo="" group-title="Channel",Tring Sport 1
 http://95.107.132.106/out/u/683_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Channel",Tring Sport 2 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1002
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Channel",Tring Sport 3 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1003
 #EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3" tvg-logo="" group-title="Channel",Tring Sport 3
 http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Channel",Tring Sport 4 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1004
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="Channel",WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Channel",Jolly HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/75.ts
 #EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
@@ -205,3 +187,11 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/103.ts
 http://us.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="" group-title="Channel",Big Brother 2
 http://us.bestvideostreaming.is/8804/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="" group-title="Channel",Euronews Albania
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634426358/ei/lglrYazpH5nVgAfcqbnICQ/ip/185.196.180.159/id/Rr8BknovDuM.1/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANwo2yL39Qg_COFUgBzE_R_K6Bp5YmsMtlqOS4dEVqz-AiEAwUx8cKFTd2LVyUfFhKvZp0pRmUSQdItzyeLBpzwj690%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="index.m3u8" tvg-logo="" group-title="Channel",index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634428113/ei/cRBrYbvsNITigQfE6qjgAw/ip/185.196.180.159/id/iBmUjyHla3U.2/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIg69Lg2xnLVywXqLLwFCyVab1xuhY3PLBcFVFy_pRNICIHHMbMyPoQFaBsovDhfQo7DwzX3IcZsK8OQHsSnp9qs-/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="index.m3u8" tvg-logo="" group-title="Channel",index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634428227/ei/4xBrYdqDL9qYgAejs4GwDg/ip/185.196.180.159/id/AdUw5RdyZxI.1/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYtEF0slffdpRHKYT3GzhPhy5He_ctUhdMP4iTSQWw_gCIQDazSrO98DI6kMZpfqCsnTbOJtgkuTDDcgGFJMDndWJvQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="index.m3u8" tvg-logo="" group-title="Channel",index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634428247/ei/9xBrYb3nH4yKgAeO6p6oCA/ip/185.196.180.159/id/WtoxxHADnGk.4/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKBSOatuRuVF-giWndivn1a0k5yWvwDcJwrqTa8a29DfAiEA4zG63je1HzoLnMxm0zv1xpbHAyt-V84uwwLCs_uP8_M%3D/file/index.m3u8
