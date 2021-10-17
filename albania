@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:24,TOP CHANNEL
+#EXTINF:21,TOP CHANNEL
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:0,Top Channel HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
@@ -17,12 +17,8 @@ http://us.bestvideostreaming.is/10023/mpegts
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
 #EXTINF:0,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:0,ABC News
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:0,FAX NEWS
 http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:0,A2 CNN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634424725/ei/NQNrYdpi0Y7WAveVscAK/ip/185.196.180.155/id/FBtr4S6gajQ.1/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSOw4obfEpBocv73cnBauiVmWnBVFzZToxtwIOu2ds5kCIQC3VtnurK6GMya2kEGiLNpZEMjBTul7aV7-iAVLjPtyZA%3D%3D/file/index.m3u8
 #EXTINF:0,Report TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/165.ts
 #EXTINF:0,Mcn TV (Tema)
@@ -39,12 +35,12 @@ http://us.bestvideostreaming.is/8748/playlist.m3u8
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0,Koha Vision
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:0,-AL: FIRST CHANNEL
-http://ruzgariptv.us:8000/ariftarif/gerekmez/86675
 #EXTINF:0,Syri TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/86.ts
 #EXTINF:0,Klan Plus
 http://us.bestvideostreaming.is/8720/index.m3u8
+#EXTINF:0,FIRST CHANNEL
+http://us.bestvideostreaming.is/8717/mpegts
 #EXTINF:0,21 Popullore
 http://us.bestvideostreaming.is/8749/playlist.m3u8
 #EXTINF:0,Bbf
@@ -81,6 +77,8 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/79.ts
 http://bit.ly/kryeziutv_bangbang
 #EXTINF:0,CUFO
 http://bit.ly/kryeziutv_cufo
+#EXTINF:0,Juior TV Alb
+http://tv.iptvforver.com:25461/0E5j8CvaAj/2ueojuD9Vl/62023
 #EXTINF:0,Tip TV
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/77.ts
 #EXTINF:0,Lale
@@ -161,10 +159,12 @@ http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
 http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:0,Supersport 4
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:0,Supersport 5
-http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:0,Tring Sport News
+http://185.226.88.3:1036/live/backup/backup/65.m3u8
 #EXTINF:0,Tring Sport 1
 http://95.107.132.106/out/u/683_2.m3u8
+#EXTINF:0,Tring Sport 2 HD
+http://185.226.88.3:1036/live/backup/backup/62.m3u8
 #EXTINF:0,Tring Sport 3
 http://95.107.132.106/out/u/699_2.m3u8
 #EXTINF:0,WWE
@@ -205,11 +205,3 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/103.ts
 http://us.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:0,Big Brother 2
 http://us.bestvideostreaming.is/8804/index.m3u8
-#EXTINF:0,Euronews Albania
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634426358/ei/lglrYazpH5nVgAfcqbnICQ/ip/185.196.180.159/id/Rr8BknovDuM.1/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANwo2yL39Qg_COFUgBzE_R_K6Bp5YmsMtlqOS4dEVqz-AiEAwUx8cKFTd2LVyUfFhKvZp0pRmUSQdItzyeLBpzwj690%3D/file/index.m3u8
-#EXTINF:0,index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634428113/ei/cRBrYbvsNITigQfE6qjgAw/ip/185.196.180.159/id/iBmUjyHla3U.2/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIg69Lg2xnLVywXqLLwFCyVab1xuhY3PLBcFVFy_pRNICIHHMbMyPoQFaBsovDhfQo7DwzX3IcZsK8OQHsSnp9qs-/file/index.m3u8
-#EXTINF:0,index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634428227/ei/4xBrYdqDL9qYgAejs4GwDg/ip/185.196.180.159/id/AdUw5RdyZxI.1/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYtEF0slffdpRHKYT3GzhPhy5He_ctUhdMP4iTSQWw_gCIQDazSrO98DI6kMZpfqCsnTbOJtgkuTDDcgGFJMDndWJvQ%3D%3D/file/index.m3u8
-#EXTINF:0,index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634428247/ei/9xBrYb3nH4yKgAeO6p6oCA/ip/185.196.180.159/id/WtoxxHADnGk.4/source/yt_live_broadcast/requiressl/yes/tx/24046639/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKBSOatuRuVF-giWndivn1a0k5yWvwDcJwrqTa8a29DfAiEA4zG63je1HzoLnMxm0zv1xpbHAyt-V84uwwLCs_uP8_M%3D/file/index.m3u8
