@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0,TOP CHANNEL
+#EXTINF:20,TOP CHANNEL
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
+#EXTINF:28,Top Channel HD
+http://93.157.62.180/TopChannel/index.m3u8
 #EXTINF:0,Klan TV
 http://us.bestvideostreaming.is/8704/index.m3u8
 #EXTINF:0,Vizion Plus HD
@@ -45,8 +47,16 @@ http://us.bestvideostreaming.is/8749/playlist.m3u8
 http://185.226.88.3:1036/live/backup/backup/112.m3u8
 #EXTINF:0,Elrodi Tv
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1071
+#EXTINF:0,AL Supersonic TV
+http://bestsave.ltd:2052/39995593/39995593/90356
 #EXTINF:0,Folk Plus
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1077
+#EXTINF:0,Tirana 1
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
+#EXTINF:0,MTV Kosova
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts
+#EXTINF:0,Turbo Channel
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts
 #EXTINF:0,Mtv Kosova
 http://us.bestvideostreaming.is/8853/mpegts
 #EXTINF:0,Rtv 4 Muzike
@@ -57,15 +67,21 @@ http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:0,Dasma TV
 http://us.bestvideostreaming.is/8793/index.m3u8
-#EXTINF:0,Rrokum TV
-http://us.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:0,Qifteli
 http://us.bestvideostreaming.is/8735/index.m3u8
+#EXTINF:0,ALB Alb Music FHD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33410
+#EXTINF:0,ALB MFM Musik
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33467
+#EXTINF:0,ALB Music
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33449
 #EXTINF:0,Bang Bang
 http://bit.ly/kryeziutv_bangbang
 #EXTINF:0,Cufo
 http://bit.ly/kryeziutv_cufo
-#EXTINF:0,Tring Kids
+#EXTINF:0,AL Junior TV
+http://bestsave.ltd:2052/39995593/39995593/90387
+#EXTINF:59,Tring Kids
 http://185.226.88.3:1036/live/backup/backup/79.m3u8
 #EXTINF:0,Tring Tring
 http://185.226.88.3:1036/live/backup/backup/78.m3u8
@@ -123,6 +139,8 @@ http://185.226.88.3:1036/live/backup/backup/56.m3u8
 http://185.226.88.3:1036/live/backup/backup/57.m3u8
 #EXTINF:0,Zjarr TV
 http://185.226.88.3:1036/live/backup/backup/83.m3u8
+#EXTINF:24,Rrokum TV
+http://us.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:0,T HD
 http://us.bestvideostreaming.is/8746/index.m3u8
 #EXTINF:0,Kanal D Drama
@@ -135,20 +153,12 @@ http://us.bestvideostreaming.is/8726/mpegts
 http://us.bestvideostreaming.is/8739/mpegts
 #EXTINF:0,Exp Histori
 http://us.bestvideostreaming.is/8729/mpegts
-#EXTINF:0,Supersport 1 HD
-http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:0,AL: Super Sport 1 HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/979
-#EXTINF:0,Supersport 2 HD
-http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:0,AL: Super Sport 2 HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/980
-#EXTINF:0,Supersport 3 HD
-http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:0,AL: Super Sport 3 HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/981
-#EXTINF:0,Supersport 4
-http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:0,AL: Super Sport 4 FHD
 http://restream.tivivo.cc:25461/irfan/irfan1234/478
 #EXTINF:0,AL: Super Sport 5 HD
@@ -167,7 +177,7 @@ http://restream.tivivo.cc:25461/irfan/irfan1234/486
 http://restream.tivivo.cc:25461/irfan/irfan1234/487
 #EXTINF:0,Wwe
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:0,Peace TV
+#EXTINF:24,Peace Tv
 http://us.bestvideostreaming.is/8792/index.m3u8
 #EXTINF:0,Rtv Islam
 http://us.bestvideostreaming.is/8714/index.m3u8
@@ -175,6 +185,10 @@ http://us.bestvideostreaming.is/8714/index.m3u8
 http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
 #EXTINF:0,Rtsh Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
+#EXTINF:0,CNN
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/134.ts
+#EXTINF:0,BBC
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/132.ts
 #EXTINF:0,ZDF
 http://185.226.88.3:1036/live/backup/backup/38.m3u8
 #EXTINF:0,rai 3
