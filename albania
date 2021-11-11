@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,======SHQIP======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:20,TOP CHANNEL
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:0,Top Channel HD
@@ -9,6 +11,8 @@ http://us.bestvideostreaming.is/8704/index.m3u8
 http://185.226.88.3:1036/live/backup/backup/111.m3u8
 #EXTINF:0,Rtsh Sat
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
+#EXTINF:0,======LAJME======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,Top News
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:0,Abc News
@@ -41,6 +45,8 @@ http://us.bestvideostreaming.is/8705/index.m3u8
 http://us.bestvideostreaming.is/8720/index.m3u8
 #EXTINF:0,First Channel
 http://us.bestvideostreaming.is/8717/mpegts
+#EXTINF:0,======MUZIKE======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,21 Popullore
 http://us.bestvideostreaming.is/8749/playlist.m3u8
 #EXTINF:0,Bbf
@@ -67,6 +73,8 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://us.bestvideostreaming.is/8793/index.m3u8
 #EXTINF:0,Qifteli
 http://us.bestvideostreaming.is/8735/index.m3u8
+#EXTINF:0,======FEMIJE======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,Bang Bang
 http://bit.ly/kryeziutv_bangbang
 #EXTINF:0,Cufo
@@ -83,6 +91,8 @@ http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1041
 http://stream.atr.ua/lale/live/index.m3u8
 #EXTINF:0,Rtsh Femije
 http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
+#EXTINF:0,======FILMA======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,Film Family
 http://us.bestvideostreaming.is/8754/index.m3u8
 #EXTINF:0,Film Aksion
@@ -143,6 +153,8 @@ http://us.bestvideostreaming.is/8726/mpegts
 http://us.bestvideostreaming.is/8739/mpegts
 #EXTINF:0,Exp Histori
 http://us.bestvideostreaming.is/8729/mpegts
+#EXTINF:0,======SPORT======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,Tring Sport 1
 http://95.107.132.106/out/u/683_2.m3u8
 #EXTINF:0,Tring Sport 2 HD
@@ -189,6 +201,8 @@ http://bestsave.ltd:2052/39995593/39995593/90287
 http://bestsave.ltd:2052/39995593/39995593/90286
 #EXTINF:0,Wwe
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:0,======ISLAME======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,Peace TV
 http://us.bestvideostreaming.is/8792/index.m3u8
 #EXTINF:0,Rtv Islam
@@ -199,6 +213,8 @@ http://us.bestvideostreaming.is/8786/mpegts
 http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
 #EXTINF:0,Rtsh Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
+#EXTINF:0,======TE HUAJA======
+https://c.top4top.io/m_2141ppqeb1.mp4
 #EXTINF:0,Cnn
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/134.ts
 #EXTINF:0,Bbc
