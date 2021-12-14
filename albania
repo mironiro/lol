@@ -1,271 +1,257 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
+#EXTINF:-1,Top Channel HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55233
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
+#EXTINF:-1,Top Channel
 http://185.226.88.3:1036/live/backup/backup/131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Channel",Klan TV
+#EXTINF:-1,Klan TV
 http://185.226.88.3:1036/live/backup/backup/166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Klan TV HD" tvg-logo="" group-title="Channel",Klan TV HD
+#EXTINF:-1,Klan TV HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55234
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Channel",Vizion Plus
+#EXTINF:-1,Vizion Plus
 http://93.157.62.180/VizionPlus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
+#EXTINF:-1,Vizion Plus HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55244
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh 1 HD" tvg-logo="" group-title="Channel",Rtsh 1 HD
+#EXTINF:-1,Rtsh 1 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55235
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M HD" tvg-logo="" group-title="Channel",Alsat M HD
+#EXTINF:-1,Alsat M HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55243
-#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Channel",Top News
+#EXTINF:-1,Top News
 http://93.157.62.180/TopNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abc News HD" tvg-logo="" group-title="Channel",Abc News HD
+#EXTINF:-1,Abc News HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55297
-#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Channel",Ora News
+#EXTINF:-1,Ora News
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Channel",News 24
+#EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
+#EXTINF:-1,Fax News
 http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arta News HD" tvg-logo="" group-title="Channel",Arta News HD
+#EXTINF:-1,Arta News HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55298
-#EXTINF:-1 tvg-id="" tvg-name="Mcn TV" tvg-logo="" group-title="Channel",Mcn TV
+#EXTINF:-1,Mcn TV
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="" group-title="Channel",Euronews Albania
+#EXTINF:-1,Euronews Albania
 http://185.226.88.3:1036/live/backup/backup/164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A1 Report" tvg-logo="" group-title="Channel",A1 Report
+#EXTINF:-1,A1 Report
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/33405
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Channel",Syri TV
+#EXTINF:-1,Syri TV
 http://185.226.88.3:1036/live/backup/backup/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Scan 24" tvg-logo="" group-title="Channel",Scan 24
+#EXTINF:-1,Scan 24
 http://edge01eu.ekranet.com/scantv/index.m3u8?e=e67e120a94bf96b8b9e2e8fa28be8808&c=scantv&medium=websocket
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="Channel",Klan Kosova HD
+#EXTINF:-1,Klan Kosova HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55232
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
+#EXTINF:-1,Klan Plus HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55231
-#EXTINF:-1 tvg-id="" tvg-name="Rtk 1 HD" tvg-logo="" group-title="Channel",Rtk 1 HD
+#EXTINF:-1,Rtk 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 HD" tvg-logo="" group-title="Channel",Rtv 21 HD
+#EXTINF:-1,Rtv 21 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1063
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Mix HD" tvg-logo="" group-title="Channel",Rtv 21 Mix HD
+#EXTINF:-1,Rtv 21 Mix HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55223
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Plus HD" tvg-logo="" group-title="Channel",Rtv 21 Plus HD
+#EXTINF:-1,Rtv 21 Plus HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55224
-#EXTINF:-1 tvg-id="" tvg-name="Rtv21 Popullore" tvg-logo="" group-title="Channel",Rtv21 Popullore
+#EXTINF:-1,Rtv21 Popullore
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55225
-#EXTINF:-1 tvg-id="" tvg-name="Rtv21 Junior HD" tvg-logo="" group-title="Channel",Rtv21 Junior HD
+#EXTINF:-1,Rtv21 Junior HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55228
-#EXTINF:-1 tvg-id="" tvg-name="Ktv HD" tvg-logo="" group-title="Channel",Ktv HD
+#EXTINF:-1,Ktv HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55230
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="" group-title="Channel",E! Entertainment
+#EXTINF:-1,E! Entertainment
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56746
-#EXTINF:-1 tvg-id="" tvg-name="Zico HD" tvg-logo="" group-title="Channel",Zico HD
+#EXTINF:-1,Zico HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55323
-#EXTINF:-1 tvg-id="" tvg-name="Alb Folk HD" tvg-logo="" group-title="Channel",Alb Folk HD
+#EXTINF:-1,Alb Folk HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55325
-#EXTINF:-1 tvg-id="" tvg-name="Alb Humor HD" tvg-logo="" group-title="Channel",Alb Humor HD
+#EXTINF:-1,Alb Humor HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55326
-#EXTINF:-1 tvg-id="" tvg-name="My Music HD" tvg-logo="" group-title="Channel",My Music HD
+#EXTINF:-1,My Music HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55330
-#EXTINF:-1 tvg-id="" tvg-name="Top Music" tvg-logo="" group-title="Channel",Top Music
+#EXTINF:-1,Top Music
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56733
-#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel" tvg-logo="" group-title="Channel",Turbo Channel
+#EXTINF:-1,Turbo Channel
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56734
-#EXTINF:-1 tvg-id="" tvg-name="Top Estrada TV HD" tvg-logo="" group-title="Channel",Top Estrada TV HD
+#EXTINF:-1,Top Estrada TV HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56735
-#EXTINF:-1 tvg-id="" tvg-name="Folklorit HD" tvg-logo="" group-title="Channel",Folklorit HD
+#EXTINF:-1,Folklorit HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56737
-#EXTINF:-1 tvg-id="" tvg-name="Stv Folk" tvg-logo="" group-title="Channel",Stv Folk
+#EXTINF:-1,Stv Folk
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56738
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Channel",Dasma TV
+#EXTINF:-1,Dasma TV
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56760
-#EXTINF:-1 tvg-id="" tvg-name="Bbf" tvg-logo="" group-title="Channel",Bbf
+#EXTINF:-1,Bbf
 http://185.226.88.3:1036/live/backup/backup/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbf Music HD" tvg-logo="" group-title="Channel",Bbf Music HD
+#EXTINF:-1,Bbf Music HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55294
-#EXTINF:-1 tvg-id="" tvg-name="Folk +" tvg-logo="" group-title="Channel",Folk +
+#EXTINF:-1,Folk +
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1077
-#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Channel",Elrodi TV
+#EXTINF:-1,Elrodi TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1071
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 4 Muzike" tvg-logo="" group-title="Channel",Rtv 4 Muzike
+#EXTINF:-1,Rtv 4 Muzike
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Arthouse HD" tvg-logo="" group-title="Channel",Filmbox Arthouse HD
+#EXTINF:-1,Filmbox Arthouse HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55329
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Fontana" tvg-logo="" group-title="Channel",Rtv Fontana
+#EXTINF:-1,Rtv Fontana
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56731
-#EXTINF:-1 tvg-id="" tvg-name="Baby HD" tvg-logo="" group-title="Channel",Baby HD
+#EXTINF:-1,Baby HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55299
-#EXTINF:-1 tvg-id="" tvg-name="Bang Bang HD" tvg-logo="" group-title="Channel",Bang Bang HD
+#EXTINF:-1,Bang Bang HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55300
-#EXTINF:-1 tvg-id="" tvg-name="Cufo HD" tvg-logo="" group-title="Channel",Cufo HD
+#EXTINF:-1,Cufo HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55302
-#EXTINF:-1 tvg-id="" tvg-name="Junior HD" tvg-logo="" group-title="Channel",Junior HD
+#EXTINF:-1,Junior HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55305
-#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="Channel",Tring Kids
+#EXTINF:-1,Tring Kids
 http://185.226.88.3:1036/live/backup/backup/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Channel",Tring Tring
+#EXTINF:-1,Tring Tring
 http://185.226.88.3:1036/live/backup/backup/78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
+#EXTINF:-1,Tip TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1041
-#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
+#EXTINF:-1,Lale
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Channel",Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56773
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Femije" tvg-logo="" group-title="Channel",Rtsh Femije
+#EXTINF:-1,Rtsh Femije
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/139635
-#EXTINF:-1 tvg-id="" tvg-name="Film Një HD" tvg-logo="" group-title="Channel",Film Një HD
+#EXTINF:-1,Film Një HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55248
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits HD" tvg-logo="" group-title="Channel",Film Hits HD
+#EXTINF:-1,Film Hits HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55250
-#EXTINF:-1 tvg-id="" tvg-name="Film Aksion HD" tvg-logo="" group-title="Channel",Film Aksion HD
+#EXTINF:-1,Film Aksion HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55251
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor HD" tvg-logo="" group-title="Channel",Film Autor HD
+#EXTINF:-1,Film Autor HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55252
-#EXTINF:-1 tvg-id="" tvg-name="Film Komedi HD" tvg-logo="" group-title="Channel",Film Komedi HD
+#EXTINF:-1,Film Komedi HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55253
-#EXTINF:-1 tvg-id="" tvg-name="Film Drame HD" tvg-logo="" group-title="Channel",Film Drame HD
+#EXTINF:-1,Film Drame HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55254
-#EXTINF:-1 tvg-id="" tvg-name="Film Thriller HD" tvg-logo="" group-title="Channel",Film Thriller HD
+#EXTINF:-1,Film Thriller HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55255
-#EXTINF:-1 tvg-id="" tvg-name="X Premium 1 HD" tvg-logo="" group-title="Channel",X Premium 1 HD
-http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56795
-#EXTINF:-1 tvg-id="" tvg-name="X Premium 2 HD" tvg-logo="" group-title="Channel",X Premium 2 HD
+#EXTINF:-1,X Premium 2 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56796
-#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="" group-title="Channel",Fox HD
-http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55274
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime HD" tvg-logo="" group-title="Channel",Fox Crime HD
+#EXTINF:-1,Fox Crime HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55275
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movie HD" tvg-logo="" group-title="Channel",Fox Movie HD
+#EXTINF:-1,Fox Movie HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55276
-#EXTINF:-1 tvg-id="" tvg-name="Sky Drame HD" tvg-logo="" group-title="Channel",Sky Drame HD
+#EXTINF:-1,Sky Drame HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55281
-#EXTINF:-1 tvg-id="" tvg-name="Sky History HD" tvg-logo="" group-title="Channel",Sky History HD
+#EXTINF:-1,Sky History HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55282
-#EXTINF:-1 tvg-id="" tvg-name="Sky Komedi HD" tvg-logo="" group-title="Channel",Sky Komedi HD
+#EXTINF:-1,Sky Komedi HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55283
-#EXTINF:-1 tvg-id="" tvg-name="Sky Max HD" tvg-logo="" group-title="Channel",Sky Max HD
+#EXTINF:-1,Sky Max HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55284
-#EXTINF:-1 tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Channel",Tring Action
+#EXTINF:-1,Tring Action
 http://185.226.88.3:1036/live/backup/backup/69.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
+#EXTINF:-1,Tring World
 http://185.226.88.3:1036/live/backup/backup/66.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
+#EXTINF:-1,Tring Super
 http://185.226.88.3:1036/live/backup/backup/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
+#EXTINF:-1,Tring Shqip
 http://185.226.88.3:1036/live/backup/backup/74.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Channel",Tring Planet
+#EXTINF:-1,Tring Planet
 http://185.226.88.3:1036/live/backup/backup/67.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
+#EXTINF:-1,Tring Life
 http://185.226.88.3:1036/live/backup/backup/73.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
+#EXTINF:-1,Tring International
 http://185.226.88.3:1036/live/backup/backup/64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="Channel",Tring History
+#EXTINF:-1,Tring History
 http://185.226.88.3:1036/live/backup/backup/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
+#EXTINF:-1,Tring Fantasy
 http://185.226.88.3:1036/live/backup/backup/72.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="Channel",Living HD
+#EXTINF:-1,Living HD
 http://185.226.88.3:1036/live/backup/backup/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3 Plus" tvg-logo="" group-title="Channel",Tring 3 Plus
-http://iptv.csserv.co:8000/live/clientr725/631739/2260.ts
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Histori HD" tvg-logo="" group-title="Channel",Explorer Histori HD
+#EXTINF:-1,Explorer Histori HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55288
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Natyra HD" tvg-logo="" group-title="Channel",Explorer Natyra HD
+#EXTINF:-1,Explorer Natyra HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55289
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Shkence HD" tvg-logo="" group-title="Channel",Explorer Shkence HD
+#EXTINF:-1,Explorer Shkence HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55290
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="" group-title="Channel",Travel Channel HD
-http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56774
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Channel",Animal Planet HD
+#EXTINF:-1,Animal Planet HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56775
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Channel",Discovery Channel
+#EXTINF:-1,Discovery Channel
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56778
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Channel",Discovery Science HD
+#EXTINF:-1,Discovery Science HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56782
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Channel",Kanal D Drama
+#EXTINF:-1,Kanal D Drama
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/139648
-#EXTINF:-1 tvg-id="" tvg-name="First Channel HD" tvg-logo="" group-title="Channel",First Channel HD
+#EXTINF:-1,First Channel HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55304
-#EXTINF:-1 tvg-id="" tvg-name="Mekke Live HD" tvg-logo="" group-title="Channel",Mekke Live HD
+#EXTINF:-1,Mekke Live HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/33465
-#EXTINF:-1 tvg-id="" tvg-name="Rtv21 Pendimi HD" tvg-logo="" group-title="Channel",Rtv21 Pendimi HD
-http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55227
-#EXTINF:-1 tvg-id="" tvg-name="A1 Islam HD" tvg-logo="" group-title="Channel",A1 Islam HD
+#EXTINF:-1,A1 Islam HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55296
-#EXTINF:-1 tvg-id="" tvg-name="Peace HD" tvg-logo="" group-title="Channel",Peace HD
+#EXTINF:-1,Peace HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55310
-#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="" group-title="Channel",Zjarr TV
+#EXTINF:-1,Zjarr TV
 http://185.226.88.3:1036/live/backup/backup/83.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Era TV HD" tvg-logo="" group-title="Channel",Era TV HD
+#EXTINF:-1,Era TV HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55245
-#EXTINF:-1 tvg-id="" tvg-name="T7 HD" tvg-logo="" group-title="Channel",T7 HD
+#EXTINF:-1,T7 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55247
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="" group-title="Channel",Super Sport 1 HD
+#EXTINF:-1,Super Sport 1 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55339
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 2" tvg-logo="" group-title="Channel",Supersport 2
+#EXTINF:-1,Supersport 2
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/62638
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 2 SD" tvg-logo="" group-title="Channel",Supersport 2 SD
+#EXTINF:-1,Supersport 2 SD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/62628
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="" group-title="Channel",Super Sport 3 HD
+#EXTINF:-1,Super Sport 3 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55341
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="" group-title="Channel",Super Sport 4 HD
+#EXTINF:-1,Super Sport 4 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55342
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 HD" tvg-logo="" group-title="Channel",Super Sport 5 HD
+#EXTINF:-1,Super Sport 5 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55343
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Channel",Tring Sport 1 HD
+#EXTINF:-1,Tring Sport 1 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55270
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Channel",Tring Sport 2 HD
+#EXTINF:-1,Tring Sport 2 HD
 http://185.226.88.3:1036/live/backup/backup/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tringsport 3 HD" tvg-logo="" group-title="Channel",Tringsport 3 HD
+#EXTINF:-1,Tringsport 3 HD
 http://xfire.one:88/test1/test2/92383
-#EXTINF:-1 tvg-id="" tvg-name="Tringsport 4 HD" tvg-logo="" group-title="Channel",Tringsport 4 HD
+#EXTINF:-1,Tringsport 4 HD
 http://xfire.one:88/test1/test2/92384
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 1 HD" tvg-logo="" group-title="Channel",K Sport 1 HD
+#EXTINF:-1,K Sport 1 HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/62652
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2 HD" tvg-logo="" group-title="Channel",Kujtesa Sport 2 HD
+#EXTINF:-1,Kujtesa Sport 2 HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55336
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="Channel",Kujtesa Sport 4
+#EXTINF:-1,Kujtesa Sport 4
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/62650
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 5" tvg-logo="" group-title="Channel",Kujtesa Sport 5
+#EXTINF:-1,Kujtesa Sport 5
 http://xfire.one:88/test1/test2/34218.ch
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sport FHD" tvg-logo="" group-title="Channel",Rtsh Sport FHD
+#EXTINF:-1,Rtsh Sport FHD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/33487
-#EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="" group-title="Channel",T HD
+#EXTINF:-1,T HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/56744
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shqip HD" tvg-logo="" group-title="Channel",Rtsh Shqip HD
+#EXTINF:-1,Rtsh Shqip HD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/55240
-#EXTINF:-1 tvg-id="" tvg-name="Dashuria Smjafton" tvg-logo="" group-title="Channel",Dashuria Smjafton
+#EXTINF:-1,Dashuria Smjafton
 http://130.0.27.131:88/movies/html/shqiptar/Dashuria-s'mjafton.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drejt Fundit" tvg-logo="" group-title="Channel",Drejt Fundit
-http://130.0.27.131:88/movies/html/shqiptar/1DrejtFundit.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falco (Bes Kallaku)" tvg-logo="" group-title="Channel",Falco (Bes Kallaku)
+#EXTINF:-1,Falco (Bes Kallaku)
 http://130.0.27.131:88/movies/html/falco/FALCO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Love Tropoja" tvg-logo="" group-title="Channel",I Love Tropoja
+#EXTINF:-1,I Love Tropoja
 http://130.0.27.131:88/movies/html/shqiptar/2020/I_love_Tropoja.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 FHD" tvg-logo="" group-title="Channel",Big Brother 1 FHD
+#EXTINF:-1,Big Brother 1 FHD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/143612
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 FHD" tvg-logo="" group-title="Channel",Big Brother 2 FHD
+#EXTINF:-1,Big Brother 2 FHD
 http://141.94.185.30:80/Bektash/qNvXcDD98fPC/143613
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Vip 1 4K" tvg-logo="" group-title="Channel",Big Brother Vip 1 4K
+#EXTINF:-1,Big Brother Vip 1 4K
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/171196
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Vip 2 4K" tvg-logo="" group-title="Channel",Big Brother Vip 2 4K
+#EXTINF:-1,Big Brother Vip 2 4K
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/171197
-#EXTINF:-1 tvg-id="" tvg-name="Albse" tvg-logo="" group-title="Channel",Albse
+#EXTINF:-1,Albse
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/139755
-#EXTINF:-1 tvg-id="" tvg-name="Cnn" tvg-logo="" group-title="Channel",Cnn
+#EXTINF:-1,Cnn
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bbc" tvg-logo="" group-title="Channel",Bbc
+#EXTINF:-1,Bbc
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/132.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zdf" tvg-logo="" group-title="Channel",Zdf
-http://185.226.88.3:1036/live/backup/backup/38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
+#EXTINF:-1,Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trt World" tvg-logo="" group-title="Channel",Trt World
+#EXTINF:-1,Trt World
 http://185.226.88.3:1036/live/backup/backup/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 Premium SD" tvg-logo="" group-title="Channel",Bein Sports 1 Premium SD
+#EXTINF:-1,Bein Sports 1 Premium SD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2541
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 Premium SD" tvg-logo="" group-title="Channel",Bein Sports 2 Premium SD
+#EXTINF:-1,Bein Sports 2 Premium SD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2540
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 Premium SD" tvg-logo="" group-title="Channel",Bein Sports 3 Premium SD
+#EXTINF:-1,Bein Sports 3 Premium SD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2539
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 SD" tvg-logo="" group-title="Channel",Bein Sports 4 SD
+#EXTINF:-1,Bein Sports 4 SD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2535
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 SD" tvg-logo="" group-title="Channel",Bein Sports 5 SD
+#EXTINF:-1,Bein Sports 5 SD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2534
