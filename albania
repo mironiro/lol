@@ -1,341 +1,169 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
+#EXTINF:60,Top Channel
 http://185.226.88.3:1036/live/backup/backup/131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Channel",Klan HD
+#EXTINF:0,Klan HD
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
+#EXTINF:0,Vizion Plus HD
 http://185.226.88.3:1036/live/backup/backup/111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Channel",Alsat M
+#EXTINF:0,Alsat M
 http://185.226.88.3:1036/live/backup/backup/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Klan News" tvg-logo="" group-title="Channel",Klan News
+#EXTINF:0,Klan News
 http://185.226.88.3:1036/live/backup/backup/167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh 1" tvg-logo="" group-title="Channel",Rtsh 1
+#EXTINF:0,Rtsh 1
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1028?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="Channel",Report TV
+#EXTINF:0,Report TV
 http://185.226.88.3:1036/live/backup/backup/52.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
+#EXTINF:0,Fax News
 http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 News" tvg-logo="" group-title="Channel",Kanali 7 News
+#EXTINF:0,Kanali 7 News
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1078?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Abc News" tvg-logo="" group-title="Channel",Abc News
+#EXTINF:0,Abc News
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1052?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Channel",Klan Plus
+#EXTINF:0,Klan Plus
 http://185.226.88.3:1036/live/backup/backup/107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Channel",Top News
+#EXTINF:0,Top News
 http://93.157.62.180/TopNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="" group-title="Channel",Euronews Albania
+#EXTINF:0,Euronews Albania
 http://185.226.88.3:1036/live/backup/backup/164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Channel",Ora News
+#EXTINF:0,Ora News
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Channel",News 24
+#EXTINF:0,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mcn TV" tvg-logo="" group-title="Channel",Mcn TV
+#EXTINF:0,Mcn TV
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Channel",Syri TV
+#EXTINF:0,Syri TV
 http://185.226.88.3:1036/live/backup/backup/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Scan 24" tvg-logo="" group-title="Channel",Scan 24
+#EXTINF:0,Scan 24
 http://edge01eu.ekranet.com/scantv/index.m3u8?e=e67e120a94bf96b8b9e2e8fa28be8808&c=scantv&medium=websocket
-#EXTINF:-1 tvg-id="" tvg-name="Rtk 1 HD" tvg-logo="" group-title="Channel",Rtk 1 HD
+#EXTINF:0,Rtk 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 HD" tvg-logo="" group-title="Channel",Rtv 21 HD
+#EXTINF:0,Rtv 21 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1063
-#EXTINF:-1 tvg-id="" tvg-name="Ktv Kohavision" tvg-logo="" group-title="Channel",Ktv Kohavision
+#EXTINF:0,Ktv Kohavision
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1061
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Popullore" tvg-logo="" group-title="Channel",Rtv 21 Popullore
+#EXTINF:0,Rtv 21 Popullore
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Bbf" tvg-logo="" group-title="Channel",Bbf
+#EXTINF:0,Bbf
 http://185.226.88.3:1036/live/backup/backup/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbf Music" tvg-logo="" group-title="Channel",Bbf Music
+#EXTINF:0,Bbf Music
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1079?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Klan Music" tvg-logo="" group-title="Channel",Klan Music
+#EXTINF:0,Klan Music
 http://185.226.88.3:1036/live/backup/backup/108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balkanika Musik" tvg-logo="" group-title="Channel",Balkanika Musik
+#EXTINF:0,Balkanika Musik
 http://185.226.88.3:1036/live/backup/backup/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Channel",Elrodi TV
+#EXTINF:0,Elrodi TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1071?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Mtv Kosova" tvg-logo="" group-title="Channel",Mtv Kosova
+#EXTINF:0,Mtv Kosova
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
+#EXTINF:0,Folk Plus
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1077
-#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Channel",Elrodi TV
+#EXTINF:0,Elrodi TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1071
-#EXTINF:-1 tvg-id="" tvg-name="Stv Folk HD ( A )" tvg-logo="" group-title="Channel",Stv Folk HD ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273696.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Cifteli HD" tvg-logo="" group-title="Channel",8Ova Cifteli HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273703.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tirana TV" tvg-logo="" group-title="Channel",Tirana TV
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273767.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Junior" tvg-logo="" group-title="Channel",Rtv 21 Junior
+#EXTINF:0,Rtv 21 Junior
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Netw" tvg-logo="" group-title="Channel",Cartoon Netw
+#EXTINF:0,Cocuk
+http://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0,[$]BABY TV
+http://62.210.152.92:25461/kanale2/Ass/19
+#EXTINF:0,[$]KIDS
+http://62.210.152.92:25461/kanale2/Ass/18
+#EXTINF:0,[$]BANG BANG
+http://62.210.152.92:25461/kanale2/Ass/20
+#EXTINF:0,Cartoon Netw
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/149.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
+#EXTINF:0,Tip TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1041?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="Channel",Tring Kids
+#EXTINF:0,Tring Kids
 http://185.226.88.3:1036/live/backup/backup/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Channel",Tring Tring
+#EXTINF:0,Tring Tring
 http://185.226.88.3:1036/live/backup/backup/78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
+#EXTINF:0,Lale
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shkollë" tvg-logo="" group-title="Channel",Rtsh Shkollë
+#EXTINF:0,Rtsh Shkollë
 http://93.157.62.180/RTSHShkole/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Kids Animuar 2 HD" tvg-logo="" group-title="Channel",Eb Kids Animuar 2 HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273420.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Kids Animuar 3 HD" tvg-logo="" group-title="Channel",Eb Kids Animuar 3 HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273421.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Kids Masha And The Bear FHD" tvg-logo="" group-title="Channel",Eb Kids Masha And The Bear FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273428.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Kids Baby Bus FHD" tvg-logo="" group-title="Channel",Eb Kids Baby Bus FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273430.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Kids Cocomelon FHD" tvg-logo="" group-title="Channel",Eb Kids Cocomelon FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Kids Odd Bods FHD" tvg-logo="" group-title="Channel",Eb Kids Odd Bods FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273433.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Tom And Jerry HD" tvg-logo="" group-title="Channel",Eb Tom And Jerry HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273434.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tao Tao" tvg-logo="" group-title="Channel",Tao Tao
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273435.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Channel",Boomerang
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273436.ts
-#EXTINF:-1 tvg-id="" tvg-name="Smile TV" tvg-logo="" group-title="Channel",Smile TV
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273442.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cufo TV" tvg-logo="" group-title="Channel",Cufo TV
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273443.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bang Bang ( A )" tvg-logo="" group-title="Channel",Bang Bang ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273444.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="Channel",Nick Jr.
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273449.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pikaboo" tvg-logo="" group-title="Channel",Pikaboo
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273452.ts
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Shkence" tvg-logo="" group-title="Channel",Explorer Shkence
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273391.ts
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Natyra" tvg-logo="" group-title="Channel",Explorer Natyra
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273392.ts
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Histori ( A )" tvg-logo="" group-title="Channel",Explorer Histori ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273393.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Channel",Tring Action
+#EXTINF:0,Film Thriller FHD
+http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/4802
+#EXTINF:0,Tring Action
 http://185.226.88.3:1036/live/backup/backup/69.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
+#EXTINF:0,Tring World
 http://185.226.88.3:1036/live/backup/backup/66.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
+#EXTINF:0,Tring Super
 http://185.226.88.3:1036/live/backup/backup/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
+#EXTINF:0,Tring Shqip
 http://185.226.88.3:1036/live/backup/backup/74.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Channel",Tring Planet
+#EXTINF:0,Tring Planet
 http://185.226.88.3:1036/live/backup/backup/67.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
+#EXTINF:0,Tring Life
 http://185.226.88.3:1036/live/backup/backup/73.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
+#EXTINF:0,Tring International
 http://185.226.88.3:1036/live/backup/backup/64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="Channel",Tring History
+#EXTINF:0,Tring History
 http://185.226.88.3:1036/live/backup/backup/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
+#EXTINF:0,Tring Fantasy
 http://185.226.88.3:1036/live/backup/backup/72.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="Channel",Living HD
+#EXTINF:0,Living HD
 http://185.226.88.3:1036/live/backup/backup/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3 Plus" tvg-logo="" group-title="Channel",Tring 3 Plus
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273321.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Action FHD" tvg-logo="" group-title="Channel",Filma24 Action FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273497.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Animuar FHD" tvg-logo="" group-title="Channel",Filma24 Animuar FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273498.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Aventur FHD" tvg-logo="" group-title="Channel",Filma24 Aventur FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273499.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Drama FHD" tvg-logo="" group-title="Channel",Filma24 Drama FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273501.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Familjar FHD" tvg-logo="" group-title="Channel",Filma24 Familjar FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273502.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Krim FHD" tvg-logo="" group-title="Channel",Filma24 Krim FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273504.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Komedi FHD" tvg-logo="" group-title="Channel",Filma24 Komedi FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273505.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Histori FHD" tvg-logo="" group-title="Channel",Filma24 Histori FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273506.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Mister FHD" tvg-logo="" group-title="Channel",Filma24 Mister FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273507.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Netflix FHD" tvg-logo="" group-title="Channel",Filma24 Netflix FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273508.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filma24 Romance FHD" tvg-logo="" group-title="Channel",Filma24 Romance FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273510.ts
-#EXTINF:-1 tvg-id="" tvg-name="Film Gold FHD" tvg-logo="" group-title="Channel",Film Gold FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273532.ts
-#EXTINF:-1 tvg-id="" tvg-name="Film Aksion HD" tvg-logo="" group-title="Channel",Film Aksion HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273537.ts
-#EXTINF:-1 tvg-id="" tvg-name="Film Thriller ( A )" tvg-logo="" group-title="Channel",Film Thriller ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273538.ts
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Channel",Film Autor
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273611.ts
-#EXTINF:-1 tvg-id="" tvg-name="Film Drame ( A )" tvg-logo="" group-title="Channel",Film Drame ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273539.ts
-#EXTINF:-1 tvg-id="" tvg-name="Film Komedi ( A )" tvg-logo="" group-title="Channel",Film Komedi ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273540.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life ( A )" tvg-logo="" group-title="Channel",Fox Life ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273541.ts
-#EXTINF:-1 tvg-id="" tvg-name="Family HD ( A )" tvg-logo="" group-title="Channel",Family HD ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273544.ts
-#EXTINF:-1 tvg-id="" tvg-name="T HD ( A )" tvg-logo="" group-title="Channel",T HD ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273545.ts
-#EXTINF:-1 tvg-id="" tvg-name="Stinet" tvg-logo="" group-title="Channel",Stinet
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273546.ts
-#EXTINF:-1 tvg-id="" tvg-name="Euro Film HD ( A )" tvg-logo="" group-title="Channel",Euro Film HD ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273548.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Action HD" tvg-logo="" group-title="Channel",8Ova Action HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273550.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Drame HD" tvg-logo="" group-title="Channel",8Ova Drame HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273551.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Komedi HD" tvg-logo="" group-title="Channel",8Ova Komedi HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273552.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Thriller HD" tvg-logo="" group-title="Channel",8Ova Thriller HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273553.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Aksion" tvg-logo="" group-title="Channel",Netflix Aksion
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273584.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Fantazi" tvg-logo="" group-title="Channel",Netflix Fantazi
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273585.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Komedi" tvg-logo="" group-title="Channel",Netflix Komedi
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273586.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="Channel",Netflix Horror
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273587.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Aventure" tvg-logo="" group-title="Channel",Netflix Aventure
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273588.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Romance" tvg-logo="" group-title="Channel",Netflix Romance
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273589.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Femije" tvg-logo="" group-title="Channel",Netflix Femije
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273590.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Spider-Man" tvg-logo="" group-title="Channel",Netflix Spider-Man
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273593.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Jackie Chan" tvg-logo="" group-title="Channel",Netflix Jackie Chan
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273594.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Van Damme" tvg-logo="" group-title="Channel",Netflix Van Damme
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273595.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Bud Spencer  And  Terence Hill" tvg-logo="" group-title="Channel",Netflix Bud Spencer  And  Terence Hill
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273598.ts
-#EXTINF:-1 tvg-id="" tvg-name="Portokalli" tvg-logo="" group-title="Channel",Portokalli
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273656.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Fc Latta" tvg-logo="" group-title="Channel",Eb Fc Latta
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273670.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Qka Ka Shpija FHD" tvg-logo="" group-title="Channel",Eb Qka Ka Shpija FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273671.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Serial Fara E Flliqt FHD" tvg-logo="" group-title="Channel",Eb Serial Fara E Flliqt FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273674.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eb Oda E Stupcave FHD" tvg-logo="" group-title="Channel",Eb Oda E Stupcave FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273677.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alb Humor 1 HD" tvg-logo="" group-title="Channel",Alb Humor 1 HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273679.ts
-#EXTINF:-1 tvg-id="" tvg-name="Malisheva TV FHD" tvg-logo="" group-title="Channel",Malisheva TV FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273683.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Malisheva" tvg-logo="" group-title="Channel",Rtv Malisheva
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273684.ts
-#EXTINF:-1 tvg-id="" tvg-name="Presheva Rtv" tvg-logo="" group-title="Channel",Presheva Rtv
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273687.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bujanoci Rtv" tvg-logo="" group-title="Channel",Bujanoci Rtv
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273688.ts
-#EXTINF:-1 tvg-id="" tvg-name="Drita TV" tvg-logo="" group-title="Channel",Drita TV
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273689.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Besa Prizren" tvg-logo="" group-title="Channel",TV Besa Prizren
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273690.ts
-#EXTINF:-1 tvg-id="" tvg-name="D Drama" tvg-logo="" group-title="Channel",D Drama
+#EXTINF:0,D Drama
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Channel",Kanal D Drama
+#EXTINF:0,Kanal D Drama
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1080?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Episode HD" tvg-logo="" group-title="Channel",Episode HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273330.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV 1" tvg-logo="" group-title="Channel",Cinestar TV 1
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273340.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV 2" tvg-logo="" group-title="Channel",Cinestar TV 2
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273341.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 1 FHD" tvg-logo="" group-title="Channel",Cinestar Premiere 1 FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273342.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV Aksion" tvg-logo="" group-title="Channel",Cinestar TV Aksion
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273344.ts
-#EXTINF:-1 tvg-id="" tvg-name="Top Hits FHD" tvg-logo="" group-title="Channel",Top Hits FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273388.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dashuria Smjafton" tvg-logo="" group-title="Channel",Dashuria Smjafton
+#EXTINF:0,Dashuria Smjafton
 http://130.0.27.131:88/movies/html/shqiptar/Dashuria-s'mjafton.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falco (Bes Kallaku)" tvg-logo="" group-title="Channel",Falco (Bes Kallaku)
+#EXTINF:0,Falco (Bes Kallaku)
 http://130.0.27.131:88/movies/html/falco/FALCO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Love Tropoja" tvg-logo="" group-title="Channel",I Love Tropoja
+#EXTINF:0,I Love Tropoja
 http://130.0.27.131:88/movies/html/shqiptar/2020/I_love_Tropoja.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Premium Channel" tvg-logo="" group-title="Channel",Premium Channel
+#EXTINF:0,Premium Channel
 http://premiummedia.al/stream/premium-channel/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prime" tvg-logo="" group-title="Channel",Prime
+#EXTINF:0,Prime
 http://84.22.33.214/prime/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="Dukagjini TV" tvg-logo="" group-title="Channel",Dukagjini TV
+#EXTINF:0,Dukagjini TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1075?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
+#EXTINF:0,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Eb Islame Omeri R.A HD" tvg-logo="" group-title="Channel",Eb Islame Omeri R.A HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273735.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kurani Fisnik Arabisht-Shqip HD" tvg-logo="" group-title="Channel",Kurani Fisnik Arabisht-Shqip HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273737.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kurani Fisnik Shqip HD (A.I.I.T.C)" tvg-logo="" group-title="Channel",Kurani Fisnik Shqip HD (A.I.I.T.C)
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273738.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 1 Albania" tvg-logo="" group-title="Channel",Rtv 1 Albania
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273739.ts
-#EXTINF:-1 tvg-id="" tvg-name="Elkalem Rtv" tvg-logo="" group-title="Channel",Elkalem Rtv
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273742.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Ahireti" tvg-logo="" group-title="Channel",Rtv Ahireti
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Islam TV HD" tvg-logo="" group-title="Channel",Islam TV HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273746.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Ilahi HD" tvg-logo="" group-title="Channel",8Ova Ilahi HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273747.ts
-#EXTINF:-1 tvg-id="" tvg-name="8Ova Islam HD" tvg-logo="" group-title="Channel",8Ova Islam HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lugina Islam" tvg-logo="" group-title="Channel",Lugina Islam
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273751.ts
-#EXTINF:-1 tvg-id="" tvg-name="Meka Live" tvg-logo="" group-title="Channel",Meka Live
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV Shqip" tvg-logo="" group-title="Channel",Peace TV Shqip
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pendimi TV" tvg-logo="" group-title="Channel",Pendimi TV
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273756.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Islam HD" tvg-logo="" group-title="Channel",Rtv Islam HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Channel",Tring Sport 2 HD
+#EXTINF:0,Tring Sport 2 HD
 http://185.226.88.3:1036/live/backup/backup/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Channel",Tring Sport 3 HD
+#EXTINF:0,Tring Sport 3 HD
 http://185.226.88.3:1036/live/backup/backup/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Channel",Tring Sport 4 HD
+#EXTINF:0,Tring Sport 4 HD
 http://185.226.88.3:1036/live/backup/backup/60.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1" tvg-logo="" group-title="Channel",Kujtesa Sport 1
+#EXTINF:0,Kujtesa Sport 1
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1057?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 2" tvg-logo="" group-title="Channel",K Sport 2
+#EXTINF:0,K Sport 2
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1058?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 3" tvg-logo="" group-title="Channel",K Sport 3
+#EXTINF:0,K Sport 3
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1059?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3" tvg-logo="" group-title="Channel",Kujtesa Sport 3
+#EXTINF:0,Kujtesa Sport 3
 http://93.157.62.180/KSport3/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="Channel",Kujtesa Sport 4
+#EXTINF:0,Kujtesa Sport 4
 http://93.157.62.180/KSport4/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sport" tvg-logo="" group-title="Channel",Rtsh Sport
-http://93.157.62.180/RTSHSport/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2" tvg-logo="" group-title="Channel",Super Sport 2
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273814.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 HD" tvg-logo="" group-title="Channel",Super Sport 2 HD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273817.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3" tvg-logo="" group-title="Channel",Super Sport 3
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273819.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4" tvg-logo="" group-title="Channel",Super Sport 4
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273822.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ss5" tvg-logo="" group-title="Channel",Ss5
+#EXTINF:0,RTSH Sport1 HD
+http://93.157.62.180/RTSHSport/index.m3u8
+#EXTINF:0,SuperSport 1 HD
+http://jessicatv.site:8080/15247/6bc4e63e/1316
+#EXTINF:0,SuperSport 2 HD 
+http://jessicatv.site:8080/15247/6bc4e63e/1312
+#EXTINF:0,SuperSport 3 HD 
+http://jessicatv.site:8080/15247/6bc4e63e/1319
+#EXTINF:0,SuperSport 5 HD
+http://jessicatv.site:8080/15247/6bc4e63e/1860
+#EXTINF:0,Ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Cnn" tvg-logo="" group-title="Channel",Cnn
+#EXTINF:0,Exp Natyra
+http://jessicatv.site:8080/15247/6bc4e63e/4048
+#EXTINF:0,Exp Shkencë
+http://jessicatv.site:8080/15247/6bc4e63e/5961
+#EXTINF:0,Exp Histori
+http://jessicatv.site:8080/15247/6bc4e63e/1336
+#EXTINF:0,Cnn
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bbc" tvg-logo="" group-title="Channel",Bbc
+#EXTINF:0,Bbc
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/132.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
+#EXTINF:0,Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trt World" tvg-logo="" group-title="Channel",Trt World
+#EXTINF:0,Trt World
 http://185.226.88.3:1036/live/backup/backup/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zdf" tvg-logo="" group-title="Channel",Zdf
+#EXTINF:0,Zdf
 http://185.226.88.3:1036/live/backup/backup/38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtl 2" tvg-logo="" group-title="Channel",Rtl 2
+#EXTINF:0,Rtl 2
 http://185.226.88.3:1036/live/backup/backup/41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Vip 1 FHD" tvg-logo="" group-title="Channel",Big Brother Vip 1 FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273308.ts
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Vip 2 FHD" tvg-logo="" group-title="Channel",Big Brother Vip 2 FHD
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 HD ( A )" tvg-logo="" group-title="Channel",Big Brother 1 HD ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 HD ( A )" tvg-logo="" group-title="Channel",Big Brother 2 HD ( A )
-http://s2.servers.darkside-iptv.co:8080/p7kunuyx2R59/R0PzQ4N85nqV/273311.ts
