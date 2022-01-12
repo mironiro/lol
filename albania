@@ -1,175 +1,227 @@
 #EXTM3U
-#EXTINF:0,Top Channel
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
 http://185.226.88.3:1036/live/backup/backup/131.m3u8
-#EXTINF:0,Klan HD
+#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Channel",Klan HD
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
-#EXTINF:0,Vizion Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
 http://185.226.88.3:1036/live/backup/backup/111.m3u8
-#EXTINF:0,Alsat M
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Channel",Alsat M
 http://185.226.88.3:1036/live/backup/backup/116.m3u8
-#EXTINF:0,Klan News
+#EXTINF:-1 tvg-id="" tvg-name="Klan News" tvg-logo="" group-title="Channel",Klan News
 http://185.226.88.3:1036/live/backup/backup/167.m3u8
-#EXTINF:0,Rtsh 1
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh 1" tvg-logo="" group-title="Channel",Rtsh 1
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1028?checkedby:ahlakid.com
-#EXTINF:0,Report TV
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="Channel",Report TV
 http://185.226.88.3:1036/live/backup/backup/52.m3u8
-#EXTINF:0,Fax News
-http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:0,Kanali 7 News
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 News" tvg-logo="" group-title="Channel",Kanali 7 News
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1078?checkedby:ahlakid.com
-#EXTINF:0,Abc News
+#EXTINF:-1 tvg-id="" tvg-name="Abc News" tvg-logo="" group-title="Channel",Abc News
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1052?checkedby:ahlakid.com
-#EXTINF:0,Klan Plus
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Channel",Klan Plus
 http://185.226.88.3:1036/live/backup/backup/107.m3u8
-#EXTINF:0,Top News
+#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Channel",Top News
 http://93.157.62.180/TopNews/index.m3u8
-#EXTINF:0,Euronews Albania
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="" group-title="Channel",Euronews Albania
 http://185.226.88.3:1036/live/backup/backup/164.m3u8
-#EXTINF:0,Ora News
+#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Channel",Ora News
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
-#EXTINF:0,News 24
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Channel",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:0,Mcn TV
+#EXTINF:-1 tvg-id="" tvg-name="Mcn TV" tvg-logo="" group-title="Channel",Mcn TV
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
-#EXTINF:0,Syri TV
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Channel",Syri TV
 http://185.226.88.3:1036/live/backup/backup/133.m3u8
-#EXTINF:0,Scan 24
+#EXTINF:-1 tvg-id="" tvg-name="Scan 24" tvg-logo="" group-title="Channel",Scan 24
 http://edge01eu.ekranet.com/scantv/index.m3u8?e=e67e120a94bf96b8b9e2e8fa28be8808&c=scantv&medium=websocket
-#EXTINF:0,Rtk 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Rtk 1 HD" tvg-logo="" group-title="Channel",Rtk 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:0,Rtv 21 HD
+#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 HD" tvg-logo="" group-title="Channel",Rtv 21 HD
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1063
-#EXTINF:0,Ktv Kohavision
+#EXTINF:-1 tvg-id="" tvg-name="Ktv Kohavision" tvg-logo="" group-title="Channel",Ktv Kohavision
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1061
-#EXTINF:0,Rtv 21 Popullore
+#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Popullore" tvg-logo="" group-title="Channel",Rtv 21 Popullore
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts?checkedby:ahlakid.com
-#EXTINF:0,Bbf
+#EXTINF:-1 tvg-id="" tvg-name="Bbf" tvg-logo="" group-title="Channel",Bbf
 http://185.226.88.3:1036/live/backup/backup/112.m3u8
-#EXTINF:0,Bbf Music
+#EXTINF:-1 tvg-id="" tvg-name="Bbf Music" tvg-logo="" group-title="Channel",Bbf Music
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1079?checkedby:ahlakid.com
-#EXTINF:0,Klan Music
-http://185.226.88.3:1036/live/backup/backup/108.m3u8
-#EXTINF:0,Balkanika Musik
-http://185.226.88.3:1036/live/backup/backup/14.m3u8
-#EXTINF:0,Elrodi TV
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1071?checkedby:ahlakid.com
-#EXTINF:0,Mtv Kosova
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts?checkedby:ahlakid.com
-#EXTINF:0,Folk Plus
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1077
-#EXTINF:0,Elrodi TV
+#EXTINF:-1 tvg-id="" tvg-name="Klan Music" tvg-logo="" group-title="Channel",Klan Music
+http://185.226.88.3:1036/live/backup/backup/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
+http://185.204.32.49:6735/FolkPlus/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Frame TV Music" tvg-logo="" group-title="Channel",Frame TV Music
+http://195.154.252.221:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Flutura" tvg-logo="" group-title="Channel",TV Flutura
+http://bit.ly/fluturatv
+#EXTINF:-1 tvg-id="" tvg-name="TV Shqiponja" tvg-logo="" group-title="Channel",TV Shqiponja
+http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alb Music" tvg-logo="" group-title="Channel",Alb Music
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv" tvg-logo="" group-title="Channel",Mtv
+http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Channel",Dasma TV
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29870?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Dielli TV" tvg-logo="" group-title="Channel",Dielli TV
+http://190.115.29.22:8080/carter/GUV1bMq2VK/21190?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora TV" tvg-logo="" group-title="Channel",Diaspora TV
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29869?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika Musik" tvg-logo="" group-title="Channel",Balkanika Musik
+http://185.226.88.3:1036/live/backup/backup/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Kosova" tvg-logo="" group-title="Channel",Mtv Kosova
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Channel",Elrodi TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1071
-#EXTINF:0,Rtv 21 Junior
+#EXTINF:-1 tvg-id="" tvg-name="Rtv 21 Junior" tvg-logo="" group-title="Channel",Rtv 21 Junior
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts?checkedby:ahlakid.com
-#EXTINF:0,Cocuk
-http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0,[$]BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Channel",Baby TV
 http://62.210.152.92:25461/kanale2/Ass/19
-#EXTINF:0,[$]KIDS
-http://62.210.152.92:25461/kanale2/Ass/18
-#EXTINF:0,[$]BANG BANG
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Channel",Bang Bang
 http://62.210.152.92:25461/kanale2/Ass/20
-#EXTINF:0,Cartoon Netw
+#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
+http://93.157.62.180/Cufo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
+http://93.157.62.180/Cufo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Junior TV" tvg-logo="" group-title="Channel",Junior TV
+http://190.115.29.22:8080/carter/GUV1bMq2VK/1079?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Netw" tvg-logo="" group-title="Channel",Cartoon Netw
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/149.ts?checkedby:ahlakid.com
-#EXTINF:0,Tip TV
+#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1041?checkedby:ahlakid.com
-#EXTINF:0,Tring Kids
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="Channel",Tring Kids
 http://185.226.88.3:1036/live/backup/backup/79.m3u8
-#EXTINF:0,Tring Tring
+#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Channel",Tring Tring
 http://185.226.88.3:1036/live/backup/backup/78.m3u8
-#EXTINF:0,Lale
+#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:0,Rtsh Shkollë
+#EXTINF:-1 tvg-id="" tvg-name="Cocuk" tvg-logo="" group-title="Channel",Cocuk
+http://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shkollë" tvg-logo="" group-title="Channel",Rtsh Shkollë
 http://93.157.62.180/RTSHShkole/mpegts
-#EXTINF:0,Film Thriller FHD
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/4802
-#EXTINF:0,Tring Action
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Channel",Film Aksion
+http://190.115.29.22:8080/carter/GUV1bMq2VK/242?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Channel",Film Autor
+http://190.115.29.22:8080/carter/GUV1bMq2VK/241?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Box Arthouse" tvg-logo="" group-title="Channel",Film Box Arthouse
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29825?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Box Extra" tvg-logo="" group-title="Channel",Film Box Extra
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29824?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Box Plus" tvg-logo="" group-title="Channel",Film Box Plus
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29823?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Box Premium" tvg-logo="" group-title="Channel",Film Box Premium
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29826?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Drama" tvg-logo="" group-title="Channel",Film Drama
+http://190.115.29.22:8080/carter/GUV1bMq2VK/240?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="" group-title="Channel",Film Dy HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/239?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Gold 1" tvg-logo="" group-title="Channel",Film Gold 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2151?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Gold 3" tvg-logo="" group-title="Channel",Film Gold 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2149?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Gold 4" tvg-logo="" group-title="Channel",Film Gold 4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2148?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits  1" tvg-logo="" group-title="Channel",Film Hits  1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2158?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits HD" tvg-logo="" group-title="Channel",Film Hits HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/238?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="Channel",Film Komedi
+http://190.115.29.22:8080/carter/GUV1bMq2VK/237?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="" group-title="Channel",Film Nje HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/236?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Channel",Film Thriller
+http://190.115.29.22:8080/carter/GUV1bMq2VK/234?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Channel",Tring Action
 http://185.226.88.3:1036/live/backup/backup/69.m3u8
-#EXTINF:0,Tring World
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
 http://185.226.88.3:1036/live/backup/backup/66.m3u8
-#EXTINF:0,Tring Super
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
 http://185.226.88.3:1036/live/backup/backup/71.m3u8
-#EXTINF:0,Tring Shqip
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
 http://185.226.88.3:1036/live/backup/backup/74.m3u8
-#EXTINF:0,Tring Planet
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Channel",Tring Planet
 http://185.226.88.3:1036/live/backup/backup/67.m3u8
-#EXTINF:0,Tring Life
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
 http://185.226.88.3:1036/live/backup/backup/73.m3u8
-#EXTINF:0,Tring International
+#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
 http://185.226.88.3:1036/live/backup/backup/64.m3u8
-#EXTINF:0,Tring History
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="Channel",Tring History
 http://185.226.88.3:1036/live/backup/backup/68.m3u8
-#EXTINF:0,Tring Fantasy
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
 http://185.226.88.3:1036/live/backup/backup/72.m3u8
-#EXTINF:0,Living HD
+#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="Channel",Living HD
 http://185.226.88.3:1036/live/backup/backup/56.m3u8
-#EXTINF:0,D Drama
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts?checkedby:ahlakid.com
-#EXTINF:0,Kanal D Drama
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="Channel",3 Plus
+http://185.204.32.49:6735/3Plus/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Channel",Kanal D Drama
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1080?checkedby:ahlakid.com
-#EXTINF:0,Dashuria Smjafton
+#EXTINF:-1 tvg-id="" tvg-name="Dashuria Smjafton" tvg-logo="" group-title="Channel",Dashuria Smjafton
 http://130.0.27.131:88/movies/html/shqiptar/Dashuria-s'mjafton.mp4
-#EXTINF:0,Falco (Bes Kallaku)
+#EXTINF:-1 tvg-id="" tvg-name="Falco (Bes Kallaku)" tvg-logo="" group-title="Channel",Falco (Bes Kallaku)
 http://130.0.27.131:88/movies/html/falco/FALCO.mp4
-#EXTINF:0,I Love Tropoja
+#EXTINF:-1 tvg-id="" tvg-name="I Love Tropoja" tvg-logo="" group-title="Channel",I Love Tropoja
 http://130.0.27.131:88/movies/html/shqiptar/2020/I_love_Tropoja.mp4
-#EXTINF:0,Premium Channel
+#EXTINF:-1 tvg-id="" tvg-name="Premium Channel" tvg-logo="" group-title="Channel",Premium Channel
 http://premiummedia.al/stream/premium-channel/live.m3u8
-#EXTINF:0,Prime
+#EXTINF:-1 tvg-id="" tvg-name="Prime" tvg-logo="" group-title="Channel",Prime
 http://84.22.33.214/prime/mpegts
-#EXTINF:0,Dukagjini TV
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini TV" tvg-logo="" group-title="Channel",Dukagjini TV
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1075?checkedby:ahlakid.com
-#EXTINF:0,Peace TV
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
-#EXTINF:0,Tring Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi" tvg-logo="" group-title="Channel",Rtv Pendimi
+http://62.138.0.161:8081/hls/RTVPendimi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Channel",Tring Sport 2 HD
 http://185.226.88.3:1036/live/backup/backup/62.m3u8
-#EXTINF:0,Tring Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Channel",Tring Sport 3 HD
 http://185.226.88.3:1036/live/backup/backup/61.m3u8
-#EXTINF:0,Tring Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Channel",Tring Sport 4 HD
 http://185.226.88.3:1036/live/backup/backup/60.m3u8
-#EXTINF:0,Kujtesa Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1" tvg-logo="" group-title="Channel",Kujtesa Sport 1
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1057?checkedby:ahlakid.com
-#EXTINF:0,K Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 2" tvg-logo="" group-title="Channel",K Sport 2
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1058?checkedby:ahlakid.com
-#EXTINF:0,K Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="K Sport 3" tvg-logo="" group-title="Channel",K Sport 3
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1059?checkedby:ahlakid.com
-#EXTINF:0,Kujtesa Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3" tvg-logo="" group-title="Channel",Kujtesa Sport 3
 http://93.157.62.180/KSport3/mpegts
-#EXTINF:0,Kujtesa Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="Channel",Kujtesa Sport 4
 http://93.157.62.180/KSport4/mpegts
-#EXTINF:0,RTSH Sport1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sport1 HD" tvg-logo="" group-title="Channel",Rtsh Sport1 HD
 http://93.157.62.180/RTSHSport/index.m3u8
-#EXTINF:0,SuperSport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 1 HD" tvg-logo="" group-title="Channel",Supersport 1 HD
 http://jessicatv.site:8080/15247/6bc4e63e/1316
-#EXTINF:0,SuperSport 2 HD 
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 2 HD " tvg-logo="" group-title="Channel",Supersport 2 HD 
 http://jessicatv.site:8080/15247/6bc4e63e/1312
-#EXTINF:0,SuperSport 3 HD 
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 3 HD " tvg-logo="" group-title="Channel",Supersport 3 HD 
 http://jessicatv.site:8080/15247/6bc4e63e/1319
-#EXTINF:0,SuperSport 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 5 HD" tvg-logo="" group-title="Channel",Supersport 5 HD
 http://jessicatv.site:8080/15247/6bc4e63e/1860
-#EXTINF:0,Ss5
+#EXTINF:-1 tvg-id="" tvg-name="Ss5" tvg-logo="" group-title="Channel",Ss5
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:0,Sport 1HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1Hd" tvg-logo="" group-title="Channel",Sport 1Hd
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6872
-#EXTINF:0,Sport 2HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2Hd" tvg-logo="" group-title="Channel",Sport 2Hd
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6871
-#EXTINF:0,Sport 3HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport 3Hd" tvg-logo="" group-title="Channel",Sport 3Hd
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6870
-#EXTINF:0,Exp Natyra
+#EXTINF:-1 tvg-id="" tvg-name="Exp Natyra" tvg-logo="" group-title="Channel",Exp Natyra
 http://jessicatv.site:8080/15247/6bc4e63e/4048
-#EXTINF:0,Exp Shkencë
+#EXTINF:-1 tvg-id="" tvg-name="Exp Shkencë" tvg-logo="" group-title="Channel",Exp Shkencë
 http://jessicatv.site:8080/15247/6bc4e63e/5961
-#EXTINF:0,Exp Histori
+#EXTINF:-1 tvg-id="" tvg-name="Exp Histori" tvg-logo="" group-title="Channel",Exp Histori
 http://jessicatv.site:8080/15247/6bc4e63e/1336
-#EXTINF:0,Cnn
+#EXTINF:-1 tvg-id="" tvg-name="Cnn" tvg-logo="" group-title="Channel",Cnn
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/134.ts
-#EXTINF:0,Bbc
+#EXTINF:-1 tvg-id="" tvg-name="Bbc" tvg-logo="" group-title="Channel",Bbc
 http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/132.ts
-#EXTINF:0,Rai 3
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:0,Trt World
+#EXTINF:-1 tvg-id="" tvg-name="Trt World" tvg-logo="" group-title="Channel",Trt World
 http://185.226.88.3:1036/live/backup/backup/25.m3u8
-#EXTINF:0,Zdf
-http://185.226.88.3:1036/live/backup/backup/38.m3u8
-#EXTINF:0,Rtl 2
+#EXTINF:-1 tvg-id="" tvg-name="Rtl 2" tvg-logo="" group-title="Channel",Rtl 2
 http://185.226.88.3:1036/live/backup/backup/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zdf" tvg-logo="" group-title="Channel",Zdf
+http://185.226.88.3:1036/live/backup/backup/38.m3u8
