@@ -1,223 +1,215 @@
 #EXTM3U
-#EXTINF:-1,Top Channel
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
 http://199.127.60.117:8081/live/top/playlist.m3u8
-#EXTINF:-1,Klan TV
+#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Channel",Klan TV
 http://95.107.132.105/out/u/628_1.m3u8
-#EXTINF:-1,Klan TV
+#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Channel",Klan TV
 http://199.127.60.117:8081/live/klan/playlist.m3u8
-#EXTINF:-1,Vizion Plus
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
+http://tv.romanija.xyz:8080/22maky/test111/1090
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Channel",Vizion Plus
 http://199.127.60.117:8081/live/vizionplus/playlist.m3u8
-#EXTINF:-1,Vizion Plus
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Channel",Vizion Plus
 http://95.107.132.106/out/u/646_5.m3u8
-#EXTINF:-1,Rtsh 24
-http://199.127.60.117:8081/live/rtsh24/playlist.m3u8
-#EXTINF:-1,Arta News
-http://84.22.33.254/unicast.artanews/index.m3u8?token=1
-#EXTINF:-1,News 24
-http://199.127.60.117:8081/live/news24/playlist.m3u8
-#EXTINF:-1,Abc News
-http://199.127.60.117:8081/live/abcnews/playlist.m3u8
-#EXTINF:-1,Report TV
-http://199.127.60.117:8081/live/reporttv/playlist.m3u8
-#EXTINF:-1,Kanali 7
-http://95.107.132.105/out/u/581_1.m3u8
-#EXTINF:-1,Rtv Ora
-http://live1.mediadesk.al/oratv.php
-#EXTINF:-1,Scan TV
-http://edge01eu.ekranet.com/scantv/index.m3u8
-#EXTINF:-1,Syri TV
-http://199.127.60.117:8081/live/syritv/playlist.m3u8
-#EXTINF:-1,Rtv 21
-http://199.127.60.117:8081/live/rtv21/playlist.m3u8
-#EXTINF:-1,Rtk Sat
-http://edge01eu.ekranet.com/rtk1/index.m3u8
-#EXTINF:-1,Alsat M
-http://95.107.132.105/out/u/645_1.m3u8
-#EXTINF:-1,TV Dukagjini
-http://95.107.132.105/out/u/198_3.m3u8
-#EXTINF:-1,Mtv
-http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
-#EXTINF:-1,Bbf
-http://95.107.132.106/out/u/425_2.m3u8
-#EXTINF:-1,Bbf
-http://84.22.33.254/unicast.bbf/index.m3u8?token=1
-#EXTINF:-1,Bbf
-http://iptvhdnew.com:8080/1805/1805/53631
-#EXTINF:-1,Rtv 21 Popullore HD
-http://iptvhdnew.com:8080/1805/1805/53699
-#EXTINF:-1,Club TV
-http://84.22.33.254/unicast.clubtv/index.m3u8?token=1
-#EXTINF:-1,Dasma TV
-http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:-1,Folk Plus
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
 http://84.22.33.254/unicast.folkplus/index.m3u8?token=1
-#EXTINF:-1,Zico TV
-http://84.22.33.254/unicast.zicotv/index.m3u8
-#EXTINF:-1,Folk Plus
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
 http://95.107.132.105/out/u/44_1.m3u8
-#EXTINF:-1,Elrodi TV
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Channel",Elrodi TV
 http://95.107.132.105/out/u/156_1.m3u8
-#EXTINF:-1,Club TV
+#EXTINF:-1 tvg-id="" tvg-name="Club TV" tvg-logo="" group-title="Channel",Club TV
 http://95.107.132.105/out/u/87_2.m3u8
-#EXTINF:-1,Dasma TV
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Channel",Dasma TV
 http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:-1,Folk Plus
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
 http://95.107.132.105/out/u/44_1.m3u8
-#EXTINF:-1,Stv Folk
+#EXTINF:-1 tvg-id="" tvg-name="Stv Folk" tvg-logo="" group-title="Channel",Stv Folk
 http://albamax.ddns.net:8080/live/vip-cms/Exchange2021/194.m3u8
-#EXTINF:-1,Zico TV
-http://84.22.33.254/unicast.zicotv/index.m3u8
-#EXTINF:-1,Kanald Drama
+#EXTINF:-1 tvg-id="" tvg-name="Kanald Drama" tvg-logo="" group-title="Channel",Kanald Drama
 http://199.127.60.117:8081/live/tringdrama/playlist.m3u8
-#EXTINF:-1,3 Plus
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="Channel",3 Plus
 http://95.107.132.105/out/u/31_3.m3u8
-#EXTINF:-1,Dizi
+#EXTINF:-1 tvg-id="" tvg-name="Dizi" tvg-logo="" group-title="Channel",Dizi
 http://1.ledi-iptv.ch:2235/live/U6cUAhXmf8/9fzZmjg5Vv/29368.m3u8
-#EXTINF:-1,Klan Plus
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Channel",Klan Plus
 http://95.107.132.105/out/u/657_1.m3u8
-#EXTINF:-1,Living
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
+http://tv.romanija.xyz:8080/22maky/test111/1030
+#EXTINF:-1 tvg-id="" tvg-name="Living" tvg-logo="" group-title="Channel",Living
 http://95.107.132.105/out/u/480_2.m3u8
-#EXTINF:-1,Premium Channel
+#EXTINF:-1 tvg-id="" tvg-name="Premium Channel" tvg-logo="" group-title="Channel",Premium Channel
 http://premiummedia.al/stream/premium-channel/live.m3u8
-#EXTINF:-1,Premium Travel
+#EXTINF:-1 tvg-id="" tvg-name="Premium Travel" tvg-logo="" group-title="Channel",Premium Travel
 http://premiummedia.al/stream/premium-travel/live.m3u8
-#EXTINF:-1,Rtsh 1
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh 1" tvg-logo="" group-title="Channel",Rtsh 1
 http://95.107.132.105/out/u/641_4.m3u8
-#EXTINF:-1,Rtsh KukëSi
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Channel",Alsat M
+http://tv.romanija.xyz:8080/22maky/test111/998
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="" group-title="Channel",KTV
+http://tv.romanija.xyz:8080/22maky/test111/1032
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Channel",RTK 1
+http://tv.romanija.xyz:8080/22maky/test111/1038
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24 HD" tvg-logo="" group-title="Channel",RTSH 24 HD
+http://tv.romanija.xyz:8080/22maky/test111/1044
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 HD" tvg-logo="" group-title="Channel",RTV 21 HD
+http://tv.romanija.xyz:8080/22maky/test111/1047
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh KukëSi" tvg-logo="" group-title="Channel",Rtsh KukëSi
 http://tvlive.rtsh.dev/live/rtsh_kukesi_ott/playlist.m3u8
-#EXTINF:-1,Shijak TV
+#EXTINF:-1 tvg-id="" tvg-name="Shijak TV" tvg-logo="" group-title="Channel",Shijak TV
 http://edge01eu.ekranet.com/shijaktv/index.m3u8
-#EXTINF:-1,TV Kopliku
+#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku" tvg-logo="" group-title="Channel",TV Kopliku
 http://95.107.132.105/out/u/152_1.m3u8
-#EXTINF:-1,Zjarr TV
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="" group-title="Channel",Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-1,Teuta TV
+#EXTINF:-1 tvg-id="" tvg-name="Teuta TV" tvg-logo="" group-title="Channel",Teuta TV
 http://teutastream.com/tvteuta/index.m3u8
-#EXTINF:-1,Junior
+#EXTINF:-1 tvg-id="" tvg-name="Junior" tvg-logo="" group-title="Channel",Junior
 http://1.ledi-iptv.ch:2235/live/U6cUAhXmf8/9fzZmjg5Vv/1341.m3u8
-#EXTINF:-1,Bangbang
+#EXTINF:-1 tvg-id="" tvg-name="Junior TV" tvg-logo="" group-title="Channel",Junior TV
+http://tv.romanija.xyz:8080/22maky/test111/1026
+#EXTINF:-1 tvg-id="" tvg-name="Besa TV" tvg-logo="" group-title="Channel",Besa TV
+http://tv.romanija.xyz:8080/22maky/test111/1003
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Channel",Elrodi TV
+http://tv.romanija.xyz:8080/22maky/test111/1011
+#EXTINF:-1 tvg-id="" tvg-name="Bangbang" tvg-logo="" group-title="Channel",Bangbang
 http://iptvhdnew.com:8080/1805/1805/53723
-#EXTINF:-1,Cufo HD
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="Channel",Bang Bang
+http://tv.romanija.xyz:8080/22maky/test111/1001
+#EXTINF:-1 tvg-id="" tvg-name="Cufo HD" tvg-logo="" group-title="Channel",Cufo HD
 http://iptvhdnew.com:8080/1805/1805/53637
-#EXTINF:-1,Cufo TV
+#EXTINF:-1 tvg-id="" tvg-name="Cufo TV" tvg-logo="" group-title="Channel",Cufo TV
 http://iptvhdnew.com:8080/1805/1805/53722
-#EXTINF:-1,Lale
+#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
 http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:-1,Cocuk
+#EXTINF:-1 tvg-id="" tvg-name="Cocuk" tvg-logo="" group-title="Channel",Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1,Wow TV
+#EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
-#EXTINF:-1,Tip TV
+#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
 http://95.107.132.106/out/u/883_1.m3u8
-#EXTINF:-1,Rtsh Shkollë
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shkollë" tvg-logo="" group-title="Channel",Rtsh Shkollë
 http://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
-#EXTINF:-1,Tring World
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
 http://95.107.132.105/out/u/410_4.m3u8
-#EXTINF:-1,Living
+#EXTINF:-1 tvg-id="" tvg-name="Living" tvg-logo="" group-title="Channel",Living
 http://95.107.132.105/out/u/480_2.m3u8
-#EXTINF:-1,Tring Super
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
 http://95.107.132.105/out/u/689_3.m3u8
-#EXTINF:-1,Tring Family
+#EXTINF:-1 tvg-id="" tvg-name="Tring Family" tvg-logo="" group-title="Channel",Tring Family
 http://95.107.132.105/out/u/673_3.m3u8
-#EXTINF:-1,Tring Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="Channel",Tring Comedy
 http://95.107.132.105/out/u/573_1.m3u8
-#EXTINF:-1,3 Plus
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="Channel",3 Plus
 http://95.107.132.105/out/u/31_3.m3u8
-#EXTINF:-1,Tring Shqip
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
 http://95.107.132.105/out/u/683_1.m3u8
-#EXTINF:-1,Tring International
+#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
 http://95.107.132.105/out/u/609_3.m3u8
-#EXTINF:-1,Smile
+#EXTINF:-1 tvg-id="" tvg-name="Smile" tvg-logo="" group-title="Channel",Smile
 http://95.107.132.105/out/u/349_2.m3u8
-#EXTINF:-1,Film Autor HD
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor HD" tvg-logo="" group-title="Channel",Film Autor HD
 http://iptvhdnew.com:8080/1805/1805/53643
-#EXTINF:-1,Film Dy HD
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="" group-title="Channel",Film Dy HD
 http://iptvhdnew.com:8080/1805/1805/53719
-#EXTINF:-1,Film Nje HD
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="" group-title="Channel",Film Nje HD
 http://iptvhdnew.com:8080/1805/1805/53673
-#EXTINF:-1,Film Thriller HD
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller HD" tvg-logo="" group-title="Channel",Film Thriller HD
 http://iptvhdnew.com:8080/1805/1805/53648
-#EXTINF:-1,Tr?Ng Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Channel",Film Aksion
+http://tv.romanija.xyz:8080/22maky/test111/1016
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Channel",Film Autor
+http://tv.romanija.xyz:8080/22maky/test111/1017
+#EXTINF:-1 tvg-id="" tvg-name="Film Drame" tvg-logo="" group-title="Channel",Film Drame
+http://tv.romanija.xyz:8080/22maky/test111/1018
+#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="" group-title="Channel",Film Dy HD
+http://tv.romanija.xyz:8080/22maky/test111/1019
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Channel",Film Hits
+http://tv.romanija.xyz:8080/22maky/test111/1020
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="Channel",Film Komedi
+http://tv.romanija.xyz:8080/22maky/test111/1021
+#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="" group-title="Channel",Film Nje HD
+http://tv.romanija.xyz:8080/22maky/test111/1022
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet" tvg-logo="" group-title="Channel",Film Stinet
+http://tv.romanija.xyz:8080/22maky/test111/1023
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Channel",Film Thriller
+http://tv.romanija.xyz:8080/22maky/test111/1024
+#EXTINF:-1 tvg-id="" tvg-name="Tr?Ng Action HD" tvg-logo="" group-title="Channel",Tr?Ng Action HD
 http://iptvhdnew.com:8080/1805/1805/53691
-#EXTINF:-1,Tring 3 Plus Music HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3 Plus Music HD" tvg-logo="" group-title="Channel",Tring 3 Plus Music HD
 http://iptvhdnew.com:8080/1805/1805/53688
-#EXTINF:-1,Tring Comedy HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy HD" tvg-logo="" group-title="Channel",Tring Comedy HD
 http://iptvhdnew.com:8080/1805/1805/53644
-#EXTINF:-1,Tring Fantasy SD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy SD" tvg-logo="" group-title="Channel",Tring Fantasy SD
 http://iptvhdnew.com:8080/1805/1805/53687
-#EXTINF:-1,Tring History HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring History HD" tvg-logo="" group-title="Channel",Tring History HD
 http://iptvhdnew.com:8080/1805/1805/53686
-#EXTINF:-1,Tring Life
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
 http://iptvhdnew.com:8080/1805/1805/53684
-#EXTINF:-1,Tring Shqip HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip HD" tvg-logo="" group-title="Channel",Tring Shqip HD
 http://iptvhdnew.com:8080/1805/1805/53683
-#EXTINF:-1,Tring Classic
+#EXTINF:-1 tvg-id="" tvg-name="Tring Classic" tvg-logo="" group-title="Channel",Tring Classic
 http://95.107.132.106/out/u/842_5.m3u8
-#EXTINF:-1,Tring Info
+#EXTINF:-1 tvg-id="" tvg-name="Tring Info" tvg-logo="" group-title="Channel",Tring Info
 http://95.107.132.106/out/u/419_1.m3u8
-#EXTINF:-1,Tring International
+#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
 http://95.107.132.105/out/u/609_3.m3u8
-#EXTINF:-1,Tring Novelas
+#EXTINF:-1 tvg-id="" tvg-name="Tring Novelas" tvg-logo="" group-title="Channel",Tring Novelas
 http://95.107.132.106/out/u/858_5.m3u8
-#EXTINF:-1,Tring Super
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
 http://199.127.60.117:8081/live/tringsuper/playlist.m3u8
-#EXTINF:-1,Exp Histori HD
+#EXTINF:-1 tvg-id="" tvg-name="Exp Histori HD" tvg-logo="" group-title="Channel",Exp Histori HD
 http://iptvhdnew.com:8080/1805/1805/53639
-#EXTINF:-1,Exp Natyra
-http://iptvhdnew.com:8080/1805/1805/53717
-#EXTINF:-1,Exp Shkence
-http://iptvhdnew.com:8080/1805/1805/53716
-#EXTINF:-1,Explorer Natyra
+#EXTINF:-1 tvg-id="" tvg-name="Explorer Natyra" tvg-logo="" group-title="Channel",Explorer Natyra
 http://iptvhdnew.com:8080/1805/1805/53640
-#EXTINF:-1,Rtsh Sport
+#EXTINF:-1 tvg-id="" tvg-name="Exp Natyra" tvg-logo="" group-title="Channel",Exp Natyra
+http://iptvhdnew.com:8080/1805/1805/53717
+#EXTINF:-1 tvg-id="" tvg-name="Exp Shkence" tvg-logo="" group-title="Channel",Exp Shkence
+http://iptvhdnew.com:8080/1805/1805/53716
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sport" tvg-logo="" group-title="Channel",Rtsh Sport
 http://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1,Tring Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1" tvg-logo="" group-title="Channel",Tring Sport 1
 http://95.107.132.106/out/u/683_3.m3u8
-#EXTINF:-1,Tring Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1" tvg-logo="" group-title="Channel",Tring Sport 1
 http://iptvhdnew.com:8080/1805/1805/53680
-#EXTINF:-1,Tring Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2" tvg-logo="" group-title="Channel",Tring Sport 2
 http://95.107.132.106/out/u/692_5.m3u8
-#EXTINF:-1,Tring Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3" tvg-logo="" group-title="Channel",Tring Sport 3
 http://95.107.132.106/out/u/699_1.m3u8
-#EXTINF:-1,Tring Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Channel",Tring Sport 3 HD
+http://tv.romanija.xyz:8080/22maky/test111/1074
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4" tvg-logo="" group-title="Channel",Tring Sport 4
 http://95.107.132.106/out/u/713_3.m3u8
-#EXTINF:-1,Tring Sport News
-http://95.107.132.106/out/u/811_1.m3u8
-#EXTINF:-1,Supersport 2 HD
-http://iptvhdnew.com:8080/1805/1805/53655
-#EXTINF:-1,Adrianet
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Channel",Tring Sport 4 HD
+http://tv.romanija.xyz:8080/22maky/test111/1075
+#EXTINF:-1 tvg-id="" tvg-name="Adrianet" tvg-logo="" group-title="Channel",Adrianet
 http://95.107.132.106/out/u/370_1.m3u8
-#EXTINF:-1,Dashuria Smjafton
+#EXTINF:-1 tvg-id="" tvg-name="Dashuria Smjafton" tvg-logo="" group-title="Channel",Dashuria Smjafton
 http://130.0.27.131:88/movies/html/shqiptar/Dashuria-s'mjafton.mp4
-#EXTINF:-1,Falco (Bes Kallaku)
+#EXTINF:-1 tvg-id="" tvg-name="Falco (Bes Kallaku)" tvg-logo="" group-title="Channel",Falco (Bes Kallaku)
 http://130.0.27.131:88/movies/html/falco/FALCO.mp4
-#EXTINF:-1,I Love Tropoja
+#EXTINF:-1 tvg-id="" tvg-name="I Love Tropoja" tvg-logo="" group-title="Channel",I Love Tropoja
 http://130.0.27.131:88/movies/html/shqiptar/2020/I_love_Tropoja.mp4
-#EXTINF:-1,Premium Channel
+#EXTINF:-1 tvg-id="" tvg-name="Premium Channel" tvg-logo="" group-title="Channel",Premium Channel
 http://premiummedia.al/stream/premium-channel/live.m3u8
-#EXTINF:-1,Peace TV
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
-#EXTINF:-1,Rtv Pendimi
-http://62.138.0.161:8081/hls/RTVPendimi/index.m3u8
-#EXTINF:-1,Rai 3
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,Sport1 HD
-http://stariptv.org:8080/wael2021/123456/15560
-#EXTINF:-1,Sport2 HD
-http://stariptv.org:8080/wael2021/123456/15559
-#EXTINF:-1,Sport3 HD
-http://stariptv.org:8080/wael2021/123456/15558
-#EXTINF:-1,Sport4 HD
-http://stariptv.org:8080/wael2021/123456/15557
-#EXTINF:-1,Sport5 HD
-http://stariptv.org:8080/wael2021/123456/15556
-#EXTINF:-1,Sport6 HD
-http://stariptv.org:8080/wael2021/123456/15555
-#EXTINF:-1,Sport7 HD
-http://stariptv.org:8080/wael2021/123456/15720
-#EXTINF:-1,Sport1 En HD
-http://stariptv.org:8080/wael2021/123456/112461
-#EXTINF:-1,Sport2 En HD
-http://stariptv.org:8080/wael2021/123456/112462
-#EXTINF:-1,Sport3 En HD
-http://stariptv.org:8080/wael2021/123456/112463
+#EXTINF:-1 tvg-id="" tvg-name="Explorer Shkence" tvg-logo="" group-title="Channel",Explorer Shkence
+http://tv.romanija.xyz:8080/22maky/test111/1015
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 HD" tvg-logo="" group-title="Channel",Super Sport 2 HD
+http://tv.romanija.xyz:8080/22maky/test111/1053
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 2 HD" tvg-logo="" group-title="Channel",Supersport 2 HD
+http://iptvhdnew.com:8080/1805/1805/53655
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="" group-title="Channel",Super Sport 3 HD
+http://tv.romanija.xyz:8080/22maky/test111/1054
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="" group-title="Channel",Super Sport 4 HD
+http://tv.romanija.xyz:8080/22maky/test111/1055
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 HD" tvg-logo="" group-title="Channel",Super Sport 5 HD
+http://tv.romanija.xyz:8080/22maky/test111/1056
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2" tvg-logo="" group-title="Channel",Kujtesa Sport 2
+http://tv.romanija.xyz:8080/22maky/test111/1034
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 1" tvg-logo="" group-title="Channel",Super Sport Kosova 1
+http://tv.romanija.xyz:8080/22maky/test111/1057
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport Kosova 2" tvg-logo="" group-title="Channel",Super Sport Kosova 2
+http://tv.romanija.xyz:8080/22maky/test111/1058
