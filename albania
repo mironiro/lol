@@ -1,335 +1,175 @@
 #EXTM3U
-#EXTINF:-1, Top Channel
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/181
-#EXTINF:-1, Top Channel HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/1
-#EXTINF:-1, Klan Tv
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/180
-#EXTINF:-1, Klan HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/2
-#EXTINF:-1, Vizion Plus
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/182
-#EXTINF:-1, Vizion Plus HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/3
-#EXTINF:-1, RTSH 1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/4
-#EXTINF:-1, Klan macedonia
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/199
-#EXTINF:-1, LAJMET
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/11
-#EXTINF:-1, News24
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/14
-#EXTINF:-1, Ora tv
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/16
-#EXTINF:-1, A2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/18
-#EXTINF:-1, Report TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/19
-#EXTINF:-1, ARTA NEWS
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/20
-#EXTINF:-1, Syri TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/183
-#EXTINF:-1, ☆TELE ONE FILM TV☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/23
-#EXTINF:-1, TELE one muzik Shqip
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/24
-#EXTINF:-1, TELE one Aksion HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/25
-#EXTINF:-1, TELE one Aventure
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/26
-#EXTINF:-1, TELE one Crime HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/27
-#EXTINF:-1, TELE one GOLD Collection HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/28
-#EXTINF:-1, TELE one fantazi HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/29
-#EXTINF:-1, TELE one Drama HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/31
-#EXTINF:-1, TELE one Epik HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/32
-#EXTINF:-1, TELE one Gags
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/33
-#EXTINF:-1, TELE one muzik hits HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/34
-#EXTINF:-1, TELE one KURANI ( shqip )
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/35
-#EXTINF:-1, TELE one 1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/36
-#EXTINF:-1, TELE one 2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/37
-#EXTINF:-1, TELE one 3
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/38
-#EXTINF:-1, TELE one 4
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/39
-#EXTINF:-1, TELE one 5
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/40
-#EXTINF:-1, TELE one 6
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/41
-#EXTINF:-1, DIGITALB E TRING ☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/42
-#EXTINF:-1, Film Aksion
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/45
-#EXTINF:-1, Family HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/46
-#EXTINF:-1, Eurofilm
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/47
-#EXTINF:-1, Film Autor
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/48
-#EXTINF:-1, Film Stine
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/49
-#EXTINF:-1, Film Thriller
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/50
-#EXTINF:-1, Film Hits
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/53
-#EXTINF:-1, Film Komedi
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/54
-#EXTINF:-1, TRING ACTION
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/55
-#EXTINF:-1, TRING COMEDY
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/56
-#EXTINF:-1, TRING FANTASY
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/57
-#EXTINF:-1, TRING LIFE
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/58
-#EXTINF:-1, TRING SHQIP
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/59
-#EXTINF:-1, TRING SUPER
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/60
-#EXTINF:-1, JOLLY hd
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/61
-#EXTINF:-1, Tring 3 PLUS
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/62
-#EXTINF:-1, Kanal D Drama HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/194
-#EXTINF:-1, Tom  and  Jerry
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/64
-#EXTINF:-1, Kinema Animation
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/65
-#EXTINF:-1, RTSH Femije
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/66
-#EXTINF:-1, CUFO TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/67
-#EXTINF:-1, Bang Bang
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/68
-#EXTINF:-1, TRING TRING
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/69
-#EXTINF:-1, JUNIOR TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/70
-#EXTINF:-1, TRING SMILE
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/71
-#EXTINF:-1, TRING KIDS
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/72
-#EXTINF:-1, ☆DOKUMENTAR☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/73
-#EXTINF:-1, EXP HISTORI
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/74
-#EXTINF:-1, EXP Natyra
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/75
-#EXTINF:-1, EXP SHKENCE
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/76
-#EXTINF:-1, TRING WORLD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/77
-#EXTINF:-1, TRING HISTORI
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/78
-#EXTINF:-1, TRING PLANET
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/79
-#EXTINF:-1, Living
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/80
-#EXTINF:-1, RTK 1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/82
-#EXTINF:-1, RTK 2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/83
-#EXTINF:-1, RTK 3
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/84
-#EXTINF:-1, RTK 4
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/85
-#EXTINF:-1, KTV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/86
-#EXTINF:-1, KLAN KOSOVA
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/87
-#EXTINF:-1, ERA TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/88
-#EXTINF:-1, Alsat M
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/89
-#EXTINF:-1, RTV 21
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/90
-#EXTINF:-1, RTV 21 PLUS HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/93
-#EXTINF:-1, RTV 21 POPULLORE
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/94
-#EXTINF:-1, TV KOHA tetov
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/95
-#EXTINF:-1, T 7
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/96
-#EXTINF:-1, First tv
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/97
-#EXTINF:-1, ☆MUZIKE☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/114
-#EXTINF:-1, ELrodi
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/116
-#EXTINF:-1, Folk
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/117
-#EXTINF:-1, Supersonic TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/118
+#EXTINF:-1, Top Channel 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=837&extension=m3u8
+#EXTINF:-1, Klan_HD 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=838&extension=m3u8
+#EXTINF:-1, Klan_Plus 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=834&extension=m3u8
+#EXTINF:-1, Klan_Kosova 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=840&extension=m3u8
+#EXTINF:-1, Vizion Plus 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=836&extension=m3u8
+#EXTINF:-1, T HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=833&extension=m3u8
+#EXTINF:-1, Top News 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=829&extension=m3u8
+#EXTINF:-1, News24 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=830&extension=m3u8
+#EXTINF:-1, Ora News 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=832&extension=m3u8
+#EXTINF:-1, Cufo 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=792&extension=m3u8
+#EXTINF:-1, Tring Tring 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=793&extension=m3u8
+#EXTINF:-1, Tring Kids
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=787&extension=m3u8
+#EXTINF:-1, Tring Tip
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=788&extension=m3u8
+#EXTINF:-1, Junior_TV 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=791&extension=m3u8
 #EXTINF:-1, BBF
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/119
-#EXTINF:-1, My Music
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/120
-#EXTINF:-1, Balkanika TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/21
-#EXTINF:-1, ☆PAKETA TE TJERA☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/121
-#EXTINF:-1, X Premium 3 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/124
-#EXTINF:-1, X Premium 4 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/125
-#EXTINF:-1, X Comedy HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/127
-#EXTINF:-1, X Dark HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/128
-#EXTINF:-1, X Family HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/129
-#EXTINF:-1, X Western HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/130
-#EXTINF:-1, X Action HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/131
-#EXTINF:-1, Kinema Aksion
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/132
-#EXTINF:-1, Kinema Aksion MAX
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/133
-#EXTINF:-1, Kinema Classics
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/134
-#EXTINF:-1, Kinema Comedy
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/135
-#EXTINF:-1, Kinema Family
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/136
-#EXTINF:-1, Kinema Fantasy
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/137
-#EXTINF:-1, Kinema Gold
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/138
-#EXTINF:-1, Kinema Hits
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/139
-#EXTINF:-1, Kinema Milenium 1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/140
-#EXTINF:-1, Kinema Milenium 2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/141
-#EXTINF:-1, Kinema Milenium 3
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/142
-#EXTINF:-1, Kinema Milenium 4
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/143
-#EXTINF:-1, Kinema Super
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/144
-#EXTINF:-1, ☆ LOKALE TE NDRYSHME ☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/145
-#EXTINF:-1, Boin TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/146
-#EXTINF:-1, RTV Fontana
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/147
-#EXTINF:-1, TDC
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/148
-#EXTINF:-1, Tv Besa
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/150
-#EXTINF:-1, BLUE SKY TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/151
-#EXTINF:-1, CH-1 SHKODRA
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/152
-#EXTINF:-1, ANTENA-TV SHKODER
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/154
-#EXTINF:-1, STAR PLUS SHKODRA
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/155
-#EXTINF:-1, TV KOPLIKU
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/156
-#EXTINF:-1, Tv Dukagjini
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/157
-#EXTINF:-1, RTV SHARRI HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/159
-#EXTINF:-1, STV ONLIN
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/160
-#EXTINF:-1, TV OPOJA HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/161
-#EXTINF:-1, Dasma TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/163
-#EXTINF:-1, Top Estrada
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/162
-#EXTINF:-1, TURBO CHANNEL
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/164
-#EXTINF:-1, ZJARR TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/165
-#EXTINF:-1, Medinna TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/166
-#EXTINF:-1, Mekke TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/167
-#EXTINF:-1, PEACE TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/168
-#EXTINF:-1, RTV ISLAM
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/169
-#EXTINF:-1, Xalastra TV
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/185
-#EXTINF:-1, Tile Mousiki
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/186
-#EXTINF:-1, ☆SPORT  DIGITALB  and  TRING  and  KOSOVA☆
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/98
-#EXTINF:-1, Super Sport 1 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/100
-#EXTINF:-1, Super Sport 4 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/103
-#EXTINF:-1, TRING SPORT NEWS
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/105
-#EXTINF:-1, TRING SPORT 1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/106
-#EXTINF:-1, TRING SPORT 2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/107
-#EXTINF:-1, TRING SPORT 3
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/108
-#EXTINF:-1, TRING SPORT 4
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/109
-#EXTINF:-1, Kujtesa Sport 1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/110
-#EXTINF:-1, Kujtesa Sport 2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/111
-#EXTINF:-1, Kujtesa Sport 3
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/112
-#EXTINF:-1, Kujtesa Sport 4
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/113
-#EXTINF:-1, Bein Sport 1 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/170
-#EXTINF:-1, Bein Sport 2 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/171
-#EXTINF:-1, Bein Sport 3 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/172
-#EXTINF:-1, Bein Sport 4 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/173
-#EXTINF:-1, Bein Sport 5 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/174
-#EXTINF:-1, Bein Sport 6 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/175
-#EXTINF:-1, Bein Sport 7 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/176
-#EXTINF:-1, Bein Sport 9 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/178
-#EXTINF:-1, Bein Sport 10 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/179
-#EXTINF:-1, Eleven HD1
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/187
-#EXTINF:-1, Eleven HD2
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/188
-#EXTINF:-1, Eleven HD3
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/189
-#EXTINF:-1, Eleven HD4
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/200
-#EXTINF:-1, CBC SPORT
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/190
-#EXTINF:-1, TRT-3 SPOR
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/193
-#EXTINF:-1, Arena Sport 1HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/191
-#EXTINF:-1, Arena Sport 2HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/192
-#EXTINF:-1, Arena Sport 3HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/201
-#EXTINF:-1, Arena Sport 4HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/202
-#EXTINF:-1, ARENA SPORT 5HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/212
-#EXTINF:-1, ARENA SPORT 6HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/213
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=782&extension=m3u8
+#EXTINF:-1, My Music 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=786&extension=m3u8
+#EXTINF:-1, Tring Shqip 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=804&extension=m3u8
+#EXTINF:-1, Film Max
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=817&extension=m3u8
+#EXTINF:-1, Film Gold 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=818&extension=m3u8
+#EXTINF:-1, Film Hits
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=814&extension=m3u8
+#EXTINF:-1, Film Aksion HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=812&extension=m3u8
+#EXTINF:-1, Tring Action HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=808&extension=m3u8
+#EXTINF:-1, Tring Super HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=810&extension=m3u8
+#EXTINF:-1, Tring Fantasy 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=805&extension=m3u8
+#EXTINF:-1, Tring Comedy 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=809&extension=m3u8
+#EXTINF:-1, Tring Jolly_HD 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=806&extension=m3u8
+#EXTINF:-1, Tring Life 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=807&extension=m3u8
+#EXTINF:-1, Tring 3 Plus 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=828&extension=m3u8
+#EXTINF:-1, Film Drame 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=816&extension=m3u8
+#EXTINF:-1, Film Thriller 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=815&extension=m3u8
+#EXTINF:-1, Film Komedi 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=813&extension=m3u8
+#EXTINF:-1, Film Autor 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=811&extension=m3u8
+#EXTINF:-1, Fox Life 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=801&extension=m3u8
+#EXTINF:-1, CineStar TV 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=731&extension=m3u8
+#EXTINF:-1, CineStar TV Premiere 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=730&extension=m3u8
+#EXTINF:-1, CineStar TV Premiere 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=729&extension=m3u8
+#EXTINF:-1, CineStar TV Action 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=728&extension=m3u8
+#EXTINF:-1, TV 1000
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=720&extension=m3u8
+#EXTINF:-1, Explorer Shkence 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=800&extension=m3u8
+#EXTINF:-1, Explorer Histori 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=797&extension=m3u8
+#EXTINF:-1, Explorer Natyra 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=799&extension=m3u8
+#EXTINF:-1, Tring World 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=795&extension=m3u8
+#EXTINF:-1, Tring Planet 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=798&extension=m3u8
+#EXTINF:-1, Tring History 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=796&extension=m3u8
+#EXTINF:-1, Discovery 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=718&extension=m3u8
+#EXTINF:-1, National Geographic 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=713&extension=m3u8
+#EXTINF:-1, National Geographic Wild
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=714&extension=m3u8
+#EXTINF:-1, Animal Planet 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=709&extension=m3u8
+#EXTINF:-1, Travel Channel 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=716&extension=m3u8
+#EXTINF:-1, 24 Kitchen 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=708&extension=m3u8
+#EXTINF:-1, Crime Investigations 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=706&extension=m3u8
+#EXTINF:-1, History 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=712&extension=m3u8
+#EXTINF:-1, History 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=711&extension=m3u8
+#EXTINF:-1, RTSH 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=835&extension=m3u8
+#EXTINF:-1, Alsat
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=831&extension=m3u8
+#EXTINF:-1, KTV
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=842&extension=m3u8
+#EXTINF:-1, RTV 21
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=841&extension=m3u8
+#EXTINF:-1, T 7
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=839&extension=m3u8
+#EXTINF:-1, TV Prizreni 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=768&extension=m3u8
+#EXTINF:-1, Dukagjini_TV 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=790&extension=m3u8
+#EXTINF:-1, Tring Sport 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=780&extension=m3u8
+#EXTINF:-1, Tring Sport 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=778&extension=m3u8
+#EXTINF:-1, SuperSport News 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=776&extension=m3u8
+#EXTINF:-1, SuperSport 2 Kosova
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=775&extension=m3u8
+#EXTINF:-1, SuperSport 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=773&extension=m3u8
+#EXTINF:-1, SuperSport 
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=772&extension=m3u8
+#EXTINF:-1, K Sport 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=767&extension=m3u8
+#EXTINF:-1, K Sport 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=766&extension=m3u8
+#EXTINF:-1, K Sport 3
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=765&extension=m3u8
+#EXTINF:-1, BeinSport 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=844&extension=m3u8
+#EXTINF:-1, Sport Klub 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=687&extension=m3u8
+#EXTINF:-1, Sport Klub 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=686&extension=m3u8
+#EXTINF:-1, Sport Klub 3
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=685&extension=m3u8
+#EXTINF:-1, Eleven 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=857&extension=m3u8
+#EXTINF:-1, Eleven 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=856&extension=m3u8
+#EXTINF:-1, Arena Sport 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=694&extension=m3u8
+#EXTINF:-1, Arena Sport 1 HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=700&extension=m3u8
+#EXTINF:-1, Arena Sport 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=693&extension=m3u8
+#EXTINF:-1, Arena Sport 2 HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=699&extension=m3u8
+#EXTINF:-1, Arena Sport 3
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=692&extension=m3u8
+#EXTINF:-1, Arena Sport 3 HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=698&extension=m3u8
+#EXTINF:-1, Arena Sport 4
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=691&extension=m3u8
+#EXTINF:-1, Arena Sport 4 HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=697&extension=m3u8
+#EXTINF:-1, Arena Sport 5
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=690&extension=m3u8
+#EXTINF:-1, Arena Sport 5 HD
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=696&extension=m3u8
+#EXTINF:-1, EuroSport 1
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=676&extension=m3u8
+#EXTINF:-1, EuroSport 2
+http://predator.digital:8080/play/live.php?mac=00:1A:79:50:18:C1&stream=675&extension=m3u8
