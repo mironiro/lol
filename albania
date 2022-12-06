@@ -1,74 +1,126 @@
 #EXTM3U
-#EXTINF:0,Top Channel
-http://185.89.156.111:8000/play/a001
-#EXTINF:0,Top News
-http://185.89.156.111:8000/play/a005
+#EXTINF:21,Top Channel HD
+http://130.0.24.22:94/TopChannel/index.m3u8
 #EXTINF:0,Vizion Plus
 http://185.89.156.111:8000/play/a002
-#EXTINF:0,News 24
-http://185.89.156.111:8000/play/a006
-#EXTINF:0,Ora News
-http://185.89.156.111:8000/play/a008
-#EXTINF:0,A2 CNN
-http://185.89.156.111:8000/play/a00b
-#EXTINF:0,ABC News
-http://185.89.156.111:8000/play/a00a
-#EXTINF:0,Fax News
-http://185.89.156.111:8000/play/a009
-#EXTINF:0,Kanali 7
-http://185.89.156.111:8000/play/a007
 #EXTINF:0,Klan HD
 http://185.89.156.111:8000/play/a003
-#EXTINF:0,Klan Plus
-http://185.89.156.111:8000/play/a004
+#EXTINF:0,News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,Klan Plus HD
+http://130.0.24.22:94/KlanPlusHD/index.m3u8
+#EXTINF:0,Report TV
+http://95.107.132.105/out/u/647_2.m3u8
+#EXTINF:0,Arta News HD
+http://84.22.33.254/unicast.artanews/index.m3u8?token=1
+#EXTINF:0,Rtk Sat
+http://edge01eu.ekranet.com/rtk1/index.m3u8
+#EXTINF:0,Rtv Ora
+http://95.107.132.105/out/u/343_1.m3u8
+#EXTINF:0,Rtk 1
+http://95.107.132.105/out/u/327_1.m3u8
+#EXTINF:0,Elrodi TV
+http://89.39.106.21:8080/ElROdisfa/index.m3u8
+#EXTINF:0,Bbf
+http://84.22.33.254/unicast.bbf/index.m3u8?token=1
+#EXTINF:0,TV Diaspora
+http://146.59.19.1/5055/index.m3u8
+#EXTINF:0,Mtv Kosova
+http://146.59.19.1/5051/index.m3u8
+#EXTINF:0,Rtv ArbëRia Music
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
+#EXTINF:0,Rtv Ilirida Music
+http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
+#EXTINF:24,Euro AL
+http://146.59.19.1/5047/index.m3u8
+#EXTINF:36,Tv Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:0,Atd HD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278531
+#EXTINF:0,Alpo HD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278528
+#EXTINF:0,Start TV
+http://195.154.169.77:5500/live/starttv/8888/472.ts
+#EXTINF:0,Dasma TV
+http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
+#EXTINF:0,Turbo Channel
+http://146.59.19.1/5053/index.m3u8
+#EXTINF:24,Amol
+http://146.59.19.1/5052/index.m3u8
 #EXTINF:0,Bang Bang
 http://185.89.156.111:8000/play/a00g
-#EXTINF:0,Click TV
-http://185.89.156.111:8000/play/a01i
-#EXTINF:0,Club TV
-http://185.89.156.111:8000/play/a01h
-#EXTINF:0,Dmax
-http://185.89.156.111:8000/play/a032
-#EXTINF:0,EXP Histori
-http://185.89.156.111:8000/play/a011
-#EXTINF:0,EXP Natyre
-http://185.89.156.111:8000/play/a010
-#EXTINF:0,Elrodi
-http://185.89.156.111:8000/play/a00j
-#EXTINF:0,BBF
-http://185.89.156.111:8000/play/a00i
-#EXTINF:0,Folk Plus
-http://185.89.156.111:8000/play/a00h
-#EXTINF:0,Kanal D Drama
-http://185.89.156.111:8000/play/a00o
 #EXTINF:0,Kids
 http://185.89.156.111:8000/play/a00e
-#EXTINF:0,Libcom 1
-http://185.89.156.111:8000/play/a01f
-#EXTINF:0,Libcom 2
-http://185.89.156.111:8000/play/a01g
+#EXTINF:0,Cocuk
+http://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
+#EXTINF:0,Kids
+http://146.59.19.1/5028/index.m3u8
+#EXTINF:0,Tring Tiptv
+http://146.59.19.1/5026/index.m3u8
+#EXTINF:0,Kanal 10
+http://146.59.19.1/5005/index.m3u8
+#EXTINF:0,Family HD
+http://185.89.156.111:8000/play/a01d
+#EXTINF:0,Film Aksion
+http://185.89.156.111:8000/play/a00z
+#EXTINF:0,Film Komedi
+http://185.89.156.111:8000/play/a012
+#EXTINF:0,Tring Classic HD
+http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
+#EXTINF:0,Tring Life
+http://146.59.19.1/5015/index.m3u8
+#EXTINF:0,Tring Fantasy
+http://146.59.19.1/5020/index.m3u8
+#EXTINF:0,Tring Histori
+http://146.59.19.1/5024/index.m3u8
+#EXTINF:0,Tring Planet
+http://146.59.19.1/5023/index.m3u8
+#EXTINF:0,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
 #EXTINF:0,Living HD
-http://185.89.156.111:8000/play/a00l
-#EXTINF:0,MCN TV
-http://185.89.156.111:8000/play/a013
-#EXTINF:0,Melody TV
-http://185.89.156.111:8000/play/a015
-#EXTINF:0,Muse
-http://185.89.156.111:8000/play/a01p
-#EXTINF:0,My Music
-http://185.89.156.111:8000/play/a00k
-#EXTINF:0,NTV
-http://185.89.156.111:8000/play/a031
-#EXTINF:0,Neser TV
-http://185.89.156.111:8000/play/a01n
-#EXTINF:0,Euronews
-http://185.89.156.111:8000/play/a00c
-#EXTINF:0,Euronews German
-http://185.89.156.111:8000/play/a036
-#EXTINF:0,Eurosport 1 DE
-http://185.89.156.111:8000/play/a035
-#EXTINF:0,GBC
-http://185.89.156.111:8000/play/a02n
+http://89.39.106.21:8080/LivinGhDdgsg/index.m3u8
+#EXTINF:0,Smile
+http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
+#EXTINF:0,Tring Series
+http://89.39.106.21:8080/JollyHDwtet/index.m3u8
+#EXTINF:0,Tring World
+http://89.39.106.21:8080/TringWorldsgag/index.m3u8
+#EXTINF:0,Euro Channel
+http://284817929851294076.niceapy.xyz:80/play/jj06211/3479876/294076.ts
+#EXTINF:28,T 7
+http://146.59.19.1:80/5064/index.m3u8
+#EXTINF:23,First TV
+http://146.59.19.1:80/5033/index.m3u8
+#EXTINF:0,Dukagjini Tv
+http://284817929851260192.niceapy.xyz:80/play/jj06211/3479876/260192.ts
+#EXTINF:0,Saranda Tv
+http://284817929851311291.niceapy.xyz:80/play/jj06211/3479876/311291.ts
+#EXTINF:0,Syri Vizion HD
+http://146.59.19.1:80/5041/index.m3u8
+#EXTINF:0,Tv Lezha
+http://284817929851304466.niceapy.xyz:80/play/jj06211/3479876/304466.ts
+#EXTINF:21,Tv Mitrovica
+http://146.59.19.1:80/5032/index.m3u8
+#EXTINF:0,Opinion Tv
+http://284817929851304607.niceapy.xyz:80/play/jj06211/3479876/304607.ts
+#EXTINF:24,Rtv Ilirida Film
+http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Box Arthouse HD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145895
+#EXTINF:0,Film Box Extra HD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145896
+#EXTINF:0,
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145894
+#EXTINF:0,Tring Sport 1
+http://89.39.106.21:8080/TrIngSporT1gdg/index.m3u8
+#EXTINF:0,Tring Sport 2
+http://89.39.106.21:8080/TriNGSport2dgsg/index.m3u8
+#EXTINF:0,Tring Sport 3
+http://89.39.106.21:8080/TriNGSport3gfg/index.m3u8
+#EXTINF:0,SS-6 HD
+http://ptv.is:2095/live/zsjc2FSW/mrFswGP1/102741.m3u8
 #EXTINF:0,OverSport 1
 http://185.89.156.111:8000/play/a02j
 #EXTINF:0,OverSport 2
@@ -77,113 +129,9 @@ http://185.89.156.111:8000/play/a02k
 http://185.89.156.111:8000/play/a02l
 #EXTINF:0,OverSport 4
 http://185.89.156.111:8000/play/a02m
-#EXTINF:0,OverSport News
-http://185.89.156.111:8000/play/a02i
-#EXTINF:0,Panorama TV
-http://185.89.156.111:8000/play/a02h
-#EXTINF:0,RTK
-http://185.89.156.111:8000/play/a026
-#EXTINF:0,RTSH Sport
-http://185.89.156.111:8000/play/a022
-#EXTINF:0,Rai 2
-http://185.89.156.111:8000/play/a038
-#EXTINF:0,Rai Storia
-http://185.89.156.111:8000/play/a039
-#EXTINF:0,Report TV
-http://185.89.156.111:8000/play/a02e
-#EXTINF:0,Report TV
-http://185.89.156.111:8000/play/a01e
-#EXTINF:0,Rtl Austria
-http://185.89.156.111:8000/play/a033
-#EXTINF:0,Scan TV
-http://185.89.156.111:8000/play/a01c
-#EXTINF:0,Smile
-http://185.89.156.111:8000/play/a00p
-#EXTINF:0,Star TV
-http://185.89.156.111:8000/play/a030
-#EXTINF:0,Stinet
-http://185.89.156.111:8000/play/a01b
-#EXTINF:0,Super RTL
-http://185.89.156.111:8000/play/a034
-#EXTINF:0,Syri TV
-http://185.89.156.111:8000/play/a01j
-#EXTINF:0,T HD
-http://185.89.156.111:8000/play/a00r
-#EXTINF:0,TEST 2
-http://185.89.156.111:8000/play/a02r
-#EXTINF:0,TEST 3
-http://185.89.156.111:8000/play/a02s
-#EXTINF:0,TEST 7
-http://185.89.156.111:8000/play/a02w
-#EXTINF:0,TEST 8
-http://185.89.156.111:8000/play/a02x
-#EXTINF:0,Tip TV
-http://185.89.156.111:8000/play/a00f
-#EXTINF:0,Family HD
-http://185.89.156.111:8000/play/a01d
-#EXTINF:0,Film Aksion
-http://185.89.156.111:8000/play/a00z
-#EXTINF:0,Film Komedi
-http://185.89.156.111:8000/play/a012
-#EXTINF:0,Jolly HD
-http://185.89.156.111:8000/play/a00m
-#EXTINF:0,Tring Action
-http://185.89.156.111:8000/play/a00t
-#EXTINF:0,Tring Classic
-http://185.89.156.111:8000/play/a01m
-#EXTINF:0,Tring Collection HD
-http://185.89.156.111:8000/play/a01k
-#EXTINF:0,Tring Comedy
-http://185.89.156.111:8000/play/a00v
-#EXTINF:0,Tring Family HD
-http://185.89.156.111:8000/play/a01o
-#EXTINF:0,Tring Fantasy
-http://185.89.156.111:8000/play/a00w
-#EXTINF:0,Tring History
-http://185.89.156.111:8000/play/a00x
-#EXTINF:0,Tring Life
-http://185.89.156.111:8000/play/a00u
-#EXTINF:0,Tring Novelas
-http://185.89.156.111:8000/play/a01l
-#EXTINF:0,Tring Planet
-http://185.89.156.111:8000/play/a014
-#EXTINF:0,Tring Shqip
-http://185.89.156.111:8000/play/a00q
-#EXTINF:0,Tring Sport 1 HD
-http://185.89.156.111:8000/play/a017
-#EXTINF:0,Tring Sport 2 HD
-http://185.89.156.111:8000/play/a018
-#EXTINF:0,Tring Sport 3 HD
-http://185.89.156.111:8000/play/a019
-#EXTINF:0,Tring Sport 4 HD
-http://185.89.156.111:8000/play/a01a
-#EXTINF:0,Tring Sport News
-http://185.89.156.111:8000/play/a016
-#EXTINF:0,Tring Super
-http://185.89.156.111:8000/play/a00s
-#EXTINF:0,Tring Tring
-http://185.89.156.111:8000/play/a00d
-#EXTINF:0,Tring World
-http://185.89.156.111:8000/play/a00y
-#EXTINF:0,t Action
-http://185.89.156.111:8000/play/a01q
-#EXTINF:0,t BingBong
-http://185.89.156.111:8000/play/a01y
-#EXTINF:0,t Clover
-http://185.89.156.111:8000/play/a01x
-#EXTINF:0,t Comedy
-http://185.89.156.111:8000/play/a01v
-#EXTINF:0,t Doc 2
-http://185.89.156.111:8000/play/a02p
-#EXTINF:0,t Drama
-http://185.89.156.111:8000/play/a01w
-#EXTINF:0,t News
-http://185.89.156.111:8000/play/a02o
-#EXTINF:0,t Prime 1 HD
-http://185.89.156.111:8000/play/a01s
-#EXTINF:0,t Prime 2 HD
-http://185.89.156.111:8000/play/a01t
-#EXTINF:0,t Serial
-http://185.89.156.111:8000/play/a01u
-#EXTINF:0,t Thriller
-http://185.89.156.111:8000/play/a01r
+#EXTINF:0,Gold 1 HD
+http://284817929851304314.niceapy.xyz:80/play/jj06211/3479876/304314.ts
+#EXTINF:0,Gold 2 HD
+http://284817929851304315.niceapy.xyz:80/play/jj06211/3479876/304315.ts
+#EXTINF:0,Gold 3 HD
+http://284817929851304316.niceapy.xyz:80/play/jj06211/3479876/304316.ts
