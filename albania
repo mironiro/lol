@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:21,Top Channel HD
 http://130.0.24.22:94/TopChannel/index.m3u8
+#EXTINF:-1,BIG BROTHER VIP AL 1 HD
+http://188.40.23.184:25461/live/aba-albania/36985247/2248.ts
+#EXTINF:-1,BIG BROTHER VIP AL 2 HD
+http://188.40.23.184:25461/live/aba-albania/36985247/2249.ts
+#EXTINF:-1,BB VIP 1 AL HD
+http://45.12.1.14:80/live/7KlrrRx5/urAYkL9614/117771.ts
+#EXTINF:-1,BB VIP 1 KS HD
+http://45.12.1.14:80/live/7KlrrRx5/urAYkL9614/89640.ts
+#EXTINF:-1,BB VIP 2 KS HD
+http://45.12.1.14:80/live/7KlrrRx5/urAYkL9614/89641.ts
 #EXTINF:0,Vizion Plus
 http://185.89.156.111:8000/play/a002
 #EXTINF:0,Klan HD
