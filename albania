@@ -1,21 +1,17 @@
 #EXTM3U
-#EXTINF:21,Top Channel HD
-http://130.0.24.22:94/TopChannel/index.m3u8
-#EXTINF:22,Top Channel HD
-http://kuchini.site:8080/live/GenIptvLast/Z0cMmSRZnDvDtkJP/1311.ts
-#EXTINF:-1,BIG BROTHER VIP AL 1 HD
-http://kuchini.site:8080/live/GenIptvLast/Z0cMmSRZnDvDtkJP/297206.ts
-#EXTINF:-1,BIG BROTHER VIP AL 2 HD
-http://kuchini.site:8080/live/GenIptvLast/Z0cMmSRZnDvDtkJP/297207.ts
-#EXTINF:-1,BIG BROTHER VIP KS 1 HD
-http://kuchini.site:8080/live/GenIptvLast/Z0cMmSRZnDvDtkJP/289613.ts
-#EXTINF:-1,BIG BROTHER VIP KS 2 HD
-http://kuchini.site:8080/live/GenIptvLast/Z0cMmSRZnDvDtkJP/289614.ts
+#EXTINF:0,TOP CHANNEL HD
+http://server.sibfungold.info:8080/live/wassimaloui21/nVvW5yVxLz/47075.ts
+#EXTINF:0,BIG BROTHER VIP AL 1 HD
+http://iptvtree.net:8080/live/985999aa/8598626229/297206.ts
+#EXTINF:0,BIG BROTHER VIP AL 2 HD
+http://iptvtree.net:8080/live/985999aa/8598626229/297207.ts
+#EXTINF:0,BIG BROTHER VIP KS 1 HD
+http://iptvtree.net:8080/live/985999aa/8598626229/289613.ts
+#EXTINF:0,BIG BROTHER VIP KS 2 HD
+http://iptvtree.net:8080/live/985999aa/8598626229/289614.ts
 #EXTINF:0,KLAN HD
-http://130.0.24.22:94/KlanHD/index.m3u8
-#EXTINF:0,VIZION PLUS HD
-http://130.0.24.22:94/VizionPlusHD/index.m3u8
-#EXTINF:0,TOP NEWS HD
+http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:20,Top News
 http://89.39.106.21:8080/ToPNewSdgdg/index.m3u8
 #EXTINF:0,A2 CNN HD
 http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
@@ -23,14 +19,10 @@ http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 http://89.39.106.21:8080/NewS24gsgf/index.m3u8
 #EXTINF:0,SCAN HD
 http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134809.ts
-#EXTINF:0,KANAL D DRAMA HD
-http://130.0.24.22:94/KanaldDrama/index.m3u8
 #EXTINF:0,TRING 3 PLUS HD
 http://95.107.132.105/out/u/980_2.m3u8
 #EXTINF:0,News24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0,Klan Plus HD
-http://130.0.24.22:94/KlanPlusHD/index.m3u8
 #EXTINF:0,Report TV
 http://95.107.132.105/out/u/647_2.m3u8
 #EXTINF:0,Arta News HD
@@ -49,12 +41,8 @@ http://89.39.106.21:8080/ElROdisfa/index.m3u8
 http://146.59.19.1/5047/index.m3u8
 #EXTINF:0,FOLK PLUS
 http://146.59.19.1:80/5045/index.m3u8
-#EXTINF:9,BBF
+#EXTINF:0,BBF
 http://146.59.19.1:80/5044/index.m3u8
-#EXTINF:0,TV Diaspora
-http://146.59.19.1/5055/index.m3u8
-#EXTINF:0,Mtv Kosova
-http://146.59.19.1/5051/index.m3u8
 #EXTINF:0,Rtv ArbëRia Music
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
 #EXTINF:0,Rtv Ilirida Music
@@ -67,12 +55,8 @@ http://stream.tvdielli.com:8081/dielli/index.m3u8
 http://195.154.169.77:5500/live/starttv/8888/472.ts
 #EXTINF:0,Dasma TV
 http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:0,Turbo Channel
-http://146.59.19.1/5053/index.m3u8
 #EXTINF:0,Amol
 http://146.59.19.1/5052/index.m3u8
-#EXTINF:0,Cocuk
-http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
 #EXTINF:0,Kids
@@ -83,16 +67,12 @@ http://95.107.132.106/out/u/bubbleiojgaoingao.m3u8
 http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
 #EXTINF:0,RTV ARBËRIA FËMIJË
 http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/chunklist_w1324829920.m3u8
-#EXTINF:0,TRING TRING
-http://130.0.24.22:94/TringTring/index.m3u8
 #EXTINF:0,Tring Tiptv
 http://146.59.19.1/5026/index.m3u8
 #EXTINF:0,Kanal 10
 http://146.59.19.1/5005/index.m3u8
 #EXTINF:0,Tring Classic HD
 http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
-#EXTINF:0,Tring Life
-http://146.59.19.1/5015/index.m3u8
 #EXTINF:0,Tring Fantasy
 http://146.59.19.1/5020/index.m3u8
 #EXTINF:0,Tring Histori
@@ -109,6 +89,22 @@ http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
 http://89.39.106.21:8080/JollyHDwtet/index.m3u8
 #EXTINF:0,Tring World
 http://89.39.106.21:8080/TringWorldsgag/index.m3u8
+#EXTINF:0,TRING ACTION HD
+http://iptvtree.net:8080/live/985999aa/8598626229/1308.ts
+#EXTINF:0,TRING COMEDY HD
+http://iptvtree.net:8080/live/985999aa/8598626229/1310.ts
+#EXTINF:0,TRINF FANTASY HD
+http://iptvtree.net:8080/live/985999aa/8598626229/2577.ts
+#EXTINF:0,TRING LIFE HD
+http://iptvtree.net:8080/live/985999aa/8598626229/1309.ts
+#EXTINF:0,TRING SERIES HD
+http://iptvtree.net:8080/live/985999aa/8598626229/296833.ts
+#EXTINF:0,TRING SMILE HD
+http://iptvtree.net:8080/live/985999aa/8598626229/1322.ts
+#EXTINF:0,TRING SERIES HD
+http://89.39.106.21:8080/JollyHDwtet/index.m3u8
+#EXTINF:0,TRING SMILE HD
+http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
 #EXTINF:0,T 7
 http://146.59.19.1:80/5064/index.m3u8
 #EXTINF:0,First TV
@@ -119,16 +115,6 @@ http://146.59.19.1:80/5041/index.m3u8
 http://146.59.19.1:80/5032/index.m3u8
 #EXTINF:0,Rtv Ilirida Film
 http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
-#EXTINF:0,TRING COMEDY HD
-http://130.0.24.22:94/TringComedy/index.m3u8
-#EXTINF:0,TRING FESTA HD
-http://130.0.24.22:94/TringFamilyHD/index.m3u8
-#EXTINF:0,TRING SERIES HD
-http://89.39.106.21:8080/JollyHDwtet/index.m3u8
-#EXTINF:0,TRING SMILE HD
-http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
-#EXTINF:0,TRING SUPER HD
-http://130.0.24.22:94/TringSuper/index.m3u8
 #EXTINF:0,EXTREM GOLD 1 HD
 http://15642874304315388.niceapy.xyz:80/live/hu1015651/8374095549/304314.ts
 #EXTINF:0,SKY AKSION HD
@@ -139,10 +125,38 @@ http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134815.ts
 http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134816.ts
 #EXTINF:0,PREMIUM TRAVEL
 http://premiummedia.al/stream/premium-travel/live.m3u8
+#EXTINF:0,REPORT TV HD
+http://89.39.106.21:8080/RePOrtTvdgsg/index.m3u8
+#EXTINF:0,SCAN HD
+http://79.106.90.124:5151/live/scanott/playlist.m3u8
+#EXTINF:0,SYRI TV HD
+http://79.106.90.124:5151/live/syritvott/playlist.m3u8
+#EXTINF:0,PORTOKALLI HD
+http://rakoboz.me/live/VraniqiNjazi/fF5JK9MDsGEAmGf3xasT/20810.ts
+#EXTINF:0,ELRODI TV SD
+http://89.39.106.21:8080/ElROdisfa/index.m3u8
+#EXTINF:0,FESTINA HD
+http://fastrunner.live:8080/live/EK6CxjYTXG/XRWwY4tmcj/104414.ts
+#EXTINF:0,FOLK PLUS SD
+http://89.39.106.21:8080/FoLKPlus/index.m3u8
+#EXTINF:0,FOLKLORIT HD
+http://dominoiptv.com:2082/live/cipo2673/6nKa4hs9fFS2U8/209968.ts
+#EXTINF:0,KS POPULLORE HD
+http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/16730.ts
+#EXTINF:0,STV FOLK SD
+http://fastrunner.live:8080/live/EK6CxjYTXG/XRWwY4tmcj/146.ts
+#EXTINF:0,SUPER SONIC TV SD
+http://rakoboz.me/live/VraniqiNjazi/fF5JK9MDsGEAmGf3xasT/20870.ts
+#EXTINF:0,TIRANA 1 SD
+http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/58413.ts
+#EXTINF:0,SKY AKSION HD
+http://fastrunner.live:8080/live/EK6CxjYTXG/XRWwY4tmcj/5549.ts
+#EXTINF:0,SKY DRAME SD
+http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/30083.ts
+#EXTINF:0,SKY KOMEDI SD
+http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/30082.ts
 #EXTINF:0,TRING SPORT NEWS HD
 http://89.39.106.21:8080/TriNGspoRTnEwsdgg/index.m3u8
-#EXTINF:0,TRING SPORT 2 HD
-http://89.39.106.21:8080/TriNGSport2dgsg/index.m3u8
 #EXTINF:0,KUJTESA SPORT 3 HD
 http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134756.ts
 #EXTINF:0,EUROSPORT 1 HD
@@ -151,9 +165,3 @@ http://iptvmedia.live:8080/live/stadnik/8f064f8602/4221.ts
 http://iptvmedia.live:8080/live/stadnik/8f064f8602/4222.ts
 #EXTINF:0,RTSH Sport
 http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134800.ts
-#EXTINF:0,Tring Sport 1
-http://89.39.106.21:8080/TrIngSporT1gdg/index.m3u8
-#EXTINF:0,Tring Sport 2
-http://89.39.106.21:8080/TriNGSport2dgsg/index.m3u8
-#EXTINF:0,Tring Sport 3
-http://89.39.106.21:8080/TriNGSport3gfg/index.m3u8
