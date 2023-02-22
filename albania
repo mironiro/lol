@@ -1,24 +1,42 @@
 #EXTM3U
 #EXTINF:0,TOP CHANNEL HD
 http://server.sibfungold.info:8080/live/wassimaloui21/nVvW5yVxLz/47075.ts
+#EXTINF:0,TOP CHANNEL HD
+http://tv4k.me:80/live/PremiumIPTV123/nMhMUm8s8d/114441.ts
 #EXTINF:0,BIG BROTHER VIP AL 1 HD
-http://iptvtree.net:8080/live/985999aa/8598626229/297206.ts
+http://cloudcdn.tk:80/live/Ulfdahl3/AsKQh95505/117771.ts
 #EXTINF:0,BIG BROTHER VIP AL 2 HD
-http://iptvtree.net:8080/live/985999aa/8598626229/297207.ts
-#EXTINF:0,BIG BROTHER VIP KS 1 HD
-http://iptvtree.net:8080/live/985999aa/8598626229/289613.ts
-#EXTINF:0,BIG BROTHER VIP KS 2 HD
-http://iptvtree.net:8080/live/985999aa/8598626229/289614.ts
+http://cloudcdn.tk:80/live/Ulfdahl3/AsKQh95505/117772.ts
+#EXTINF:0,A 2 CNN HD
+http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0,KLAN HD
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
-#EXTINF:20,Top News
+#EXTINF:0,ALSAT M HD
+http://tv4k.me:80/live/PremiumIPTV123/nMhMUm8s8d/114445.ts
+#EXTINF:0,KLAN HD
+http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:0,EURO NEWS ALBANIA
+http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
+#EXTINF:0,NEWS 24 HD
+http://79.106.90.124:5151/live/news24ott/playlist.m3u8
+#EXTINF:0,REPORT TV HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65391.ts
+#EXTINF:0,RTSH 24 HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65378.ts
+#EXTINF:0,RTSH KUVEND SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65385.ts
+#EXTINF:0,SCAN HD
+http://79.106.90.124:5151/live/scanott/playlist.m3u8
+#EXTINF:0,SYRI TV HD
+http://79.106.90.124:5151/live/syritvott/playlist.m3u8
+#EXTINF:0,TOP NEWS HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65393.ts
+#EXTINF:0,Top News
 http://89.39.106.21:8080/ToPNewSdgdg/index.m3u8
 #EXTINF:0,A2 CNN HD
 http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0,NEWS 24 HD
 http://89.39.106.21:8080/NewS24gsgf/index.m3u8
-#EXTINF:0,SCAN HD
-http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134809.ts
 #EXTINF:0,TRING 3 PLUS HD
 http://95.107.132.105/out/u/980_2.m3u8
 #EXTINF:0,News24
@@ -31,54 +49,38 @@ http://84.22.33.254/unicast.artanews/index.m3u8?token=1
 http://edge01eu.ekranet.com/rtk1/index.m3u8
 #EXTINF:0,Rtv Ora
 http://95.107.132.105/out/u/343_1.m3u8
-#EXTINF:0,Rtk 1
-http://95.107.132.105/out/u/327_1.m3u8
 #EXTINF:0,Elrodi TV
 http://89.39.106.21:8080/ElROdisfa/index.m3u8
 #EXTINF:0,ELRODI TV
 http://89.39.106.21:8080/ElROdisfa/index.m3u8
-#EXTINF:0,EURO AL
-http://146.59.19.1/5047/index.m3u8
-#EXTINF:0,FOLK PLUS
-http://146.59.19.1:80/5045/index.m3u8
-#EXTINF:0,BBF
-http://146.59.19.1:80/5044/index.m3u8
 #EXTINF:0,Rtv ArbëRia Music
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
 #EXTINF:0,Rtv Ilirida Music
 http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:0,Euro AL
-http://146.59.19.1/5047/index.m3u8
 #EXTINF:0,Tv Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:0,Start TV
 http://195.154.169.77:5500/live/starttv/8888/472.ts
 #EXTINF:0,Dasma TV
 http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:0,Amol
-http://146.59.19.1/5052/index.m3u8
 #EXTINF:0,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
-#EXTINF:0,Kids
-http://146.59.19.1/5028/index.m3u8
+#EXTINF:0,BANG BANG SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65530.ts
+#EXTINF:0,ÇUFO SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65529.ts
+#EXTINF:0,TRING KIDS SD
+http://95.107.132.105/out/u/1014_2.m3u8
+#EXTINF:0,JUNIOR SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65531.ts
 #EXTINF:0,BUBBLE TV
 http://95.107.132.106/out/u/bubbleiojgaoingao.m3u8
 #EXTINF:0,PRINCE KIDS
 http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
 #EXTINF:0,RTV ARBËRIA FËMIJË
 http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/chunklist_w1324829920.m3u8
-#EXTINF:0,Tring Tiptv
-http://146.59.19.1/5026/index.m3u8
-#EXTINF:0,Kanal 10
-http://146.59.19.1/5005/index.m3u8
 #EXTINF:0,Tring Classic HD
 http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
-#EXTINF:0,Tring Fantasy
-http://146.59.19.1/5020/index.m3u8
-#EXTINF:0,Tring Histori
-http://146.59.19.1/5024/index.m3u8
-#EXTINF:0,Tring Planet
-http://146.59.19.1/5023/index.m3u8
 #EXTINF:0,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
 #EXTINF:0,Living HD
@@ -89,40 +91,14 @@ http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
 http://89.39.106.21:8080/JollyHDwtet/index.m3u8
 #EXTINF:0,Tring World
 http://89.39.106.21:8080/TringWorldsgag/index.m3u8
-#EXTINF:0,TRING ACTION HD
-http://iptvtree.net:8080/live/985999aa/8598626229/1308.ts
-#EXTINF:0,TRING COMEDY HD
-http://iptvtree.net:8080/live/985999aa/8598626229/1310.ts
-#EXTINF:0,TRINF FANTASY HD
-http://iptvtree.net:8080/live/985999aa/8598626229/2577.ts
-#EXTINF:0,TRING LIFE HD
-http://iptvtree.net:8080/live/985999aa/8598626229/1309.ts
-#EXTINF:0,TRING SERIES HD
-http://iptvtree.net:8080/live/985999aa/8598626229/296833.ts
-#EXTINF:0,TRING SMILE HD
-http://iptvtree.net:8080/live/985999aa/8598626229/1322.ts
 #EXTINF:0,TRING SERIES HD
 http://89.39.106.21:8080/JollyHDwtet/index.m3u8
 #EXTINF:0,TRING SMILE HD
 http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
-#EXTINF:0,T 7
-http://146.59.19.1:80/5064/index.m3u8
-#EXTINF:0,First TV
-http://146.59.19.1:80/5033/index.m3u8
-#EXTINF:0,Syri Vizion HD
-http://146.59.19.1:80/5041/index.m3u8
-#EXTINF:0,Tv Mitrovica
-http://146.59.19.1:80/5032/index.m3u8
 #EXTINF:0,Rtv Ilirida Film
 http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
 #EXTINF:0,EXTREM GOLD 1 HD
 http://15642874304315388.niceapy.xyz:80/live/hu1015651/8374095549/304314.ts
-#EXTINF:0,SKY AKSION HD
-http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134811.ts
-#EXTINF:0,SKY NOVELA HD
-http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134815.ts
-#EXTINF:0,SKY STAR HD
-http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134816.ts
 #EXTINF:0,PREMIUM TRAVEL
 http://premiummedia.al/stream/premium-travel/live.m3u8
 #EXTINF:0,REPORT TV HD
@@ -135,33 +111,71 @@ http://79.106.90.124:5151/live/syritvott/playlist.m3u8
 http://rakoboz.me/live/VraniqiNjazi/fF5JK9MDsGEAmGf3xasT/20810.ts
 #EXTINF:0,ELRODI TV SD
 http://89.39.106.21:8080/ElROdisfa/index.m3u8
-#EXTINF:0,FESTINA HD
-http://fastrunner.live:8080/live/EK6CxjYTXG/XRWwY4tmcj/104414.ts
 #EXTINF:0,FOLK PLUS SD
 http://89.39.106.21:8080/FoLKPlus/index.m3u8
 #EXTINF:0,FOLKLORIT HD
 http://dominoiptv.com:2082/live/cipo2673/6nKa4hs9fFS2U8/209968.ts
+#EXTINF:0,ELRODI TV SD
+http://89.39.106.21:8080/ElROdisfa/index.m3u8
+#EXTINF:0,FOLK PLUS SD
+http://89.39.106.21:8080/FoLKPlus/index.m3u8
 #EXTINF:0,KS POPULLORE HD
-http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/16730.ts
-#EXTINF:0,STV FOLK SD
-http://fastrunner.live:8080/live/EK6CxjYTXG/XRWwY4tmcj/146.ts
+http://restream.geniptv.com:8080/live/TomasArana_always/fdsDDDXCDEvser32/78176.ts
+#EXTINF:0,RTV ARBËRIA MUZIKË HD
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
+#EXTINF:0,START KOSOVA TV HD
+http://195.154.169.77:5500/live/starttv/8888/472.ts
 #EXTINF:0,SUPER SONIC TV SD
-http://rakoboz.me/live/VraniqiNjazi/fF5JK9MDsGEAmGf3xasT/20870.ts
-#EXTINF:0,TIRANA 1 SD
-http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/58413.ts
-#EXTINF:0,SKY AKSION HD
-http://fastrunner.live:8080/live/EK6CxjYTXG/XRWwY4tmcj/5549.ts
-#EXTINF:0,SKY DRAME SD
-http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/30083.ts
-#EXTINF:0,SKY KOMEDI SD
-http://client.newborntv.xyz:88/live/zYyyhnKdYsafecdE/nh9pP5QXw6Sg53gT/30082.ts
+http://tv4k.me:80/live/PremiumIPTV123/nMhMUm8s8d/114539.ts
+#EXTINF:0,TOP ESTRADA HD
+http://live.topestrada.com/live/topestrada/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV SHARRI HD
+http://tv4k.me:80/live/PremiumIPTV123/nMhMUm8s8d/114514.ts
+#EXTINF:0,RTSH SHQIP SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65380.ts
+#EXTINF:0,TRING SHQIP SD
+http://95.107.132.105/out/u/1013_3.m3u8
+#EXTINF:0,EURO FILM SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65465.ts
+#EXTINF:0,FAMILY HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65458.ts
+#EXTINF:0,FILM AKSION HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65452.ts
+#EXTINF:0,FILM AUTOR SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65456.ts
+#EXTINF:0,FILM DRAMË SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65454.ts
+#EXTINF:0,FILM GOLD HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65449.ts
+#EXTINF:0,FILM KOMEDI SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65455.ts
+#EXTINF:0,FILM MAX HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65450.ts
+#EXTINF:0,TRING ACTION HD
+http://95.107.132.105/out/u/1070_1.m3u8
+#EXTINF:0,TRING COLLETION HD
+http://95.107.132.105/out/u/907_2.m3u8
+#EXTINF:0,TRING LIFE HD
+http://95.107.132.105/out/u/1072_3.m3u8
+#EXTINF:0,TRING SERIES HD
+http://95.107.132.105/out/u/996_2.m3u8
+#EXTINF:0,EXP HISTORI SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65403.ts
+#EXTINF:0,EXP NATYRA SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65402.ts
+#EXTINF:0,EXP SHKENCË SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65401.ts
+#EXTINF:0,TRING HISTORY HD
+http://95.107.132.105/out/u/1075_3.m3u8
+#EXTINF:0,TRING PLANET HD
+http://95.107.132.105/out/u/1000_2.m3u8
+#EXTINF:0,TRING MUSE SD
+http://95.107.132.105/out/u/993_2.m3u8
+#EXTINF:0,RTSH SPORT HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65386.ts
 #EXTINF:0,TRING SPORT NEWS HD
 http://89.39.106.21:8080/TriNGspoRTnEwsdgg/index.m3u8
-#EXTINF:0,KUJTESA SPORT 3 HD
-http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134756.ts
 #EXTINF:0,EUROSPORT 1 HD
 http://iptvmedia.live:8080/live/stadnik/8f064f8602/4221.ts
 #EXTINF:0,EUROSPORT 2 HD
 http://iptvmedia.live:8080/live/stadnik/8f064f8602/4222.ts
-#EXTINF:0,RTSH Sport
-http://santratv666.com:80/live/boranuk/6mqX4pJT5H/134800.ts
