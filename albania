@@ -7,20 +7,22 @@ http://tv4k.me:80/live/PremiumIPTV123/nMhMUm8s8d/114441.ts
 http://cloudcdn.tk:80/live/Ulfdahl3/AsKQh95505/117771.ts
 #EXTINF:0,BIG BROTHER VIP AL 2 HD
 http://cloudcdn.tk:80/live/Ulfdahl3/AsKQh95505/117772.ts
-#EXTINF:0,A 2 CNN HD
-http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:0,BIG BROTHER VIP AL 1 HD
+http://cloudcdn.tk:80/live/Ulfdahl3/AsKQh95505/117771.ts
+#EXTINF:0,BIG BROTHER VIP KS 2 HD
+http://cloudcdn.tk:80/live/Ulfdahl3/AsKQh95505/89641.ts
 #EXTINF:0,KLAN HD
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:0,ALSAT M HD
 http://tv4k.me:80/live/PremiumIPTV123/nMhMUm8s8d/114445.ts
-#EXTINF:0,KLAN HD
-http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:0,EURO NEWS ALBANIA
 http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
 #EXTINF:0,NEWS 24 HD
 http://79.106.90.124:5151/live/news24ott/playlist.m3u8
 #EXTINF:0,REPORT TV HD
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65391.ts
+#EXTINF:0,A 2 CNN HD
+http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0,RTSH 24 HD
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65378.ts
 #EXTINF:0,RTSH KUVEND SD
@@ -31,40 +33,12 @@ http://79.106.90.124:5151/live/scanott/playlist.m3u8
 http://79.106.90.124:5151/live/syritvott/playlist.m3u8
 #EXTINF:0,TOP NEWS HD
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65393.ts
-#EXTINF:0,Top News
-http://89.39.106.21:8080/ToPNewSdgdg/index.m3u8
-#EXTINF:0,A2 CNN HD
-http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0,NEWS 24 HD
 http://89.39.106.21:8080/NewS24gsgf/index.m3u8
-#EXTINF:0,TRING 3 PLUS HD
-http://95.107.132.105/out/u/980_2.m3u8
-#EXTINF:0,News24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0,Report TV
-http://95.107.132.105/out/u/647_2.m3u8
-#EXTINF:0,Arta News HD
-http://84.22.33.254/unicast.artanews/index.m3u8?token=1
 #EXTINF:0,Rtk Sat
 http://edge01eu.ekranet.com/rtk1/index.m3u8
 #EXTINF:0,Rtv Ora
 http://95.107.132.105/out/u/343_1.m3u8
-#EXTINF:0,Elrodi TV
-http://89.39.106.21:8080/ElROdisfa/index.m3u8
-#EXTINF:0,ELRODI TV
-http://89.39.106.21:8080/ElROdisfa/index.m3u8
-#EXTINF:0,Rtv ArbëRia Music
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
-#EXTINF:0,Rtv Ilirida Music
-http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:0,Tv Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:0,Start TV
-http://195.154.169.77:5500/live/starttv/8888/472.ts
-#EXTINF:0,Dasma TV
-http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:0,Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
 #EXTINF:0,BANG BANG SD
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65530.ts
 #EXTINF:0,ÇUFO SD
@@ -81,6 +55,20 @@ http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m
 http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/chunklist_w1324829920.m3u8
 #EXTINF:0,Tring Classic HD
 http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
+#EXTINF:22,Elrodi
+http://89.39.106.21:8080/ElROdisfa/index.m3u8
+#EXTINF:0,Rtv ArbëRia Music
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
+#EXTINF:0,Rtv Ilirida Music
+http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tv Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:0,Start TV
+http://195.154.169.77:5500/live/starttv/8888/472.ts
+#EXTINF:0,Dasma TV
+http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
+#EXTINF:28,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
 #EXTINF:0,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
 #EXTINF:0,Living HD
@@ -91,8 +79,6 @@ http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
 http://89.39.106.21:8080/JollyHDwtet/index.m3u8
 #EXTINF:0,Tring World
 http://89.39.106.21:8080/TringWorldsgag/index.m3u8
-#EXTINF:0,TRING SERIES HD
-http://89.39.106.21:8080/JollyHDwtet/index.m3u8
 #EXTINF:0,TRING SMILE HD
 http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
 #EXTINF:0,Rtv Ilirida Film
@@ -101,12 +87,6 @@ http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
 http://15642874304315388.niceapy.xyz:80/live/hu1015651/8374095549/304314.ts
 #EXTINF:0,PREMIUM TRAVEL
 http://premiummedia.al/stream/premium-travel/live.m3u8
-#EXTINF:0,REPORT TV HD
-http://89.39.106.21:8080/RePOrtTvdgsg/index.m3u8
-#EXTINF:0,SCAN HD
-http://79.106.90.124:5151/live/scanott/playlist.m3u8
-#EXTINF:0,SYRI TV HD
-http://79.106.90.124:5151/live/syritvott/playlist.m3u8
 #EXTINF:0,PORTOKALLI HD
 http://rakoboz.me/live/VraniqiNjazi/fF5JK9MDsGEAmGf3xasT/20810.ts
 #EXTINF:0,ELRODI TV SD
@@ -115,10 +95,6 @@ http://89.39.106.21:8080/ElROdisfa/index.m3u8
 http://89.39.106.21:8080/FoLKPlus/index.m3u8
 #EXTINF:0,FOLKLORIT HD
 http://dominoiptv.com:2082/live/cipo2673/6nKa4hs9fFS2U8/209968.ts
-#EXTINF:0,ELRODI TV SD
-http://89.39.106.21:8080/ElROdisfa/index.m3u8
-#EXTINF:0,FOLK PLUS SD
-http://89.39.106.21:8080/FoLKPlus/index.m3u8
 #EXTINF:0,KS POPULLORE HD
 http://restream.geniptv.com:8080/live/TomasArana_always/fdsDDDXCDEvser32/78176.ts
 #EXTINF:0,RTV ARBËRIA MUZIKË HD
