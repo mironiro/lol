@@ -1,139 +1,75 @@
 #EXTM3U
-#EXTINF:-1,TOP CHANNEL  AL
-http://vcxy.me:80/RamadanShaqiri/kRgq2cZS72zquDbsmj1m/2536
-#EXTINF:-1,TOP CHANNEL FHD  AL
-http://vcxy.me:80/RamadanShaqiri/kRgq2cZS72zquDbsmj1m/20828
-#EXTINF:-1,Top Channel HD
-http://brutus.biz:2082/anic/anic/184
-#EXTINF:-1,BIG BROTHER VIP AL 1 HD
-http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/297206.ts
-#EXTINF:-1,BIG BROTHER VIP AL 2 HD
-http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/297207.ts
-#EXTINF:-1,BIG BROTHER VIP KS 1 HD
-http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/289613.ts
-#EXTINF:-1,BIG BROTHER VIP KS 2 HD
-http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/289614.ts
-#EXTINF:-1,BB VIP KOSOVA 1  AL
-http://vcxy.me:80/RamadanShaqiri/kRgq2cZS72zquDbsmj1m/26410
-#EXTINF:-1,BB VIP KOSOVA 2  AL
-http://vcxy.me:80/RamadanShaqiri/kRgq2cZS72zquDbsmj1m/26411
-#EXTINF:-1,BB VIP ALBANIA 1  AL
-http://vcxy.me:80/RamadanShaqiri/kRgq2cZS72zquDbsmj1m/28939
-#EXTINF:-1,BB VIP ALBANIA 2  AL
-http://vcxy.me:80/RamadanShaqiri/kRgq2cZS72zquDbsmj1m/28940
-#EXTINF:-1,Big Brother Albania 1
-http://brutus.biz:2082/anic/anic/908
-#EXTINF:-1,Big Brother Albania 2
-http://brutus.biz:2082/anic/anic/909
-#EXTINF:-1,BigBrother Vip Kosova 1
-http://brutus.biz:2082/anic/anic/906
-#EXTINF:-1,BigBrother Vip Kosova 2
-http://brutus.biz:2082/anic/anic/907
-#EXTINF:-1,12 SCAN
+#EXTINF:-1 tvg-id="" tvg-name="04 Klan HD" tvg-logo="" group-title="Channel",04 Klan HD
+http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 Albania (392P)" tvg-logo="" group-title="Channel",News 24 Albania (392P)
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 (392P) " tvg-logo="" group-title="Channel",News 24 (392P) 
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Klan News HD" tvg-logo="" group-title="Channel",Klan News HD
+http://79.106.90.124:5151/live/klannewsott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
+http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro News Albania" tvg-logo="" group-title="Channel",Euro News Albania
+http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panorama HD" tvg-logo="" group-title="Channel",Panorama HD
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 Albania (540P) " tvg-logo="" group-title="Channel",TV 7 Albania (540P) 
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mcn TV HD" tvg-logo="" group-title="Channel",Mcn TV HD
+http://79.106.90.124:5151/live/mcnpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Scan HD" tvg-logo="" group-title="Channel",Scan HD
 http://79.106.90.124:5151/live/scanott/playlist.m3u8
-#EXTINF:-1,SYRI TV HD
+#EXTINF:-1 tvg-id="" tvg-name="A2 Cnn HD" tvg-logo="" group-title="Channel",A2 Cnn HD
+http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arta News HD" tvg-logo="" group-title="Channel",Arta News HD
+http://84.22.33.254/unicast.artanews/index.m3u8?token=1
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV (720P) " tvg-logo="" group-title="Channel",Syri TV (720P) 
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV HD" tvg-logo="" group-title="Channel",Syri TV HD
 http://79.106.90.124:5151/live/syritvott/playlist.m3u8
-#EXTINF:-1,NEWS 24 HD
-http://89.39.106.21:8080/NewS24gsgf/index.m3u8
-#EXTINF:-1,Rtk Sat
+#EXTINF:-1 tvg-id="" tvg-name="Rtk Sat" tvg-logo="" group-title="Channel",Rtk Sat
 http://edge01eu.ekranet.com/rtk1/index.m3u8
-#EXTINF:-1,Rtv Ora
-http://95.107.132.105/out/u/343_1.m3u8
-#EXTINF:-1,BANG BANG SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65530.ts
-#EXTINF:-1,ÇUFO SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65529.ts
-#EXTINF:-1,TRING KIDS SD
-http://95.107.132.105/out/u/1014_2.m3u8
-#EXTINF:-1,JUNIOR SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65531.ts
-#EXTINF:-1,BUBBLE TV
-http://95.107.132.106/out/u/bubbleiojgaoingao.m3u8
-#EXTINF:-1,PRINCE KIDS
+#EXTINF:-1 tvg-id="" tvg-name="Prince Kids" tvg-logo="" group-title="Channel",Prince Kids
 http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
-#EXTINF:-1,RTV ARBËRIA FËMIJË
-http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/chunklist_w1324829920.m3u8
-#EXTINF:-1,Tring Classic HD
-http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
-#EXTINF:-1,Rtv ArbëRia Music
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
-#EXTINF:-1,Rtv Ilirida Music
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Music" tvg-logo="" group-title="Channel",Rtv Ilirida Music
 http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv Dielli
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja (720P) " tvg-logo="" group-title="Channel",TV Opoja (720P) 
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1,Start TV
-http://195.154.169.77:5500/live/starttv/8888/472.ts
-#EXTINF:-1,Dasma TV
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora TV" tvg-logo="" group-title="Channel",Diaspora TV
+http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Channel",Dasma TV
 http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:-1,Wow TV
+#EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
-#EXTINF:-1,Peace TV
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:ahlakid.com
-#EXTINF:-1,Living HD
-http://89.39.106.21:8080/LivinGhDdgsg/index.m3u8
-#EXTINF:-1,Smile
-http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
-#EXTINF:-1,Tring Series
-http://89.39.106.21:8080/JollyHDwtet/index.m3u8
-#EXTINF:-1,Tring World
-http://89.39.106.21:8080/TringWorldsgag/index.m3u8
-#EXTINF:-1,TRING SMILE HD
-http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
-#EXTINF:-1,Rtv Ilirida Film
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Albanian (360P)" tvg-logo="" group-title="Channel",Peace TV Albanian (360P)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Film" tvg-logo="" group-title="Channel",Rtv Ilirida Film
 http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EXTREM GOLD 1 HD
-http://15642874304315388.niceapy.xyz:80/live/hu1015651/8374095549/304314.ts
-#EXTINF:-1,PREMIUM TRAVEL
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Film" tvg-logo="" group-title="Channel",Rtv Ilirida Film
+http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida HD" tvg-logo="" group-title="Channel",Rtv Ilirida HD
+http://144.76.100.109/tvilirida/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Muzike" tvg-logo="" group-title="Channel",Rtv Ilirida Muzike
+http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium Travel" tvg-logo="" group-title="Channel",Premium Travel
 http://premiummedia.al/stream/premium-travel/live.m3u8
-#EXTINF:-1,PORTOKALLI HD
-http://rakoboz.me/live/VraniqiNjazi/fF5JK9MDsGEAmGf3xasT/20810.ts
-#EXTINF:-1,FOLKLORIT HD
-http://dominoiptv.com:2082/live/cipo2673/6nKa4hs9fFS2U8/209968.ts
-#EXTINF:-1,RTV ARBËRIA MUZIKË HD
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w154518172.m3u8
-#EXTINF:-1,START KOSOVA TV HD
-http://195.154.169.77:5500/live/starttv/8888/472.ts
-#EXTINF:-1,TOP ESTRADA HD
-http://live.topestrada.com/live/topestrada/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTSH SHQIP SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65380.ts
-#EXTINF:-1,TRING SHQIP SD
-http://95.107.132.105/out/u/1013_3.m3u8
-#EXTINF:-1,EURO FILM SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65465.ts
-#EXTINF:-1,FAMILY HD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65458.ts
-#EXTINF:-1,FILM AKSION HD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65452.ts
-#EXTINF:-1,FILM AUTOR SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65456.ts
-#EXTINF:-1,FILM DRAMË SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65454.ts
-#EXTINF:-1,FILM GOLD HD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65449.ts
-#EXTINF:-1,FILM KOMEDI SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65455.ts
-#EXTINF:-1,FILM MAX HD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65450.ts
-#EXTINF:-1,TRING ACTION HD
-http://95.107.132.105/out/u/1070_1.m3u8
-#EXTINF:-1,TRING COLLETION HD
-http://95.107.132.105/out/u/907_2.m3u8
-#EXTINF:-1,TRING LIFE HD
-http://95.107.132.105/out/u/1072_3.m3u8
-#EXTINF:-1,TRING SERIES HD
-http://95.107.132.105/out/u/996_2.m3u8
-#EXTINF:-1,EXP HISTORI SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65403.ts
-#EXTINF:-1,EXP SHKENCË SD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65401.ts
-#EXTINF:-1,TRING HISTORY HD
-http://95.107.132.105/out/u/1075_3.m3u8
-#EXTINF:-1,TRING PLANET HD
-http://95.107.132.105/out/u/1000_2.m3u8
-#EXTINF:-1,TRING MUSE SD
-http://95.107.132.105/out/u/993_2.m3u8
-#EXTINF:-1,RTSH SPORT HD
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65386.ts
-#EXTINF:-1,TRING SPORT NEWS HD
-http://89.39.106.21:8080/TriNGspoRTnEwsdgg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teuta TV" tvg-logo="" group-title="Channel",Teuta TV
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teuta HD" tvg-logo="" group-title="Channel",Teuta HD
+http://79.106.90.124:5151/live/rtvteutaott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KorcA Plus" tvg-logo="" group-title="Channel",KorcA Plus
+http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ntv HD" tvg-logo="" group-title="Channel",Ntv HD
+http://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atd (1080P)" tvg-logo="" group-title="Channel",Atd (1080P)
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galicia TV Europa (720P)" tvg-logo="" group-title="Channel",Galicia TV Europa (720P)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alb Dreams TV" tvg-logo="" group-title="Channel",Alb Dreams TV
+http://live.albavision.net:1123/live/albdreams.m3u8
