@@ -1,976 +1,123 @@
 #EXTM3U
-#EXTINF:49,04 Klan HD
-http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
-#EXTINF:0,News 24 Albania (392P)
+#EXTINF:-1 tvg-id="" tvg-name="News 24 Albania (392P)" tvg-logo="" group-title="Channel",News 24 Albania (392P)
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0,News 24 (392P) 
+#EXTINF:-1 tvg-id="" tvg-name="News 24 (392P) " tvg-logo="" group-title="Channel",News 24 (392P) 
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:0,BBC World News (576p)
+#EXTINF:-1 tvg-id="" tvg-name="Bbc World News (576P)" tvg-logo="" group-title="Channel",Bbc World News (576P)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:0,Klan News HD
-http://79.106.90.124:5151/live/klannewsott/playlist.m3u8
-#EXTINF:0,Klan Plus HD
-http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
-#EXTINF:0,Euro News Albania
-http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
-#EXTINF:0,Panorama HD
+#EXTINF:-1 tvg-id="" tvg-name="Panorama HD" tvg-logo="" group-title="Channel",Panorama HD
 http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:0,TV 7 Albania (540P) 
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 Albania (540P) " tvg-logo="" group-title="Channel",TV 7 Albania (540P) 
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:0,Mcn TV HD
-http://79.106.90.124:5151/live/mcnpp1/playlist.m3u8
-#EXTINF:0,Scan HD
-http://79.106.90.124:5151/live/scanott/playlist.m3u8
-#EXTINF:0,A2 Cnn HD
-http://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:0,Arta News HD
+#EXTINF:-1 tvg-id="" tvg-name="Arta News HD" tvg-logo="" group-title="Channel",Arta News HD
 http://84.22.33.254/unicast.artanews/index.m3u8?token=1
-#EXTINF:0,Syri TV HD
-http://79.106.90.124:5151/live/syritvott/playlist.m3u8
-#EXTINF:0,RTV21 PLUS HD
-http://46.29.169.15:4001/play/a00b/index.m3u8
-#EXTINF:0,Rtk Sat
+#EXTINF:-1 tvg-id="" tvg-name="Rtk Sat" tvg-logo="" group-title="Channel",Rtk Sat
 http://edge01eu.ekranet.com/rtk1/index.m3u8
-#EXTINF:0,Prince Kids
+#EXTINF:-1 tvg-id="" tvg-name="Prince Kids" tvg-logo="" group-title="Channel",Prince Kids
 http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
-#EXTINF:0,Rtv Ilirida Music
-http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV Opoja (720P) 
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja (720P) " tvg-logo="" group-title="Channel",TV Opoja (720P) 
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:0,Syri TV (720P) 
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV (720P) " tvg-logo="" group-title="Channel",Syri TV (720P) 
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:0,TV Dielli
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:0,Diaspora TV
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora TV" tvg-logo="" group-title="Channel",Diaspora TV
 http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
-#EXTINF:0,TV Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:0,Dasma TV
-http://84.22.33.254/unicast.dasmatv/index.m3u8?token=1
-#EXTINF:0,Wow TV
+#EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
-#EXTINF:0,Peace TV Albanian (360P)
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Albanian (360P)" tvg-logo="" group-title="Channel",Peace TV Albanian (360P)
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:0,RTV Pendimi (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi (720P)" tvg-logo="" group-title="Channel",Rtv Pendimi (720P)
 http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
-#EXTINF:0,Rtv Ilirida Film
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Film" tvg-logo="" group-title="Channel",Rtv Ilirida Film
 http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
-#EXTINF:0,Rtv Ilirida HD
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida HD" tvg-logo="" group-title="Channel",Rtv Ilirida HD
 http://144.76.100.109/tvilirida/tracks-v1a1/mono.m3u8
-#EXTINF:0,Rtv Ilirida Muzike
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Music" tvg-logo="" group-title="Channel",Rtv Ilirida Music
 http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:0,Premium Travel
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Muzike" tvg-logo="" group-title="Channel",Rtv Ilirida Muzike
+http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium Travel" tvg-logo="" group-title="Channel",Premium Travel
 http://premiummedia.al/stream/premium-travel/live.m3u8
-#EXTINF:0,Teuta TV
+#EXTINF:-1 tvg-id="" tvg-name="Teuta TV" tvg-logo="" group-title="Channel",Teuta TV
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:0,Teuta HD
-http://79.106.90.124:5151/live/rtvteutaott/playlist.m3u8
-#EXTINF:0,KorcA Plus
+#EXTINF:-1 tvg-id="" tvg-name="Korca Plus" tvg-logo="" group-title="Channel",Korca Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
-#EXTINF:0,Ntv HD
+#EXTINF:-1 tvg-id="" tvg-name="Ntv HD" tvg-logo="" group-title="Channel",Ntv HD
 http://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
-#EXTINF:0,ATD (1080p)
-http://46.99.146.236/0.m3u8
-#EXTINF:0,Galicia TV Europa (720P)
+#EXTINF:-1 tvg-id="" tvg-name="Galicia TV Europa (720P)" tvg-logo="" group-title="Channel",Galicia TV Europa (720P)
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0,Alb Dreams TV
-http://live.albavision.net:1123/live/albdreams.m3u8
-#EXTINF:0,AlbUK TV (1080p) [Not 24/7]
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:0,VIZION PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
 http://109.236.44.157:2121/vizion
-#EXTINF:0,
-http://95.107.132.105/out/u/1180_1.m3u8
-#EXTINF:0,TOP CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
 http://109.236.44.157:2121/topchannel
-#EXTINF:0,KLAN HD
+#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Channel",Klan HD
 http://109.236.44.157:2121/klan
-#EXTINF:0,
-http://79.106.90.114:3131/live/klanhdott/playlist.m3u8
-#EXTINF:0,KLAN PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
 http://109.236.44.157:2121/klanplus
-#EXTINF:0,
-http://79.106.90.114:3131/live/klanplusott/playlist.m3u8
-#EXTINF:0,KLAN KOSOVA HD
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="Channel",Klan Kosova HD
 http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2561
-#EXTINF:0,ALSAT-M HD
-http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1346
-#EXTINF:0,TV KORCA HD
+#EXTINF:-1 tvg-id="" tvg-name="Tvâ Korca HD" tvg-logo="" group-title="Channel",Tvâ Korca HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:0,TV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="TV News HD" tvg-logo="" group-title="Channel",TV News HD
 http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
-#EXTINF:0,GLOBE TV
+#EXTINF:-1 tvg-id="" tvg-name="Globe TV" tvg-logo="" group-title="Channel",Globe TV
 http://italbania.live/globetv/tibo/index.m3u8
-#EXTINF:0,TV JOHANITER
+#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="" group-title="Channel",TV Johaniter
 http://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
-#EXTINF:0,BBF MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="Bbfâ Music" tvg-logo="" group-title="Channel",Bbfâ Music
 http://146.59.19.1:80/5044/index.m3u8
-#EXTINF:0,FOLK PLUS
+#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
 http://146.59.19.1:80/5045/index.m3u8
-#EXTINF:0,Tring Stories
+#EXTINF:-1 tvg-id="" tvg-name="Tring Stories" tvg-logo="" group-title="Channel",Tring Stories
 http://95.107.132.103/out/u/gthmsdmgfamdg.m3u8
-#EXTINF:0,Fax News
+#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
 http://95.107.132.105/out/u/228_1.m3u8
-#EXTINF:0,TRING SUPER HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super HD" tvg-logo="" group-title="Channel",Tring Super HD
 http://146.59.19.1:80/5018/index.m3u8
-#EXTINF:0,TRING ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action HD" tvg-logo="" group-title="Channel",Tring Action HD
 http://146.59.19.1:80/5019/index.m3u8
-#EXTINF:0,TRING SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Series HD" tvg-logo="" group-title="Channel",Tring Series HD
 http://146.59.19.1:80/5012/index.m3u8
-#EXTINF:0,TRING 3PLUS
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3Plus" tvg-logo="" group-title="Channel",Tring 3Plus
 http://146.59.19.1:80/5013/index.m3u8
-#EXTINF:0,TRING LIFE
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
 http://146.59.19.1:80/5015/index.m3u8
-#EXTINF:0,TRING FANTASY
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
 http://146.59.19.1:80/5020/index.m3u8
-#EXTINF:0,TRING COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="Channel",Tring Comedy
 http://146.59.19.1:80/5017/index.m3u8
-#EXTINF:0,TRING SHQIP
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
 http://146.59.19.1:80/5014/index.m3u8
-#EXTINF:0,TRING ORIGINAL
+#EXTINF:-1 tvg-id="" tvg-name="Tring Original" tvg-logo="" group-title="Channel",Tring Original
 http://146.59.19.1:80/5025/index.m3u8
-#EXTINF:0,TRING KANAL D HD
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kanal D HD" tvg-logo="" group-title="Channel",Tring Kanal D HD
 http://146.59.19.1:80/5062/index.m3u8
-#EXTINF:0,TRING SMILE
-http://146.59.19.1:80/5016/index.m3u8
-#EXTINF:0,RAI 1
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="Channel",Rai 1
 http://142.132.151.149/RAI1/index.m3u8
-#EXTINF:0,RAI 2
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="Channel",Rai 2
 http://142.132.151.149/RAI2/index.m3u8
-#EXTINF:0,RAI 3
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
 http://142.132.151.149/RAI3/index.m3u8
-#EXTINF:0,RAI 4
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4" tvg-logo="" group-title="Channel",Rai 4
 http://142.132.151.149/RAI4/index.m3u8
-#EXTINF:0,OVERSPORT 1HD
+#EXTINF:-1 tvg-id="" tvg-name="Oversport 1Hd" tvg-logo="" group-title="Channel",Oversport 1Hd
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46984
-#EXTINF:0,OVERSPORT 2HD
+#EXTINF:-1 tvg-id="" tvg-name="Oversport 2Hd" tvg-logo="" group-title="Channel",Oversport 2Hd
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46985
-#EXTINF:0,OVERSPORT 3HD
+#EXTINF:-1 tvg-id="" tvg-name="Oversport 3Hd" tvg-logo="" group-title="Channel",Oversport 3Hd
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46986
-#EXTINF:0,OVERSPORT 4HD
+#EXTINF:-1 tvg-id="" tvg-name="Oversport 4Hd" tvg-logo="" group-title="Channel",Oversport 4Hd
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46987
-#EXTINF:0,http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0,http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0,http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0,ELEVEN SPORT1
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport1" tvg-logo="" group-title="Channel",Eleven Sport1
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-#EXTINF:0,ELEVEN SPORT2
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport2" tvg-logo="" group-title="Channel",Eleven Sport2
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-#EXTINF:0,History FHD
+#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="" group-title="Channel",History FHD
 http://supertv.red:80/nii5jn8d/gz6su0qk/100596.ts
-#EXTINF:0,H2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="" group-title="Channel",H2 FHD
 http://supertv.red:80/nii5jn8d/gz6su0qk/100593.ts
-#EXTINF:0,Animal Planet FHD
-http://supertv.red:80/nii5jn8d/gz6su0qk/100623.ts
-#EXTINF:0,Nat Geo FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD" tvg-logo="" group-title="Channel",Nat Geo FHD
 http://supertv.red:80/nii5jn8d/gz6su0qk/100583.ts
-#EXTINF:0,Alb: Top Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73408
-#EXTINF:0,Alb: Klan TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73410
-#EXTINF:0,Alb: RTK 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73452
-#EXTINF:0,Alb: RTV 21 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73469
-#EXTINF:0,Alb: KTV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73449
-#EXTINF:0,Alb: Klan Kosova
-http://new-pro.tv:8080/99622282/etbVXafU6f/73451
-#EXTINF:0,Alb: RTV Dukagjini
-http://new-pro.tv:8080/99622282/etbVXafU6f/318270
-#EXTINF:0,Alb: T7 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73427
-#EXTINF:0,Alb: ATV TV FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173817
-#EXTINF:0,Alb: Arta News FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133765
-#EXTINF:0,Alb: Top News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73428
-#EXTINF:0,Alb: ORA News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73432
-#EXTINF:0,Alb: First Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73467
-#EXTINF:0,Alb: Rrokum  HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133773
-#EXTINF:0,Alb: First Kosova
-http://new-pro.tv:8080/99622282/etbVXafU6f/173841
-#EXTINF:0,Alb: Era Tv
-http://new-pro.tv:8080/99622282/etbVXafU6f/73460
-#EXTINF:0,Alb: Klan Plus HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73412
-#EXTINF:0,Alb: Vizion Plus HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73411
-#EXTINF:0,Alb: Alsat M
-http://new-pro.tv:8080/99622282/etbVXafU6f/73450
-#EXTINF:0,Alb: RTV 21 MK HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73472
-#EXTINF:0,Alb: RTK 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73453
-#EXTINF:0,Alb: RTK 3 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73454
-#EXTINF:0,Alb: RTK 4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73455
-#EXTINF:0,Alb: RTV Fontana
-http://new-pro.tv:8080/99622282/etbVXafU6f/133868
-#EXTINF:0,Alb: Al Jazeera Balkan
-http://new-pro.tv:8080/99622282/etbVXafU6f/321562
-#EXTINF:0,Alb: ABC News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73431
-#EXTINF:0,Alb: Tema TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133766
-#EXTINF:0,Alb: Kanali 7
-http://new-pro.tv:8080/99622282/etbVXafU6f/73429
-#EXTINF:0,Alb: RTSH 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/73439
-#EXTINF:0,Alb: RTSH 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73407
-#EXTINF:0,Alb: RTSH 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/73441
-#EXTINF:0,Alb: RTSH 24
-http://new-pro.tv:8080/99622282/etbVXafU6f/73443
-#EXTINF:0,Alb: RTSH Shqip
-http://new-pro.tv:8080/99622282/etbVXafU6f/265954
-#EXTINF:0,Alb: RTSH SHKOLLE
-http://new-pro.tv:8080/99622282/etbVXafU6f/321569
-#EXTINF:0,Alb: RTSH Korca
-http://new-pro.tv:8080/99622282/etbVXafU6f/318271
-#EXTINF:0,Alb: RTSH Sport HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73490
-#EXTINF:0,Alb: RTSH Femije
-http://new-pro.tv:8080/99622282/etbVXafU6f/73448
-#EXTINF:0,Alb: RTSH Muzike
-http://new-pro.tv:8080/99622282/etbVXafU6f/73445
-#EXTINF:0,Alb: RTSH SAT
-http://new-pro.tv:8080/99622282/etbVXafU6f/173861
-#EXTINF:0,Alb: RTSH Film
-http://new-pro.tv:8080/99622282/etbVXafU6f/73444
-#EXTINF:0,Alb: News 24
-http://new-pro.tv:8080/99622282/etbVXafU6f/73430
-#EXTINF:0,Alb: Balkanika Music
-http://new-pro.tv:8080/99622282/etbVXafU6f/28203
-#EXTINF:0,Alb: Tirana
-http://new-pro.tv:8080/99622282/etbVXafU6f/73413
-#EXTINF:0,Alb: KTV  telekom
-http://new-pro.tv:8080/99622282/etbVXafU6f/173828
-#EXTINF:0,Alb: FAX News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73433
-#EXTINF:0,Alb: RTV 21 NewsBiz
-http://new-pro.tv:8080/99622282/etbVXafU6f/318269
-#EXTINF:0,Alb: Euronews Albania
-http://new-pro.tv:8080/99622282/etbVXafU6f/73438
-#EXTINF:0,Alb: ALB UK
-http://new-pro.tv:8080/99622282/etbVXafU6f/318322
-#EXTINF:0,Alb: Arti TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318275
-#EXTINF:0,Alb: E Gjurmet Shqiptare
-http://new-pro.tv:8080/99622282/etbVXafU6f/318295
-#EXTINF:0,Alb: Antena Shkoder
-http://new-pro.tv:8080/99622282/etbVXafU6f/173825
-#EXTINF:0,Alb: TV Dukagjini
-http://new-pro.tv:8080/99622282/etbVXafU6f/73461
-#EXTINF:0,Alb: TV Liria
-http://new-pro.tv:8080/99622282/etbVXafU6f/318288
-#EXTINF:0,Alb: TV Teuta
-http://new-pro.tv:8080/99622282/etbVXafU6f/321618
-#EXTINF:0,Alb: TV Globi
-http://new-pro.tv:8080/99622282/etbVXafU6f/265964
-#EXTINF:0,Alb: Syri TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318282
-#EXTINF:0,Alb: City TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318315
-#EXTINF:0,Alb: Fox
-http://new-pro.tv:8080/99622282/etbVXafU6f/133800
-#EXTINF:0,Alb: Dasma TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133877
-#EXTINF:0,Alb: A2 CNN
-http://new-pro.tv:8080/99622282/etbVXafU6f/73434
-#EXTINF:0,Alb: Channel One
-http://new-pro.tv:8080/99622282/etbVXafU6f/318277
-#EXTINF:0,Alb: TV Syri Vision
-http://new-pro.tv:8080/99622282/etbVXafU6f/73466
-#EXTINF:0,Alb: TV Besa
-http://new-pro.tv:8080/99622282/etbVXafU6f/73458
-#EXTINF:0,Alb: Scan TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318299
-#EXTINF:0,Alb: Drita TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/173831
-#EXTINF:0,Alb: Fontana
-http://new-pro.tv:8080/99622282/etbVXafU6f/173843
-#EXTINF:0,Alb: TV Prizreni
-http://new-pro.tv:8080/99622282/etbVXafU6f/318291
-#EXTINF:0,Alb: TV Mitrovica
-http://new-pro.tv:8080/99622282/etbVXafU6f/318290
-#EXTINF:0,Alb: Sofia HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133861
-#EXTINF:0,Alb: Istogu Channel
-http://new-pro.tv:8080/99622282/etbVXafU6f/318272
-#EXTINF:0,Alb: TV Uskana
-http://new-pro.tv:8080/99622282/etbVXafU6f/318292
-#EXTINF:0,Alb: TV Dielli
-http://new-pro.tv:8080/99622282/etbVXafU6f/73459
-#EXTINF:0,Alb: TV Opoja
-http://new-pro.tv:8080/99622282/etbVXafU6f/133878
-#EXTINF:0,Alb: Tetova Action
-http://new-pro.tv:8080/99622282/etbVXafU6f/173899
-#EXTINF:0,Alb: MRT 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/133763
-#EXTINF:0,Alb: Apollon News TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318274
-#EXTINF:0,Alb: TV Shenja
-http://new-pro.tv:8080/99622282/etbVXafU6f/73465
-#EXTINF:0,Alb: Channel 7
-http://new-pro.tv:8080/99622282/etbVXafU6f/318276
-#EXTINF:0,Alb: 24 Kitchen
-http://new-pro.tv:8080/99622282/etbVXafU6f/173818
-#EXTINF:0,Alb: Boin
-http://new-pro.tv:8080/99622282/etbVXafU6f/133775
-#EXTINF:0,Alb: Star+ Shkodra
-http://new-pro.tv:8080/99622282/etbVXafU6f/265953
-#EXTINF:0,Alb: Nat Geo FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133846
-#EXTINF:0,Alb: Discovery Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173830
-#EXTINF:0,Alb: Travel Channel FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133847
-#EXTINF:0,Alb: E Shkenca HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318294
-#EXTINF:0,Alb: E Histori HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318303
-#EXTINF:0,Alb: E Natyra HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318304
-#EXTINF:0,Alb: E Cifteli HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318312
-#EXTINF:0,Alb: E Popullore HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318313
-#EXTINF:0,Alb: Explorer Natyra HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133838
-#EXTINF:0,Alb: Explorer Shkenca
-http://new-pro.tv:8080/99622282/etbVXafU6f/133837
-#EXTINF:0,Alb: Popullore 21 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173857
-#EXTINF:0,Alb: RTV 21 Mix
-http://new-pro.tv:8080/99622282/etbVXafU6f/73473
-#EXTINF:0,Alb: RTV 21 Plus HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73474
-#EXTINF:0,Alb: Top Estrada
-http://new-pro.tv:8080/99622282/etbVXafU6f/318297
-#EXTINF:0,Alb: Super Sonic Tv
-http://new-pro.tv:8080/99622282/etbVXafU6f/173874
-#EXTINF:0,Alb: ON TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133880
-#EXTINF:0,Alb: My Music
-http://new-pro.tv:8080/99622282/etbVXafU6f/133876
-#EXTINF:0,Alb: Film Shqip
-http://new-pro.tv:8080/99622282/etbVXafU6f/321610
-#EXTINF:0,Alb: A-Mol TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/173819
-#EXTINF:0,Alb: STV Folk
-http://new-pro.tv:8080/99622282/etbVXafU6f/133881
-#EXTINF:0,Alb: E Music Hits HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318314
-#EXTINF:0,Alb: Shota TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318317
-#EXTINF:0,Alb: Folk
-http://new-pro.tv:8080/99622282/etbVXafU6f/173842
-#EXTINF:0,Alb: Folk +
-http://new-pro.tv:8080/99622282/etbVXafU6f/133872
-#EXTINF:0,Alb: Music Al
-http://new-pro.tv:8080/99622282/etbVXafU6f/173854
-#EXTINF:0,Alb: MTV Kosova
-http://new-pro.tv:8080/99622282/etbVXafU6f/318307
-#EXTINF:0,Alb: Syri Blue
-http://new-pro.tv:8080/99622282/etbVXafU6f/173875
-#EXTINF:0,Alb: RTV ILIRIDA
-http://new-pro.tv:8080/99622282/etbVXafU6f/321625
-#EXTINF:0,Alb: ALB UK Music
-http://new-pro.tv:8080/99622282/etbVXafU6f/133888
-#EXTINF:0,Alb: RTV 21 Junior
-http://new-pro.tv:8080/99622282/etbVXafU6f/73470
-#EXTINF:0,Alb: Baby TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133862
-#EXTINF:0,Alb: Junior TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133860
-#EXTINF:0,Alb: Tring Tring
-http://new-pro.tv:8080/99622282/etbVXafU6f/133858
-#EXTINF:0,Alb: Jim Jim
-http://new-pro.tv:8080/99622282/etbVXafU6f/173847
-#EXTINF:0,Alb: Tom  and  Jerry HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133855
-#EXTINF:0,Alb: Boomerang
-http://new-pro.tv:8080/99622282/etbVXafU6f/133863
-#EXTINF:0,Alb: Bang Bang
-http://new-pro.tv:8080/99622282/etbVXafU6f/133853
-#EXTINF:0,Alb: Cufo
-http://new-pro.tv:8080/99622282/etbVXafU6f/133854
-#EXTINF:0,Alb: Tring Kids
-http://new-pro.tv:8080/99622282/etbVXafU6f/133857
-#EXTINF:0,Alb: KS Humor HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133787
-#EXTINF:0,Alb: Living FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133840
-#EXTINF:0,Alb: Jolly HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133811
-#EXTINF:0,Alb: TDC
-http://new-pro.tv:8080/99622282/etbVXafU6f/318284
-#EXTINF:0,Alb: Stinet
-http://new-pro.tv:8080/99622282/etbVXafU6f/133776
-#EXTINF:0,Alb: Tip TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173881
-#EXTINF:0,Alb: Family HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/321628
-#EXTINF:0,Alb: Film Aksion
-http://new-pro.tv:8080/99622282/etbVXafU6f/73422
-#EXTINF:0,Alb: Film Hits
-http://new-pro.tv:8080/99622282/etbVXafU6f/73421
-#EXTINF:0,Alb: Film Thriller
-http://new-pro.tv:8080/99622282/etbVXafU6f/73423
-#EXTINF:0,Alb: Film Drame
-http://new-pro.tv:8080/99622282/etbVXafU6f/73424
-#EXTINF:0,Alb: Film Komedi
-http://new-pro.tv:8080/99622282/etbVXafU6f/73425
-#EXTINF:0,Alb: Film Stinet
-http://new-pro.tv:8080/99622282/etbVXafU6f/133797
-#EXTINF:0,Alb: Film Gold
-http://new-pro.tv:8080/99622282/etbVXafU6f/321551
-#EXTINF:0,Alb: Film Autor
-http://new-pro.tv:8080/99622282/etbVXafU6f/321631
-#EXTINF:0,Alb: FilmBox Extra
-http://new-pro.tv:8080/99622282/etbVXafU6f/73477
-#EXTINF:0,Alb: Film24 Histori
-http://new-pro.tv:8080/99622282/etbVXafU6f/318308
-#EXTINF:0,Alb: Filma 24 Horror
-http://new-pro.tv:8080/99622282/etbVXafU6f/321544
-#EXTINF:0,Alb: Gold HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73417
-#EXTINF:0,Alb: DIGI Gold HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133813
-#EXTINF:0,Alb: DIGI Gold 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133814
-#EXTINF:0,Alb: Digi Gold 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/318300
-#EXTINF:0,Alb: Digi Gold 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/318301
-#EXTINF:0,Alb: Tring Super
-http://new-pro.tv:8080/99622282/etbVXafU6f/133804
-#EXTINF:0,Alb: Tring Novelas
-http://new-pro.tv:8080/99622282/etbVXafU6f/321558
-#EXTINF:0,Alb: Tring Comedy
-http://new-pro.tv:8080/99622282/etbVXafU6f/133807
-#EXTINF:0,Alb: Tring History
-http://new-pro.tv:8080/99622282/etbVXafU6f/133843
-#EXTINF:0,Alb: Tring Life
-http://new-pro.tv:8080/99622282/etbVXafU6f/133808
-#EXTINF:0,Alb: Tring Muse
-http://new-pro.tv:8080/99622282/etbVXafU6f/133778
-#EXTINF:0,Alb: Tring Planet
-http://new-pro.tv:8080/99622282/etbVXafU6f/133842
-#EXTINF:0,Alb: Tring Fantasy
-http://new-pro.tv:8080/99622282/etbVXafU6f/133809
-#EXTINF:0,Alb: Tring Shqip
-http://new-pro.tv:8080/99622282/etbVXafU6f/133810
-#EXTINF:0,Alb: Tring Smile
-http://new-pro.tv:8080/99622282/etbVXafU6f/133812
-#EXTINF:0,Alb: Tring World
-http://new-pro.tv:8080/99622282/etbVXafU6f/133841
-#EXTINF:0,Alb: Tring 3+
-http://new-pro.tv:8080/99622282/etbVXafU6f/133803
-#EXTINF:0,Alb: Tring Jolly HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/265950
-#EXTINF:0,Alb: TLC
-http://new-pro.tv:8080/99622282/etbVXafU6f/173882
-#EXTINF:0,Alb: X Comedy HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173902
-#EXTINF:0,Alb: X Natyra HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173911
-#EXTINF:0,Alb: X Cifteli HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318321
-#EXTINF:0,Alb: X Dark
-http://new-pro.tv:8080/99622282/etbVXafU6f/321531
-#EXTINF:0,Alb: X Premium 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/321528
-#EXTINF:0,Alb: X Gold 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/173906
-#EXTINF:0,Alb: X Premium 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133820
-#EXTINF:0,Alb: X Kids
-http://new-pro.tv:8080/99622282/etbVXafU6f/173909
-#EXTINF:0,Alb: Ks Thriller HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133828
-#EXTINF:0,Alb: Ks Romance HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133827
-#EXTINF:0,Alb: Tele One 3 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173877
-#EXTINF:0,Alb: Tele One 4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173878
-#EXTINF:0,Alb: Tele One 5 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173879
-#EXTINF:0,Alb: Sky Max
-http://new-pro.tv:8080/99622282/etbVXafU6f/133833
-#EXTINF:0,Alb: Sky Novela
-http://new-pro.tv:8080/99622282/etbVXafU6f/133836
-#EXTINF:0,Alb: Sky Shkenc
-http://new-pro.tv:8080/99622282/etbVXafU6f/173865
-#EXTINF:0,Alb: Sky Histori
-http://new-pro.tv:8080/99622282/etbVXafU6f/318306
-#EXTINF:0,Alb: Fox Life
-http://new-pro.tv:8080/99622282/etbVXafU6f/133802
-#EXTINF:0,Alb: Fox Crime
-http://new-pro.tv:8080/99622282/etbVXafU6f/173844
-#EXTINF:0,Alb: Fox Movies
-http://new-pro.tv:8080/99622282/etbVXafU6f/318311
-#EXTINF:0,Alb: Art Kino 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73481
-#EXTINF:0,Alb: Art Doku 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73486
-#EXTINF:0,Alb: Rtv Pendimi
-http://new-pro.tv:8080/99622282/etbVXafU6f/133768
-#EXTINF:0,Alb: Peace TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133769
-#EXTINF:0,Alb: Medina Live
-http://new-pro.tv:8080/99622282/etbVXafU6f/133772
-#EXTINF:0,Alb: Mekka Live
-http://new-pro.tv:8080/99622282/etbVXafU6f/173853
-#EXTINF:0,Alb: Peace TV Anglisht
-http://new-pro.tv:8080/99622282/etbVXafU6f/133770
-#EXTINF:0,Alb: Elrodi TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133871
-#EXTINF:0,Alb: Eurosport 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73500
-#EXTINF:0,Alb: Eurosport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73501
-#EXTINF:0,Spt-VIP Alb: Eurosport 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116122
-#EXTINF:0,Spt-VIP Alb: Eurosport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116123
-#EXTINF:0,Alb: Super Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73492
-#EXTINF:0,Alb: Super Sport 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/246097
-#EXTINF:0,Spt-VIP Alb: Super Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116128
-#EXTINF:0,Spt-VIP Alb: Super Sport  4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116130
-#EXTINF:0,Alb: Super Sport  4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73494
-#EXTINF:0,Alb: Super Sport 5 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133897
-#EXTINF:0,Alb: Super Sport 6 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173867
-#EXTINF:0,Alb: Super Sport Kosova 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173872
-#EXTINF:0,Spt-VIP Alb: Tring Sport 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/116118
-#EXTINF:0,Spt-VIP Alb: Tring Sport 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/116120
-#EXTINF:0,Spt-VIP Alb: Tring Sport 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/116121
-#EXTINF:0,Alb: Tring Sport 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/73496
-#EXTINF:0,Alb: Tring Sport 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/73498
-#EXTINF:0,Alb: Tring Sport 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/73499
-#EXTINF:0,Alb: Art Sport 1 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133903
-#EXTINF:0,Alb: Art Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133904
-#EXTINF:0,Alb: Art Sport 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/321563
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: RTSH Sport HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116126
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Super Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116128
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Super Sport  4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116130
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Tring Sport 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/116118
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Tring Sport 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/116120
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Tring Sport 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/116121
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Eurosport 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116122
-#EXTINF:0, ahlakid.com - Spt-VIP Alb: Eurosport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116123
-#EXTINF:0, ahlakid.com - Alb: Top Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73408
-#EXTINF:0, ahlakid.com - Alb: Klan TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73410
-#EXTINF:0, ahlakid.com - Alb: RTK 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73452
-#EXTINF:0, ahlakid.com - Alb: RTV 21 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73469
-#EXTINF:0, ahlakid.com - Alb: KTV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73449
-#EXTINF:0, ahlakid.com - Alb: Klan Kosova
-http://new-pro.tv:8080/99622282/etbVXafU6f/73451
-#EXTINF:0, ahlakid.com - Alb: RTV Dukagjini
-http://new-pro.tv:8080/99622282/etbVXafU6f/318270
-#EXTINF:0, ahlakid.com - Alb: T7 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73427
-#EXTINF:0, ahlakid.com - Alb: ATV TV FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173817
-#EXTINF:0, ahlakid.com - Alb: Arta News FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133765
-#EXTINF:0, ahlakid.com - Alb: Top News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73428
-#EXTINF:0, ahlakid.com - Alb: ORA News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73432
-#EXTINF:0, ahlakid.com - Alb: First Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73467
-#EXTINF:0, ahlakid.com - Alb: Rrokum  HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133773
-#EXTINF:0, ahlakid.com - Alb: First Kosova
-http://new-pro.tv:8080/99622282/etbVXafU6f/173841
-#EXTINF:0, ahlakid.com - Alb: Era Tv
-http://new-pro.tv:8080/99622282/etbVXafU6f/73460
-#EXTINF:0, ahlakid.com - Alb: Klan Plus HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73412
-#EXTINF:0, ahlakid.com - Alb: Vizion Plus HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73411
-#EXTINF:0, ahlakid.com - Alb: Alsat M
-http://new-pro.tv:8080/99622282/etbVXafU6f/73450
-#EXTINF:0, ahlakid.com - Alb: RTV 21 MK HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73472
-#EXTINF:0, ahlakid.com - Alb: RTK 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73453
-#EXTINF:0, ahlakid.com - Alb: RTK 3 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73454
-#EXTINF:0, ahlakid.com - Alb: RTK 4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73455
-#EXTINF:0, ahlakid.com - Alb: RTV Fontana
-http://new-pro.tv:8080/99622282/etbVXafU6f/133868
-#EXTINF:0, ahlakid.com - Alb: Al Jazeera Balkan
-http://new-pro.tv:8080/99622282/etbVXafU6f/321562
-#EXTINF:0, ahlakid.com - Alb: ABC News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73431
-#EXTINF:0, ahlakid.com - Alb: Tema TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133766
-#EXTINF:0, ahlakid.com - Alb: Kanali 7
-http://new-pro.tv:8080/99622282/etbVXafU6f/73429
-#EXTINF:0, ahlakid.com - Alb: RTSH 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/73439
-#EXTINF:0, ahlakid.com - Alb: RTSH 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73407
-#EXTINF:0, ahlakid.com - Alb: RTSH 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/73441
-#EXTINF:0, ahlakid.com - Alb: RTSH 24
-http://new-pro.tv:8080/99622282/etbVXafU6f/73443
-#EXTINF:0, ahlakid.com - Alb: RTSH Shqip
-http://new-pro.tv:8080/99622282/etbVXafU6f/265954
-#EXTINF:0, ahlakid.com - Alb: RTSH SHKOLLE
-http://new-pro.tv:8080/99622282/etbVXafU6f/321569
-#EXTINF:0, ahlakid.com - Alb: RTSH Korca
-http://new-pro.tv:8080/99622282/etbVXafU6f/318271
-#EXTINF:0, ahlakid.com - Alb: RTSH Sport HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73490
-#EXTINF:0, ahlakid.com - Alb: RTSH Femije
-http://new-pro.tv:8080/99622282/etbVXafU6f/73448
-#EXTINF:0, ahlakid.com - Alb: RTSH Muzike
-http://new-pro.tv:8080/99622282/etbVXafU6f/73445
-#EXTINF:0, ahlakid.com - Alb: RTSH SAT
-http://new-pro.tv:8080/99622282/etbVXafU6f/173861
-#EXTINF:0, ahlakid.com - Alb: RTSH Film
-http://new-pro.tv:8080/99622282/etbVXafU6f/73444
-#EXTINF:0, ahlakid.com - Alb: News 24
-http://new-pro.tv:8080/99622282/etbVXafU6f/73430
-#EXTINF:0, ahlakid.com - Alb: Balkanika Music
-http://new-pro.tv:8080/99622282/etbVXafU6f/28203
-#EXTINF:0, ahlakid.com - Alb: Tirana
-http://new-pro.tv:8080/99622282/etbVXafU6f/73413
-#EXTINF:0, ahlakid.com - Alb: KTV  telekom
-http://new-pro.tv:8080/99622282/etbVXafU6f/173828
-#EXTINF:0, ahlakid.com - Alb: FAX News
-http://new-pro.tv:8080/99622282/etbVXafU6f/73433
-#EXTINF:0, ahlakid.com - Alb: RTV 21 NewsBiz
-http://new-pro.tv:8080/99622282/etbVXafU6f/318269
-#EXTINF:0, ahlakid.com - Alb: Euronews Albania
-http://new-pro.tv:8080/99622282/etbVXafU6f/73438
-#EXTINF:0, ahlakid.com - Alb: ALB UK
-http://new-pro.tv:8080/99622282/etbVXafU6f/318322
-#EXTINF:0, ahlakid.com - Alb: Arti TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318275
-#EXTINF:0, ahlakid.com - Alb: E Gjurmet Shqiptare
-http://new-pro.tv:8080/99622282/etbVXafU6f/318295
-#EXTINF:0, ahlakid.com - Alb: Antena Shkoder
-http://new-pro.tv:8080/99622282/etbVXafU6f/173825
-#EXTINF:0, ahlakid.com - Alb: TV Liria
-http://new-pro.tv:8080/99622282/etbVXafU6f/318288
-#EXTINF:0, ahlakid.com - Alb: TV Teuta
-http://new-pro.tv:8080/99622282/etbVXafU6f/321618
-#EXTINF:0, ahlakid.com - Alb: TV Globi
-http://new-pro.tv:8080/99622282/etbVXafU6f/265964
-#EXTINF:0, ahlakid.com - Alb: Syri TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318282
-#EXTINF:0, ahlakid.com - Alb: City TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318315
-#EXTINF:0, ahlakid.com - Alb: Fox
-http://new-pro.tv:8080/99622282/etbVXafU6f/133800
-#EXTINF:0, ahlakid.com - Alb: Dasma TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133877
-#EXTINF:0, ahlakid.com - Alb: A2 CNN
-http://new-pro.tv:8080/99622282/etbVXafU6f/73434
-#EXTINF:0, ahlakid.com - Alb: Channel One
-http://new-pro.tv:8080/99622282/etbVXafU6f/318277
-#EXTINF:0, ahlakid.com - Alb: TV Syri Vision
-http://new-pro.tv:8080/99622282/etbVXafU6f/73466
-#EXTINF:0, ahlakid.com - Alb: Scan TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318299
-#EXTINF:0, ahlakid.com - Alb: Drita TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/173831
-#EXTINF:0, ahlakid.com - Alb: Fontana
-http://new-pro.tv:8080/99622282/etbVXafU6f/173843
-#EXTINF:0, ahlakid.com - Alb: TV Prizreni
-http://new-pro.tv:8080/99622282/etbVXafU6f/318291
-#EXTINF:0, ahlakid.com - Alb: TV Mitrovica
-http://new-pro.tv:8080/99622282/etbVXafU6f/318290
-#EXTINF:0, ahlakid.com - Alb: Sofia HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133861
-#EXTINF:0, ahlakid.com - Alb: TV Uskana
-http://new-pro.tv:8080/99622282/etbVXafU6f/318292
-#EXTINF:0, ahlakid.com - Alb: TV Dielli
-http://new-pro.tv:8080/99622282/etbVXafU6f/73459
-#EXTINF:0, ahlakid.com - Alb: TV Opoja
-http://new-pro.tv:8080/99622282/etbVXafU6f/133878
-#EXTINF:0, ahlakid.com - Alb: Tetova Action
-http://new-pro.tv:8080/99622282/etbVXafU6f/173899
-#EXTINF:0, ahlakid.com - Alb: MRT 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/133763
-#EXTINF:0, ahlakid.com - Alb: Apollon News TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318274
-#EXTINF:0, ahlakid.com - Alb: TV Shenja
-http://new-pro.tv:8080/99622282/etbVXafU6f/73465
-#EXTINF:0, ahlakid.com - Alb: Channel 7
-http://new-pro.tv:8080/99622282/etbVXafU6f/318276
-#EXTINF:0, ahlakid.com - Alb: 24 Kitchen
-http://new-pro.tv:8080/99622282/etbVXafU6f/173818
-#EXTINF:0, ahlakid.com - Alb: Boin
-http://new-pro.tv:8080/99622282/etbVXafU6f/133775
-#EXTINF:0, ahlakid.com - Alb: Star+ Shkodra
-http://new-pro.tv:8080/99622282/etbVXafU6f/265953
-#EXTINF:0, ahlakid.com - Alb: Nat Geo FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133846
-#EXTINF:0, ahlakid.com - Alb: Discovery Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173830
-#EXTINF:0, ahlakid.com - Alb: Travel Channel FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133847
-#EXTINF:0, ahlakid.com - Alb: E Shkenca HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318294
-#EXTINF:0, ahlakid.com - Alb: E Histori HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318303
-#EXTINF:0, ahlakid.com - Alb: E Natyra HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318304
-#EXTINF:0, ahlakid.com - Alb: E Cifteli HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318312
-#EXTINF:0, ahlakid.com - Alb: E Popullore HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318313
-#EXTINF:0, ahlakid.com - Alb: Explorer Natyra HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133838
-#EXTINF:0, ahlakid.com - Alb: Explorer Shkenca
-http://new-pro.tv:8080/99622282/etbVXafU6f/133837
-#EXTINF:0, ahlakid.com - Alb: Popullore 21 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173857
-#EXTINF:0, ahlakid.com - Alb: RTV 21 Mix
-http://new-pro.tv:8080/99622282/etbVXafU6f/73473
-#EXTINF:0, ahlakid.com - Alb: RTV 21 Plus HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73474
-#EXTINF:0, ahlakid.com - Alb: Top Estrada
-http://new-pro.tv:8080/99622282/etbVXafU6f/318297
-#EXTINF:0, ahlakid.com - Alb: Super Sonic Tv
-http://new-pro.tv:8080/99622282/etbVXafU6f/173874
-#EXTINF:0, ahlakid.com - Alb: My Music
-http://new-pro.tv:8080/99622282/etbVXafU6f/133876
-#EXTINF:0, ahlakid.com - Alb: Film Shqip
-http://new-pro.tv:8080/99622282/etbVXafU6f/321610
-#EXTINF:0, ahlakid.com - Alb: A-Mol TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/173819
-#EXTINF:0, ahlakid.com - Alb: STV Folk
-http://new-pro.tv:8080/99622282/etbVXafU6f/133881
-#EXTINF:0, ahlakid.com - Alb: E Music Hits HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318314
-#EXTINF:0, ahlakid.com - Alb: Shota TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/318317
-#EXTINF:0, ahlakid.com - Alb: Folk
-http://new-pro.tv:8080/99622282/etbVXafU6f/173842
-#EXTINF:0, ahlakid.com - Alb: Folk +
-http://new-pro.tv:8080/99622282/etbVXafU6f/133872
-#EXTINF:0, ahlakid.com - Alb: Music Al
-http://new-pro.tv:8080/99622282/etbVXafU6f/173854
-#EXTINF:0, ahlakid.com - Alb: MTV Kosova
-http://new-pro.tv:8080/99622282/etbVXafU6f/318307
-#EXTINF:0, ahlakid.com - Alb: Syri Blue
-http://new-pro.tv:8080/99622282/etbVXafU6f/173875
-#EXTINF:0, ahlakid.com - Alb: RTV ILIRIDA
-http://new-pro.tv:8080/99622282/etbVXafU6f/321625
-#EXTINF:0, ahlakid.com - Alb: ALB UK Music
-http://new-pro.tv:8080/99622282/etbVXafU6f/133888
-#EXTINF:0, ahlakid.com - Alb: RTV 21 Junior
-http://new-pro.tv:8080/99622282/etbVXafU6f/73470
-#EXTINF:0, ahlakid.com - Alb: Baby TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133862
-#EXTINF:0, ahlakid.com - Alb: Junior TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133860
-#EXTINF:0, ahlakid.com - Alb: Jim Jim
-http://new-pro.tv:8080/99622282/etbVXafU6f/173847
-#EXTINF:0, ahlakid.com - Alb: Tom  and  Jerry HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133855
-#EXTINF:0, ahlakid.com - Alb: Boomerang
-http://new-pro.tv:8080/99622282/etbVXafU6f/133863
-#EXTINF:0, ahlakid.com - Alb: Bang Bang
-http://new-pro.tv:8080/99622282/etbVXafU6f/133853
-#EXTINF:0, ahlakid.com - Alb: Tring Kids
-http://new-pro.tv:8080/99622282/etbVXafU6f/133857
-#EXTINF:0, ahlakid.com - Alb: KS Humor HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133787
-#EXTINF:0, ahlakid.com - Alb: Living FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133840
-#EXTINF:0, ahlakid.com - Alb: Jolly HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133811
-#EXTINF:0, ahlakid.com - Alb: Max HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73418
-#EXTINF:0, ahlakid.com - Alb: Stinet
-http://new-pro.tv:8080/99622282/etbVXafU6f/133776
-#EXTINF:0, ahlakid.com - Alb: Tip TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173881
-#EXTINF:0, ahlakid.com - Alb: Family HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/321628
-#EXTINF:0, ahlakid.com - Alb: Film Aksion
-http://new-pro.tv:8080/99622282/etbVXafU6f/73422
-#EXTINF:0, ahlakid.com - Alb: Film Hits
-http://new-pro.tv:8080/99622282/etbVXafU6f/73421
-#EXTINF:0, ahlakid.com - Alb: Film Thriller
-http://new-pro.tv:8080/99622282/etbVXafU6f/73423
-#EXTINF:0, ahlakid.com - Alb: Film Komedi
-http://new-pro.tv:8080/99622282/etbVXafU6f/73425
-#EXTINF:0, ahlakid.com - Alb: Film Stinet
-http://new-pro.tv:8080/99622282/etbVXafU6f/133797
-#EXTINF:0, ahlakid.com - Alb: FilmBox Extra
-http://new-pro.tv:8080/99622282/etbVXafU6f/73477
-#EXTINF:0, ahlakid.com - Alb: Film24 Histori
-http://new-pro.tv:8080/99622282/etbVXafU6f/318308
-#EXTINF:0, ahlakid.com - Alb: Filma 24 Horror
-http://new-pro.tv:8080/99622282/etbVXafU6f/321544
-#EXTINF:0, ahlakid.com - Alb: Gold HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73417
-#EXTINF:0, ahlakid.com - Alb: DIGI Gold HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133813
-#EXTINF:0, ahlakid.com - Alb: DIGI Gold 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133814
-#EXTINF:0, ahlakid.com - Alb: Digi Gold 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/318301
-#EXTINF:0, ahlakid.com - Alb: Tring Super
-http://new-pro.tv:8080/99622282/etbVXafU6f/133804
-#EXTINF:0, ahlakid.com - Alb: Tring Novelas
-http://new-pro.tv:8080/99622282/etbVXafU6f/321558
-#EXTINF:0, ahlakid.com - Alb: Tring Comedy
-http://new-pro.tv:8080/99622282/etbVXafU6f/133807
-#EXTINF:0, ahlakid.com - Alb: Tring History
-http://new-pro.tv:8080/99622282/etbVXafU6f/133843
-#EXTINF:0, ahlakid.com - Alb: Tring Life
-http://new-pro.tv:8080/99622282/etbVXafU6f/133808
-#EXTINF:0, ahlakid.com - Alb: Tring Muse
-http://new-pro.tv:8080/99622282/etbVXafU6f/133778
-#EXTINF:0, ahlakid.com - Alb: Tring Planet
-http://new-pro.tv:8080/99622282/etbVXafU6f/133842
-#EXTINF:0, ahlakid.com - Alb: Tring Fantasy
-http://new-pro.tv:8080/99622282/etbVXafU6f/133809
-#EXTINF:0, ahlakid.com - Alb: Tring Shqip
-http://new-pro.tv:8080/99622282/etbVXafU6f/133810
-#EXTINF:0, ahlakid.com - Alb: Tring Smile
-http://new-pro.tv:8080/99622282/etbVXafU6f/133812
-#EXTINF:0, ahlakid.com - Alb: Tring World
-http://new-pro.tv:8080/99622282/etbVXafU6f/133841
-#EXTINF:0, ahlakid.com - Alb: Tring 3+
-http://new-pro.tv:8080/99622282/etbVXafU6f/133803
-#EXTINF:0, ahlakid.com - Alb: Tring Jolly HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/265950
-#EXTINF:0, ahlakid.com - Alb: TLC
-http://new-pro.tv:8080/99622282/etbVXafU6f/173882
-#EXTINF:0, ahlakid.com - Alb: X Comedy HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173902
-#EXTINF:0, ahlakid.com - Alb: X Natyra HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173911
-#EXTINF:0, ahlakid.com - Alb: X Cifteli HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/318321
-#EXTINF:0, ahlakid.com - Alb: X Dark
-http://new-pro.tv:8080/99622282/etbVXafU6f/321531
-#EXTINF:0, ahlakid.com - Alb: X Premium 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/321528
-#EXTINF:0, ahlakid.com - Alb: X Gold 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/173906
-#EXTINF:0, ahlakid.com - Alb: X Premium 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133820
-#EXTINF:0, ahlakid.com - Alb: X Kids
-http://new-pro.tv:8080/99622282/etbVXafU6f/173909
-#EXTINF:0, ahlakid.com - Alb: Ks Thriller HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133828
-#EXTINF:0, ahlakid.com - Alb: Ks Romance HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133827
-#EXTINF:0, ahlakid.com - Alb: Tele One 3 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173877
-#EXTINF:0, ahlakid.com - Alb: Tele One 4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173878
-#EXTINF:0, ahlakid.com - Alb: Tele One 5 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173879
-#EXTINF:0, ahlakid.com - Alb: Sky Aksion
-http://new-pro.tv:8080/99622282/etbVXafU6f/133834
-#EXTINF:0, ahlakid.com - Alb: Sky Drame
-http://new-pro.tv:8080/99622282/etbVXafU6f/133835
-#EXTINF:0, ahlakid.com - Alb: Sky Max
-http://new-pro.tv:8080/99622282/etbVXafU6f/133833
-#EXTINF:0, ahlakid.com - Alb: Sky Novela
-http://new-pro.tv:8080/99622282/etbVXafU6f/133836
-#EXTINF:0, ahlakid.com - Alb: Sky Shkenc
-http://new-pro.tv:8080/99622282/etbVXafU6f/173865
-#EXTINF:0, ahlakid.com - Alb: Sky Histori
-http://new-pro.tv:8080/99622282/etbVXafU6f/318306
-#EXTINF:0, ahlakid.com - Alb: Fox Life
-http://new-pro.tv:8080/99622282/etbVXafU6f/133802
-#EXTINF:0, ahlakid.com - Alb: Fox Movies
-http://new-pro.tv:8080/99622282/etbVXafU6f/318311
-#EXTINF:0, ahlakid.com - Alb: Euro
-http://new-pro.tv:8080/99622282/etbVXafU6f/318320
-#EXTINF:0, ahlakid.com - Alb: Art Kino 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73481
-#EXTINF:0, ahlakid.com - Alb: Art Doku 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73486
-#EXTINF:0, ahlakid.com - Alb: Rtv Pendimi
-http://new-pro.tv:8080/99622282/etbVXafU6f/133768
-#EXTINF:0, ahlakid.com - Alb: Peace TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/133769
-#EXTINF:0, ahlakid.com - Alb: Medina Live
-http://new-pro.tv:8080/99622282/etbVXafU6f/133772
-#EXTINF:0, ahlakid.com - Alb: Mekka Live
-http://new-pro.tv:8080/99622282/etbVXafU6f/173853
-#EXTINF:0, ahlakid.com - Alb: Peace TV Anglisht
-http://new-pro.tv:8080/99622282/etbVXafU6f/133770
-#EXTINF:0, ahlakid.com - Alb: Elrodi TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133871
-#EXTINF:0, ahlakid.com - Alb: Eurosport 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73500
-#EXTINF:0, ahlakid.com - Alb: Eurosport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73501
-#EXTINF:0, ahlakid.com - Alb: Super Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73492
-#EXTINF:0, ahlakid.com - Alb: Super Sport 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/246097
-#EXTINF:0, ahlakid.com - Alb: Super Sport  4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/73494
-#EXTINF:0, ahlakid.com - Alb: Super Sport 5 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133897
-#EXTINF:0, ahlakid.com - Alb: Super Sport 6 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173867
-#EXTINF:0, ahlakid.com - Alb: Super Sport Kosova 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/173872
-#EXTINF:0, ahlakid.com - Alb: Tring Sport 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/73496
-#EXTINF:0, ahlakid.com - Alb: Tring Sport 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/73498
-#EXTINF:0, ahlakid.com - Alb: Tring Sport 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/73499
-#EXTINF:0, ahlakid.com - Alb: Art Sport 1 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133903
-#EXTINF:0, ahlakid.com - Alb: Art Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/133904
-#EXTINF:0, ahlakid.com - Alb: Art Sport 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/321563
