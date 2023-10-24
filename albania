@@ -1,14 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
+http://109.236.44.157:2121/topchannel
+#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Channel",Klan HD
+http://109.236.44.157:2121/klan
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
+http://109.236.44.157:2121/klanplus
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
+http://109.236.44.157:2121/vizion
 #EXTINF:-1 tvg-id="" tvg-name="News 24 Albania (392P)" tvg-logo="" group-title="Channel",News 24 Albania (392P)
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 24 (392P) " tvg-logo="" group-title="Channel",News 24 (392P) 
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bbc World News (576P)" tvg-logo="" group-title="Channel",Bbc World News (576P)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panorama HD" tvg-logo="" group-title="Channel",Panorama HD
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 7 Albania (540P) " tvg-logo="" group-title="Channel",TV 7 Albania (540P) 
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arta News HD" tvg-logo="" group-title="Channel",Arta News HD
 http://84.22.33.254/unicast.artanews/index.m3u8?token=1
 #EXTINF:-1 tvg-id="" tvg-name="Rtk Sat" tvg-logo="" group-title="Channel",Rtk Sat
@@ -21,10 +25,8 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diaspora TV" tvg-logo="" group-title="Channel",Diaspora TV
-http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja (720P) Not 24/7" tvg-logo="" group-title="Channel",TV Opoja (720P) Not 24/7
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peace TV Albanian (360P)" tvg-logo="" group-title="Channel",Peace TV Albanian (360P)
@@ -37,72 +39,16 @@ http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
 http://144.76.100.109/tvilirida/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Music" tvg-logo="" group-title="Channel",Rtv Ilirida Music
 http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Muzike" tvg-logo="" group-title="Channel",Rtv Ilirida Muzike
-http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premium Travel" tvg-logo="" group-title="Channel",Premium Travel
 http://premiummedia.al/stream/premium-travel/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teuta TV" tvg-logo="" group-title="Channel",Teuta TV
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvã¢â Korca HD" tvg-logo="" group-title="Channel",Tvã¢â Korca HD
+http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Korca Plus" tvg-logo="" group-title="Channel",Korca Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ntv HD" tvg-logo="" group-title="Channel",Ntv HD
-http://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galicia TV Europa (720P)" tvg-logo="" group-title="Channel",Galicia TV Europa (720P)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
-http://109.236.44.157:2121/vizion
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
-http://109.236.44.157:2121/topchannel
-#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Channel",Klan HD
-http://109.236.44.157:2121/klan
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
-http://109.236.44.157:2121/klanplus
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="Channel",Klan Kosova HD
-http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2561
-#EXTINF:-1 tvg-id="" tvg-name="Tvâ Korca HD" tvg-logo="" group-title="Channel",Tvâ Korca HD
-http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV News HD" tvg-logo="" group-title="Channel",TV News HD
 http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globe TV" tvg-logo="" group-title="Channel",Globe TV
-http://italbania.live/globetv/tibo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="" group-title="Channel",TV Johaniter
-http://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbfâ Music" tvg-logo="" group-title="Channel",Bbfâ Music
-http://146.59.19.1:80/5044/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
-http://146.59.19.1:80/5045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Stories" tvg-logo="" group-title="Channel",Tring Stories
-http://95.107.132.103/out/u/gthmsdmgfamdg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
-http://95.107.132.105/out/u/228_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Super HD" tvg-logo="" group-title="Channel",Tring Super HD
-http://146.59.19.1:80/5018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Action HD" tvg-logo="" group-title="Channel",Tring Action HD
-http://146.59.19.1:80/5019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Series HD" tvg-logo="" group-title="Channel",Tring Series HD
-http://146.59.19.1:80/5012/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3Plus" tvg-logo="" group-title="Channel",Tring 3Plus
-http://146.59.19.1:80/5013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
-http://146.59.19.1:80/5015/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
-http://146.59.19.1:80/5020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="Channel",Tring Comedy
-http://146.59.19.1:80/5017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
-http://146.59.19.1:80/5014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Original" tvg-logo="" group-title="Channel",Tring Original
-http://146.59.19.1:80/5025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Kanal D HD" tvg-logo="" group-title="Channel",Tring Kanal D HD
-http://146.59.19.1:80/5062/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="Channel",Rai 1
-http://142.132.151.149/RAI1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="Channel",Rai 2
-http://142.132.151.149/RAI2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
-http://142.132.151.149/RAI3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 4" tvg-logo="" group-title="Channel",Rai 4
-http://142.132.151.149/RAI4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oversport 1Hd" tvg-logo="" group-title="Channel",Oversport 1Hd
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46984
 #EXTINF:-1 tvg-id="" tvg-name="Oversport 2Hd" tvg-logo="" group-title="Channel",Oversport 2Hd
@@ -115,9 +61,19 @@ http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46987
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport2" tvg-logo="" group-title="Channel",Eleven Sport2
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="" group-title="Channel",History FHD
-http://supertv.red:80/nii5jn8d/gz6su0qk/100596.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="" group-title="Channel",H2 FHD
-http://supertv.red:80/nii5jn8d/gz6su0qk/100593.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD" tvg-logo="" group-title="Channel",Nat Geo FHD
-http://supertv.red:80/nii5jn8d/gz6su0qk/100583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tvâ Korca HD" tvg-logo="" group-title="Channel",Tvâ Korca HD
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV News HD" tvg-logo="" group-title="Channel",TV News HD
+http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globe TV" tvg-logo="" group-title="Channel",Globe TV
+http://italbania.live/globetv/tibo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="" group-title="Channel",TV Johaniter
+http://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="Channel",Rai 1
+http://142.132.151.149/RAI1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="Channel",Rai 2
+http://142.132.151.149/RAI2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
+http://142.132.151.149/RAI3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4" tvg-logo="" group-title="Channel",Rai 4
+http://142.132.151.149/RAI4/index.m3u8
