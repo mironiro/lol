@@ -1,79 +1,431 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
-http://109.236.44.157:2121/topchannel
-#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="Channel",Klan HD
-http://109.236.44.157:2121/klan
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="" group-title="Channel",Klan Plus HD
-http://109.236.44.157:2121/klanplus
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="Channel",Vizion Plus HD
-http://109.236.44.157:2121/vizion
-#EXTINF:-1 tvg-id="" tvg-name="News 24 Albania (392P)" tvg-logo="" group-title="Channel",News 24 Albania (392P)
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 (392P) " tvg-logo="" group-title="Channel",News 24 (392P) 
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbc World News (576P)" tvg-logo="" group-title="Channel",Bbc World News (576P)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arta News HD" tvg-logo="" group-title="Channel",Arta News HD
-http://84.22.33.254/unicast.artanews/index.m3u8?token=1
-#EXTINF:-1 tvg-id="" tvg-name="Rtk Sat" tvg-logo="" group-title="Channel",Rtk Sat
-http://edge01eu.ekranet.com/rtk1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prince Kids" tvg-logo="" group-title="Channel",Prince Kids
-http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja (720P) " tvg-logo="" group-title="Channel",TV Opoja (720P) 
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV (720P) " tvg-logo="" group-title="Channel",Syri TV (720P) 
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Channel",TV Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja (720P) Not 24/7" tvg-logo="" group-title="Channel",TV Opoja (720P) Not 24/7
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wow TV" tvg-logo="" group-title="Channel",Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV Albanian (360P)" tvg-logo="" group-title="Channel",Peace TV Albanian (360P)
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi (720P)" tvg-logo="" group-title="Channel",Rtv Pendimi (720P)
-http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Film" tvg-logo="" group-title="Channel",Rtv Ilirida Film
-http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida HD" tvg-logo="" group-title="Channel",Rtv Ilirida HD
-http://144.76.100.109/tvilirida/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Ilirida Music" tvg-logo="" group-title="Channel",Rtv Ilirida Music
-http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premium Travel" tvg-logo="" group-title="Channel",Premium Travel
-http://premiummedia.al/stream/premium-travel/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teuta TV" tvg-logo="" group-title="Channel",Teuta TV
-http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvã¢â Korca HD" tvg-logo="" group-title="Channel",Tvã¢â Korca HD
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Korca Plus" tvg-logo="" group-title="Channel",Korca Plus
-http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV News HD" tvg-logo="" group-title="Channel",TV News HD
-http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oversport 1Hd" tvg-logo="" group-title="Channel",Oversport 1Hd
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46984
-#EXTINF:-1 tvg-id="" tvg-name="Oversport 2Hd" tvg-logo="" group-title="Channel",Oversport 2Hd
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46985
-#EXTINF:-1 tvg-id="" tvg-name="Oversport 3Hd" tvg-logo="" group-title="Channel",Oversport 3Hd
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46986
-#EXTINF:-1 tvg-id="" tvg-name="Oversport 4Hd" tvg-logo="" group-title="Channel",Oversport 4Hd
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46987
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport1" tvg-logo="" group-title="Channel",Eleven Sport1
-http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport2" tvg-logo="" group-title="Channel",Eleven Sport2
-http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvâ Korca HD" tvg-logo="" group-title="Channel",Tvâ Korca HD
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV News HD" tvg-logo="" group-title="Channel",TV News HD
-http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globe TV" tvg-logo="" group-title="Channel",Globe TV
-http://italbania.live/globetv/tibo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="" group-title="Channel",TV Johaniter
-http://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="Channel",Rai 1
-http://142.132.151.149/RAI1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="Channel",Rai 2
-http://142.132.151.149/RAI2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="Channel",Rai 3
-http://142.132.151.149/RAI3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 4" tvg-logo="" group-title="Channel",Rai 4
-http://142.132.151.149/RAI4/index.m3u8
+#EXTINF:-1,Big Brother VIP Kos 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/89641
+#EXTINF:-1,Big Brother VIP Kos 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/89640
+#EXTINF:-1,RTK 1 Sat AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9458
+#EXTINF:-1,RTK 1 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22814
+#EXTINF:-1,RTK 2 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7061
+#EXTINF:-1,RTK 3 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7036
+#EXTINF:-1,RTK 4 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7037
+#EXTINF:-1,RTV 21 (Backup) AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9451
+#EXTINF:-1,RTV 21 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3832
+#EXTINF:-1,RTV 21 Maqedonia AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9453
+#EXTINF:-1,KTV Kohavision AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7065
+#EXTINF:-1,Klan Kosova AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4189
+#EXTINF:-1,Klan Kosova FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9455
+#EXTINF:-1,T7 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20167
+#EXTINF:-1,T7 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/23108
+#EXTINF:-1,Dukagjini AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/96435
+#EXTINF:-1,Dukagjini FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4236
+#EXTINF:-1,Klan HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9454
+#EXTINF:-1,Klan FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3800
+#EXTINF:-1,Klan Plus HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7074
+#EXTINF:-1,Top Channel (Backup) AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9457
+#EXTINF:-1,Top Channel FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4178
+#EXTINF:-1,Alsat M AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6259
+#EXTINF:-1,Alsat M (Backup) AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9450
+#EXTINF:-1,Alsat M FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22783
+#EXTINF:-1,Vizion Plus HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4214
+#EXTINF:-1,Vizion Plus (Backup) AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9463
+#EXTINF:-1,First Channel Kosova AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12044
+#EXTINF:-1,arta TV HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/21901
+#EXTINF:-1,Koha TV HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/19145
+#EXTINF:-1,RTSH Shqip AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/19478
+#EXTINF:-1,RTSH 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/15632
+#EXTINF:-1,RTSH 2 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/19480
+#EXTINF:-1,RTSH 3 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20168
+#EXTINF:-1,TV Mitrovica AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12037
+#EXTINF:-1,TV Prizreni AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/43387
+#EXTINF:-1,RTV 21 Plus FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8455
+#EXTINF:-1,RTV 21 Popullore AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6257
+#EXTINF:-1,RTV 21 Popullore FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9452
+#EXTINF:-1,RTV Zeri Kosoves HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/17183
+#EXTINF:-1,RTV Fontana FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/24860
+#EXTINF:-1,X Çifteli HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22802
+#EXTINF:-1,X music hits HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22800
+#EXTINF:-1,X popullore HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22801
+#EXTINF:-1,TV Opoja AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/16475
+#EXTINF:-1,Dasma TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7076
+#EXTINF:-1,My Music AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7070
+#EXTINF:-1,Folk + AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6260
+#EXTINF:-1,Zjarr TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9372
+#EXTINF:-1,Besa TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9395
+#EXTINF:-1,TV Sharri AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9368
+#EXTINF:-1,Top Estrada AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12046
+#EXTINF:-1,Zico TV FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/23854
+#EXTINF:-1,RTSH Muzike AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20172
+#EXTINF:-1,Elrodi Music AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4235
+#EXTINF:-1,MTV Kosova AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12051
+#EXTINF:-1,E Stupcat AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/19545
+#EXTINF:-1,X humor HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22803
+#EXTINF:-1,E Premium 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12031
+#EXTINF:-1,E Premium 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12030
+#EXTINF:-1,E Premium 3 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12029
+#EXTINF:-1,E premium 4 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22787
+#EXTINF:-1,Digi Gold 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/15778
+#EXTINF:-1,Digi Gold 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/15779
+#EXTINF:-1,Digi Gold 3 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/16814
+#EXTINF:-1,Digi Gold 4 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/16815
+#EXTINF:-1,Art Kino 1 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28175
+#EXTINF:-1,Art Kino 3 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28177
+#EXTINF:-1,Film Hits AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3818
+#EXTINF:-1,Film Aksion HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3820
+#EXTINF:-1,Film Komedi AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3821
+#EXTINF:-1,Film Autor AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3803
+#EXTINF:-1,Film Thriller AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4193
+#EXTINF:-1,Film Dramë AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4194
+#EXTINF:-1,Euro Channel AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20180
+#EXTINF:-1,Eurofilm AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20191
+#EXTINF:-1,Sky Komedy AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9878
+#EXTINF:-1,Sky Drame AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8772
+#EXTINF:-1,Sky Aksion AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9134
+#EXTINF:-1,Star Plus AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8774
+#EXTINF:-1,RTSH film AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/17168
+#EXTINF:-1,Stinët AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/17171
+#EXTINF:-1,T HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7055
+#EXTINF:-1,Tring 3+ AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4237
+#EXTINF:-1,Tring Life HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4224
+#EXTINF:-1,Tring Series HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4227
+#EXTINF:-1,Tring Smile AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6258
+#EXTINF:-1,Tring Super AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4218
+#EXTINF:-1,Tring Shqip AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4219
+#EXTINF:-1,Tring Action AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4223
+#EXTINF:-1,Tring Comedy AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/2054
+#EXTINF:-1,Tring Planet AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6088
+#EXTINF:-1,Tring World AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4213
+#EXTINF:-1,Tring History AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4228
+#EXTINF:-1,Tring Fantasy AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4230
+#EXTINF:-1,X action HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22788
+#EXTINF:-1,X comedy HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22789
+#EXTINF:-1,X dark HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22792
+#EXTINF:-1,X histori HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22798
+#EXTINF:-1,Family HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22799
+#EXTINF:-1,X natyra HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22797
+#EXTINF:-1,X romance HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22794
+#EXTINF:-1,X drama HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22791
+#EXTINF:-1,X scyfy HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22793
+#EXTINF:-1,X shkenca HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22796
+#EXTINF:-1,X thriller HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22790
+#EXTINF:-1,X western HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22795
+#EXTINF:-1,X filma24 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22815
+#EXTINF:-1,E Action HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12047
+#EXTINF:-1,ALBUK HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12053
+#EXTINF:-1,Sky Planet AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20189
+#EXTINF:-1,Star Life AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3814
+#EXTINF:-1,Bang Bang AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7062
+#EXTINF:-1,Çufo AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4208
+#EXTINF:-1,Baby TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8410
+#EXTINF:-1,Tring Kids AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8773
+#EXTINF:-1,RTV 21 Junior AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/16804
+#EXTINF:-1,Junior TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/17182
+#EXTINF:-1,Top News AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4209
+#EXTINF:-1,ABC News AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6263
+#EXTINF:-1,News 24 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3795
+#EXTINF:-1,Ora News AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7066
+#EXTINF:-1,RTSH 24 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20173
+#EXTINF:-1,Kanali 7 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/19544
+#EXTINF:-1,E! AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7072
+#EXTINF:-1,Art Doku 1 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28178
+#EXTINF:-1,Discovery HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/11291
+#EXTINF:-1,Exp Shkencë AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4203
+#EXTINF:-1,Exp Natyra AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4202
+#EXTINF:-1,Exp Histori AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4204
+#EXTINF:-1,National Geographic AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3793
+#EXTINF:-1,Travel Channel AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7060
+#EXTINF:-1,Living HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9370
+#EXTINF:-1,SuperSport News FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22807
+#EXTINF:-1,SuperSport 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4198
+#EXTINF:-1,SuperSport 2 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22808
+#EXTINF:-1,SuperSport 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4199
+#EXTINF:-1,SuperSport 3 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22809
+#EXTINF:-1,SuperSport 4 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22810
+#EXTINF:-1,SuperSport 5 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22811
+#EXTINF:-1,RTSH Sport AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/15635
+#EXTINF:-1,Tring Sport News HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8077
+#EXTINF:-1,Tring Sport 1 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8078
+#EXTINF:-1,Tring Sport 2 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8079
+#EXTINF:-1,Tring Sport 3 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8080
+#EXTINF:-1,Tring Sport 4 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/8081
+#EXTINF:-1,K-Sport 1 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9150
+#EXTINF:-1,K-Sport 2 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9151
+#EXTINF:-1,K-Sport 3 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9152
+#EXTINF:-1,K-Sport 4 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9153
+#EXTINF:-1,Art Sport 1 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28182
+#EXTINF:-1,Art Sport 2 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28183
+#EXTINF:-1,E Thriller AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9143
+#EXTINF:-1,Ora TV HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12033
+#EXTINF:-1,Era TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/4231
+#EXTINF:-1,Star Channel AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9392
+#EXTINF:-1,Klan Macedonia AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/27538
+#EXTINF:-1,Scan AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/6092
+#EXTINF:-1,Novela AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/17181
+#EXTINF:-1,RTSH Plus AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/15633
+#EXTINF:-1,Report TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9366
+#EXTINF:-1,Shenja TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9399
+#EXTINF:-1,Syri TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/16571
+#EXTINF:-1,Syri Vision AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/20179
+#EXTINF:-1,TemaTV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9367
+#EXTINF:-1,Tip TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/7063
+#EXTINF:-1,TV Dielli AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/19542
+#EXTINF:-1,Euronews HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/34755
+#EXTINF:-1,Supersonic TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/3810
+#EXTINF:-1,TDC AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/38606
+#EXTINF:-1,Kanal 10 AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/53152
+#EXTINF:-1,Kanal D Drama FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/56168
+#EXTINF:-1,First Channel Kosova FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/66309
+#EXTINF:-1,A TV HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/73298
+#EXTINF:-1,Art Kino 2 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28176
+#EXTINF:-1,Art Sport 3 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28184
+#EXTINF:-1,KTV Kohavision FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/9456
+#EXTINF:-1,Art Doku 2 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/28179
+#EXTINF:-1,Art Sport 4 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/89864
+#EXTINF:-1,Art Sport 5 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/89865
+#EXTINF:-1,Art Sport 6 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/89866
+#EXTINF:-1,E Humor AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/12050
+#EXTINF:-1,Film Gold FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/91872
+#EXTINF:-1,Film Max FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/91873
+#EXTINF:-1,TV Llapi AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/93094
+#EXTINF:-1,Tring Novelas FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/93395
+#EXTINF:-1,Over Sport 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/97791
+#EXTINF:-1,Over Sport 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/97792
+#EXTINF:-1,Over Sport 3 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/97793
+#EXTINF:-1,Over Sport 4 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/97794
+#EXTINF:-1,Tëvë 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/99872
+#EXTINF:-1,SuperSport 7 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22813
+#EXTINF:-1,SuperSport 6 FHD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/22812
+#EXTINF:-1,Dark Hits HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115133
+#EXTINF:-1,Dark Kafeneja Jone HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115134
+#EXTINF:-1,Dark Stupcat Egjeli HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115135
+#EXTINF:-1,Dark Netflix 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115136
+#EXTINF:-1,Dark Netflix 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115137
+#EXTINF:-1,Dark Netflix 3 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115138
+#EXTINF:-1,Dark Netflix 4 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115139
+#EXTINF:-1,Dark Popullore HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/115140
+#EXTINF:-1,Tëvë Doku 1 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/116968
+#EXTINF:-1,Tëvë Doku 2 HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/116969
+#EXTINF:-1,Tëvë Novela HD AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/116971
+#EXTINF:-1,A2 CNN AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126048
+#EXTINF:-1,Klan News AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126049
+#EXTINF:-1,Klan Music AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126050
+#EXTINF:-1,24 Kitchen AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126253
+#EXTINF:-1,Star Movies AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126254
+#EXTINF:-1,Fax News AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126255
+#EXTINF:-1,MCN TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126257
+#EXTINF:-1,Melody TV AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126258
+#EXTINF:-1,STV Folk AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126259
+#EXTINF:-1,Nickelodeon AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126260
+#EXTINF:-1,Nicktoons AL
+http://45.12.1.14:80/cuwsTAdCZkBr815/NgFIel928/126261
