@@ -1,44 +1,34 @@
 #EXTM3U
-#EXTINF:-1,Top Channel HD
-http://109.236.44.157:2121/topchannel
-#EXTINF:-1,Klan HD
-http://109.236.44.157:2121/klan
-#EXTINF:-1,Klan TV
-http://cdn.one.al/live/infinite/TV_KLAN/hls-fta/TV_KLAN.m3u8
-#EXTINF:-1,ABC
-http://cdn.one.al/live/infinite/ABC_News/hls-fta/ABC_News.m3u8
-#EXTINF:-1,News 24
-http://cdn.one.al/live/infinite/News_24/hls-fta/News_24.m3u8
-#EXTINF:-1,Klan Plus HD
-http://109.236.44.157:2121/klanplus
+#EXTINF:-1,Vizion +
+http://95.107.132.40:85/m3u8/vizion.m3u8
+#EXTINF:-1,Syri TV (720p) [Not 24/7]
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1,News 24 Albania (392P)
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,News 24 (392P) 
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1,Bbc World News (576P)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,Arta News HD
-http://84.22.33.254/unicast.artanews/index.m3u8?token=1
-#EXTINF:-1,Rtk Sat
-http://edge01eu.ekranet.com/rtk1/index.m3u8
+#EXTINF:-1,Panorama TV (720p) [Not 24/7]
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1,Tring Shqip
+http://136.243.32.241:8081/yWbXvr1S/tringshqip_720p/playlist.m3u8
 #EXTINF:-1,Prince Kids
 http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
-#EXTINF:-1,TV Opoja (720P) 
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,Syri TV
-http://cdn.one.al/live/infinite/Syri_TV/hls-fta/Syri_TV.m3u8
-#EXTINF:-1,Syri TV (720P) 
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1,TV Dielli
+#EXTINF:-1,RTV 21
+http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
+#EXTINF:-1,RTV Dukagjini
+http://amdcam.tibo.tv:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
+#EXTINF:-1,AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:-1,TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1,TV Dielli (720p) [Not 24/7]
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1,TV Opoja (720P) Not 24/7
+#EXTINF:-1,TV Opoja (720p) [Not 24/7]
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
 #EXTINF:-1,Peace TV Albanian (360P)
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1,Rtv Pendimi (720P)
-http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
 #EXTINF:-1,Rtv Ilirida Film
 http://144.76.100.109/filma/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rtv Ilirida HD
@@ -51,11 +41,5 @@ http://premiummedia.al/stream/premium-travel/live.m3u8
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Eleven Sport2
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-#EXTINF:-1,Tvâ Korca HD
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1,TV News HD
-http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
 #EXTINF:-1,Globe TV
 http://italbania.live/globetv/tibo/index.m3u8
-#EXTINF:-1,TV Johaniter
-http://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
