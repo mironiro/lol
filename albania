@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1,Vizion +
 http://95.107.132.40:85/m3u8/vizion.m3u8
-#EXTINF:-1,Syri TV (720p) [Not 24/7]
+#EXTINF:-1,Syri TV (720P) Not 24/7
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1,News 24 Albania (392P)
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,News 24 (392P) 
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1,Panorama TV (720p) [Not 24/7]
+#EXTINF:-1,Panorama TV (720P) Not 24/7
 http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:-1,Tring Shqip
 http://136.243.32.241:8081/yWbXvr1S/tringshqip_720p/playlist.m3u8
 #EXTINF:-1,Prince Kids
 http://nextsmarters.xyz:80/get.php?username=ProfessoR&password=MonachellO&type=m3u
-#EXTINF:-1,RTV 21
+#EXTINF:-1,Rtv 21
 http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
-#EXTINF:-1,RTV Dukagjini
+#EXTINF:-1,Rtv Dukagjini
 http://amdcam.tibo.tv:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
-#EXTINF:-1,AlbDreams TV (720p)
+#EXTINF:-1,Albdreams TV (720P)
 http://live.albavision.net:1123/live/albdreams.m3u8
-#EXTINF:-1,TopEstrada TV (720p)
+#EXTINF:-1,Topestrada TV (720P)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1,TV Dielli (720p) [Not 24/7]
+#EXTINF:-1,TV Dielli (720P) Not 24/7
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1,TV Opoja (720p) [Not 24/7]
+#EXTINF:-1,TV Opoja (720P) Not 24/7
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunks.m3u8
@@ -43,3 +43,137 @@ http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
 #EXTINF:-1,Globe TV
 http://italbania.live/globetv/tibo/index.m3u8
+#EXTINF:-1,Big Brother 1 FHD
+http://94844463479769735.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/769735.ts
+#EXTINF:-1,Big Brother 2 FHD
+http://94844463479769736.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/769736.ts
+#EXTINF:-1,Top Channel HD
+http://94844463479737829.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/737829.ts
+#EXTINF:-1,Alsat M+ SD
+http://94844463479732634.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/732634.ts
+#EXTINF:-1,Klan Plus SD
+http://94844463479769563.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/769563.ts
+#EXTINF:-1,Klan Maqedoni FHD
+http://94844463479769912.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/769912.ts
+#EXTINF:-1,Klan Macedonia HD
+http://94844463479765719.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/765719.ts
+#EXTINF:-1,Klan TV FHD
+http://94844463479769915.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/769915.ts
+#EXTINF:-1,Rtk 1 HD
+http://82.114.82.90:1680/play/a00g/index.m3u8
+#EXTINF:-1,Rtk 2 HD
+http://82.114.82.90:1680/play/a005/index.m3u8
+#EXTINF:-1,Rtk 3
+http://82.114.82.90:1680/play/a05u/index.m3u8
+#EXTINF:-1,Rtk 4
+http://82.114.82.90:1680/play/a05w/index.m3u8
+#EXTINF:-1,Rts Drama
+http://82.114.82.90:1680/play/a073/index.m3u8
+#EXTINF:-1,Rts Kolo
+http://82.114.82.90:1680/play/a074/index.m3u8
+#EXTINF:-1,Rtv 21
+http://82.114.82.90:1680/play/a086/index.m3u8
+#EXTINF:-1,Rtv 21 M
+http://82.114.82.90:1680/play/a087/index.m3u8
+#EXTINF:-1,TV Mir
+http://82.114.82.90:1680/play/a01y/index.m3u8
+#EXTINF:-1,Tring Action HD
+http://82.114.82.90:1680/play/a00m/index.m3u8
+#EXTINF:-1,Tring Comedy
+http://82.114.82.90:1680/play/a00n/index.m3u8
+#EXTINF:-1,Tring Fantasy
+http://82.114.82.90:1680/play/a00t/index.m3u8
+#EXTINF:-1,Tring Life
+http://82.114.82.90:1680/play/a00s/index.m3u8
+#EXTINF:-1,Tring Series Jolly HD
+http://82.114.82.90:1680/play/a00p/index.m3u8
+#EXTINF:-1,Tring Shqip HD
+http://82.114.82.90:1680/play/a05y/index.m3u8
+#EXTINF:-1,Tring Super HD
+http://82.114.82.90:1680/play/a00o/index.m3u8
+#EXTINF:-1,4 Plus - Test
+http://185.200.215.248:8000/play/1/index.m3u8
+#EXTINF:-1,TV Opoja
+http://195.200.234.186:9000/play/a0012
+#EXTINF:-1,21 Mix
+http://195.200.234.186:9000/play/a05d
+#EXTINF:-1,Atv
+http://195.200.234.186:9000/play/a05j
+#EXTINF:-1,Arta News
+http://195.200.234.186:9000/play/a05b
+#EXTINF:-1,Firstchanel
+http://195.200.234.186:9000/play/a05w
+#EXTINF:-1,Infochannel
+http://195.200.234.186:9000/play/a060
+#EXTINF:-1,Rtk 2
+http://195.200.234.186:9000/play/a0017
+#EXTINF:-1,Rtk 3
+http://195.200.234.186:9000/play/a058
+#EXTINF:-1,Rtk 4
+http://195.200.234.186:9000/play/a059
+#EXTINF:-1,Rtv 21 Junior
+http://195.200.234.186:9000/play/a05e
+#EXTINF:-1,Rtv 21 Mk
+http://195.200.234.186:9000/play/a05f
+#EXTINF:-1,TV 21
+http://195.200.234.186:9000/play/a05c
+#EXTINF:-1,TV 21 Popullore
+http://195.200.234.186:9000/play/a05g
+#EXTINF:-1,TV Besa
+http://195.200.234.186:9000/play/a040
+#EXTINF:-1,TV Prizreni
+http://195.200.234.186:9000/play/a0010
+#EXTINF:-1,Abc News
+http://195.200.234.186:9001/play/a073
+#EXTINF:-1,Bulevard TV
+http://195.200.234.186:9001/play/a06v
+#EXTINF:-1,Cna.Al
+http://195.200.234.186:9001/play/a072
+#EXTINF:-1,Clover
+http://195.200.234.186:9001/play/a06b
+#EXTINF:-1,Ding Dong
+http://195.200.234.186:9001/play/a06a
+#EXTINF:-1,Fax News
+http://195.200.234.186:9001/play/a071
+#EXTINF:-1,Pro1
+http://195.200.234.186:9001/play/a06e
+#EXTINF:-1,Star Plus
+http://195.200.234.186:9001/play/a06c
+#EXTINF:-1,T-Action
+http://195.200.234.186:9001/play/a06i
+#EXTINF:-1,T-Comedy
+http://195.200.234.186:9001/play/a06j
+#EXTINF:-1,T-Doc
+http://195.200.234.186:9001/play/a067
+#EXTINF:-1,T-Drama   
+http://195.200.234.186:9001/play/a06r
+#EXTINF:-1,T-Prime 1
+http://195.200.234.186:9001/play/a06k
+#EXTINF:-1,T-Prime 2   
+http://195.200.234.186:9001/play/a06l
+#EXTINF:-1,T-Serial
+http://195.200.234.186:9001/play/a06z
+#EXTINF:-1,T-Thriller   
+http://195.200.234.186:9001/play/a06q
+#EXTINF:-1,Tibo News
+http://195.200.234.186:9001/play/a070
+#EXTINF:-1,TV Koha
+http://195.200.234.186:9001/play/a06f
+#EXTINF:-1,T-Doc 2
+http://195.200.234.186:9001/play/a064
+#EXTINF:-1,Euronews
+http://82.114.82.90:1680/play/a08j/index.m3u8
+#EXTINF:-1,Balkan Trip
+http://82.114.82.90:1680/play/a07j/index.m3u8
+#EXTINF:-1,Herc HD
+http://82.114.82.90:1680/play/a001/index.m3u8
+#EXTINF:-1,Ktv
+http://82.114.82.90:1680/play/a085/index.m3u8
+#EXTINF:-1,Ktv Zrenjanin
+http://82.114.82.90:1680/play/a07t/index.m3u8
+#EXTINF:-1,Most TV HD
+http://82.114.82.90:1680/play/a006/index.m3u8
+#EXTINF:-1,Puls TV HD
+http://82.114.82.90:1680/play/a007/index.m3u8
+#EXTINF:-1,Ksa Quran Makkah TV ` SD
+http://94844463479769926.ofnm1026.xyz:80/live/Ange31226/GFBDY92384/769926.ts
